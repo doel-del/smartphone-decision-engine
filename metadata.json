@@ -1,0 +1,9 @@
+{
+  "name": "Evidence-Based Smartphone Decision Engine",
+  "description": "Deterministic, rule-based smartphone evaluation engine. Derives scores from validated evidence JSON without LLM involvement.",
+  "version": "1.0.0",
+  "rulesetVersion": "1.0.0",
+  "evidenceDatasetVersion": "1.0.0",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
