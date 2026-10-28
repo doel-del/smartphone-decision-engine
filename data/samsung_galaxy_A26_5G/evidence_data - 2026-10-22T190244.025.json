@@ -1,0 +1,5913 @@
+[
+  {
+    "evidence_id": "c1qTN1rmO2g-E001",
+    "topic": "performance",
+    "subtopic": "exynos-1380",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan chipset Exynos 1380",
+    "value": null,
+    "unit": null,
+    "attribute": "chipset",
+    "attribute_value": "Exynos 1380",
+    "context": "Penggunaan chipset pada Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Pakai chipset Exynos 1380 yang tahun lalu dipakai Samsung A35 dan A54 2 tahun yang lalu",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 2,
+      "segment_end_index": 2,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:06,740",
+    "timestamp_end": "00:00:13,640",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E003",
+    "topic": "pricing",
+    "subtopic": "value-for-money",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung A26 5G harganya makin value for money",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Value for money Samsung Galaxy A26 5G",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "tentunya seri ini makin ngebut untuk sebuah hape kelas mid-range yang harganya makin value for money",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 3,
+      "segment_end_index": 3,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:13,960",
+    "timestamp_end": "00:00:18,480",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E004",
+    "topic": "software",
+    "subtopic": "update-os",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendapatkan jaminan update OS hingga 6 kali",
+    "value": 6,
+    "unit": "kali",
+    "attribute": "os_updates",
+    "attribute_value": null,
+    "context": "Jaminan pembaruan OS Android",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "dan ada jaminan update OS dan keamanan hingga 6 kali",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E005"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 4,
+      "segment_end_index": 4,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:18,940",
+    "timestamp_end": "00:00:25,379",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E005",
+    "topic": "software",
+    "subtopic": "keamanan",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendapatkan jaminan update keamanan hingga 6 kali",
+    "value": 6,
+    "unit": "kali",
+    "attribute": "security_updates",
+    "attribute_value": null,
+    "context": "Jaminan pembaruan sistem keamanan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "dan ada jaminan update OS dan keamanan hingga 6 kali",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E004"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 4,
+      "segment_end_index": 4,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:18,940",
+    "timestamp_end": "00:00:25,379",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E006",
+    "topic": "retail-package",
+    "subtopic": "edisi-free-fire",
+    "type": "OPINION",
+    "claim": "Reviewer menilai tampilan box edisi Free Fire cukup meriah",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain kemasan luar edisi khusus Free Fire",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Tampilan boxnya cukup meriah, karena memang edisi Free Fire",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 7,
+      "segment_end_index": 7,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:32,840",
+    "timestamp_end": "00:00:41,679",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E007",
+    "topic": "performance",
+    "subtopic": "ram",
+    "type": "FACT",
+    "claim": "Unit unboxing Samsung Galaxy A26 5G memiliki kapasitas RAM 8 GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": "ram_capacity",
+    "attribute_value": null,
+    "context": "Varian RAM unit yang diuji",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk unit yang kita unbox kali ini, varian memorinya RAM 8 GB dan storage 256 GB dan berwarna black",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E008",
+      "c1qTN1rmO2g-E009"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:52,880",
+    "timestamp_end": "00:00:58,359",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E008",
+    "topic": "performance",
+    "subtopic": "storage",
+    "type": "FACT",
+    "claim": "Unit unboxing Samsung Galaxy A26 5G memiliki kapasitas storage 256 GB",
+    "value": 256,
+    "unit": "GB",
+    "attribute": "storage_capacity",
+    "attribute_value": null,
+    "context": "Varian storage unit yang diuji",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk unit yang kita unbox kali ini, varian memorinya RAM 8 GB dan storage 256 GB dan berwarna black",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E009"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:52,880",
+    "timestamp_end": "00:00:58,359",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E009",
+    "topic": "design",
+    "subtopic": "black",
+    "type": "FACT",
+    "claim": "Unit unboxing Samsung Galaxy A26 5G berwarna black",
+    "value": null,
+    "unit": null,
+    "attribute": "color_option",
+    "attribute_value": "black",
+    "context": "Varian warna unit yang di-unbox",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk unit yang kita unbox kali ini, varian memorinya RAM 8 GB dan storage 256 GB dan berwarna black",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E007"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:52,880",
+    "timestamp_end": "00:00:58,359",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E010",
+    "topic": "retail-package",
+    "subtopic": "kabel-data",
+    "type": "FACT",
+    "claim": "Paket penjualan menyertakan kabel data USB-C to C",
+    "value": null,
+    "unit": null,
+    "attribute": "cable_type",
+    "attribute_value": "USB-C to C",
+    "context": "Kelengkapan kabel data dalam box",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan di dalamnya terdapat kabel data USB-C to C, serta nggak ketinggalan buku manual dan kartu garansinya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 14,
+      "segment_end_index": 14,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:04,260",
+    "timestamp_end": "00:01:09,120",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E011",
+    "topic": "design",
+    "subtopic": "housing-kamera",
+    "type": "OBSERVATION",
+    "claim": "Housing kamera belakang Samsung Galaxy A26 hadir dengan tampilan yang menyatu",
+    "value": null,
+    "unit": null,
+    "attribute": "camera_housing_design",
+    "attribute_value": "menyatu",
+    "context": "Desain bodi belakang Samsung Galaxy A26",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ini dia tampilan bodi belakang dari Samsung Galaxy A26, yang kini hadir dengan tampilan housing kamera yang menyatu",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E012"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 16,
+      "segment_end_index": 16,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:12,739",
+    "timestamp_end": "00:01:22,430",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E012",
+    "topic": "design",
+    "subtopic": "housing-kamera",
+    "type": "OPINION",
+    "claim": "Reviewer menilai tampilan housing kamera menyatu terlihat lebih pas dibanding penempatan terpisah pada pendahulunya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain penempatan lensa kamera belakang",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Lebih terlihat pas aja dibanding seri pendahulunya yang tiga lensanya penempatannya terpisah",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 17,
+      "segment_end_index": 17,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:22,930",
+    "timestamp_end": "00:01:27,310",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E013",
+    "topic": "durability",
+    "subtopic": "build-quality",
+    "type": "OPINION",
+    "claim": "Reviewer menilai build quality Samsung Galaxy A26 terasa solid dan kokoh",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas buatan bodi Samsung Galaxy A26",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk build quality-nya pun terasa solid dan kokoh",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E014"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 18,
+      "segment_end_index": 18,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:27,469",
+    "timestamp_end": "00:01:30,209",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E014",
+    "topic": "durability",
+    "subtopic": "gorilla-glass-victus+",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 menggunakan lapisan perlindungan Gorilla Glass Victus+ di bagian depan dan belakang",
+    "value": null,
+    "unit": null,
+    "attribute": "protection_type",
+    "attribute_value": "Gorilla Glass Victus+",
+    "context": "Proteksi kaca bodi depan dan belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Berkat lapisan perlindungan Gorilla Glass Victus+ di bagian depan dan belakangnya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 19,
+      "segment_end_index": 19,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:30,209",
+    "timestamp_end": "00:01:34,329",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E015",
+    "topic": "sensors",
+    "subtopic": "side-fingerprint",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 memiliki sensor side fingerprint yang menyatu dengan tombol power di sebelah kanan frame",
+    "value": null,
+    "unit": null,
+    "attribute": "fingerprint_type",
+    "attribute_value": "side fingerprint",
+    "context": "Posisi sensor fingerprint",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Di sebelah kanan frame ada tombol volume dan power dan sekaligus untuk side fingerprint",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 20,
+      "segment_end_index": 20,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:34,689",
+    "timestamp_end": "00:01:38,150",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E016",
+    "topic": "connectivity",
+    "subtopic": "dual-sim-card",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 menggunakan slot dual SIM card bertipe hybrid",
+    "value": null,
+    "unit": null,
+    "attribute": "sim_slot_type",
+    "attribute_value": "hybrid dual SIM",
+    "context": "Konfigurasi slot kartu SIM",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Di sebelah kirinya ada lubang kecil untuk membuka slot dual SIM card yang bertipe hybrid",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 21,
+      "segment_end_index": 21,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:38,810",
+    "timestamp_end": "00:01:42,370",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E017",
+    "topic": "software",
+    "subtopic": "one-ui",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G langsung menjalankan One UI versi 7",
+    "value": null,
+    "unit": null,
+    "attribute": "ui_version",
+    "attribute_value": "One UI 7",
+    "context": "Versi antarmuka pengguna bawaan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "yang tentunya langsung menjalankan One UI versi 7 yang berbasis OS Android 15",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E018"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 25,
+      "segment_end_index": 25,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:56,219",
+    "timestamp_end": "00:02:00,040",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E018",
+    "topic": "software",
+    "subtopic": "android-15",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G berbasis OS Android 15",
+    "value": null,
+    "unit": null,
+    "attribute": "os_version",
+    "attribute_value": "Android 15",
+    "context": "Versi sistem operasi Android bawaan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "yang tentunya langsung menjalankan One UI versi 7 yang berbasis OS Android 15",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 25,
+      "segment_end_index": 25,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:56,219",
+    "timestamp_end": "00:02:00,040",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E019",
+    "topic": "display",
+    "subtopic": "dagu",
+    "type": "OPINION",
+    "claim": "Reviewer menilai bezel layar rada tebal di bagian dagu",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Ketebalan bezel bagian bawah layar",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Namun rada tebel aja di bagian dagu",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 27,
+      "segment_end_index": 27,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:03,579",
+    "timestamp_end": "00:02:05,900",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E020",
+    "topic": "display",
+    "subtopic": "super-amoled",
+    "type": "FACT",
+    "claim": "Layar Samsung Galaxy A26 5G mengusung panel bertipe Super AMOLED",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_type",
+    "attribute_value": "Super AMOLED",
+    "context": "Tipe panel layar yang digunakan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan kualitas layarnya memang sudah standarnya Super AMOLED-nya Samsung ya",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E021"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 28,
+      "segment_end_index": 28,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:05,900",
+    "timestamp_end": "00:02:09,419",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E021",
+    "topic": "display",
+    "subtopic": "tingkat-kecerahan",
+    "type": "OPINION",
+    "claim": "Reviewer menilai tingkat kecerahan layar Samsung Galaxy A26 5G bagus",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas kecerahan layar Super AMOLED",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Yang punya tingkat kecerahan yang bagus",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 29,
+      "segment_end_index": 29,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:09,419",
+    "timestamp_end": "00:02:11,400",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E022",
+    "topic": "audio",
+    "subtopic": "mono",
+    "type": "FACT",
+    "claim": "Bagian audio Samsung Galaxy A26 5G masih bertipe mono",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_type",
+    "attribute_value": "mono",
+    "context": "Konfigurasi speaker perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Sayangnya untuk bagian audio masih bertipe mono",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 31,
+      "segment_end_index": 31,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:13,860",
+    "timestamp_end": "00:02:16,340",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E023",
+    "topic": "performance",
+    "subtopic": "chipset",
+    "type": "OPINION",
+    "claim": "Reviewer menilai chipset yang dibenamkan Samsung cukup powerful",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Evaluasi performa chipset Exynos 1380 pada Samsung A26",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Karena Samsung membenamkan chipset yang cukup powerful",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E001"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 34,
+      "segment_end_index": 34,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:38,610",
+    "timestamp_end": "00:02:41,469",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E024",
+    "topic": "performance",
+    "subtopic": "exynos-1380",
+    "type": "FACT",
+    "claim": "Chipset Exynos 1380 menggunakan fabrikasi 5nm",
+    "value": 5,
+    "unit": "nm",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Proses fabrikasi chipset Exynos 1380",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Sekelas Exynos 1380 yang berpaprikasi 5nm",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E001"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:41,469",
+    "timestamp_end": "00:02:45,110",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E025",
+    "topic": "performance",
+    "subtopic": "wfs-generasi-kedua",
+    "type": "FACT",
+    "claim": "Storage Samsung Galaxy A26 bertipe WFS generasi kedua",
+    "value": null,
+    "unit": null,
+    "attribute": "storage_type",
+    "attribute_value": "WFS generasi kedua",
+    "context": "Tipe teknologi storage yang digunakan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dipadukan dengan RAM 8 GB dan storage 256 GB yang sudah bertipe WFS generasi kedua",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E008"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:45,110",
+    "timestamp_end": "00:02:50,949",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E028",
+    "topic": "performance",
+    "subtopic": "ram",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi dengan RAM berkapasitas 8 GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": "ram_capacity",
+    "attribute_value": null,
+    "context": "Spesifikasi Memori",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dipadukan dengan RAM 8 GB",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E029"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:45,110",
+    "timestamp_end": "00:02:50,949",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E029",
+    "topic": "performance",
+    "subtopic": "storage",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki penyimpanan internal sebesar 256 GB",
+    "value": 256,
+    "unit": "GB",
+    "attribute": "storage_capacity",
+    "attribute_value": null,
+    "context": "Spesifikasi Penyimpanan Internal",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan storage 256 GB",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E028",
+      "c1qTN1rmO2g-E025"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:45,110",
+    "timestamp_end": "00:02:50,949",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E031",
+    "topic": "benchmark",
+    "subtopic": "antutu-versi-10",
+    "type": "MEASUREMENT",
+    "claim": "Skor AnTuTu versi 10 Samsung Galaxy A26 5G dapat mencapai kisaran 600.000-an",
+    "value": null,
+    "unit": null,
+    "attribute": "antutu_v10_score",
+    "attribute_value": "600.000-an",
+    "context": "Pengujian AnTuTu v10",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk skor AnTuTu versi 10-nya bisa mencapai 600.000-an",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E032"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 37,
+      "segment_end_index": 37,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:50,949",
+    "timestamp_end": "00:02:54,389",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E032",
+    "topic": "benchmark",
+    "subtopic": "antutu-versi-10",
+    "type": "OPINION",
+    "claim": "Reviewer menilai skor AnTuTu v10 tidak mengecewakan meskipun tidak terlalu powerful",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian Skor AnTuTu v10",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Skor yang menurutku nggak mengecewakan, walau tidak terlalu powerful",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E031"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 38,
+      "segment_end_index": 38,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:54,389",
+    "timestamp_end": "00:02:58,030",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E033",
+    "topic": "benchmark",
+    "subtopic": "storage-test",
+    "type": "MEASUREMENT",
+    "claim": "Skor pengujian storage test mencapai kisaran 50 ribuan",
+    "value": null,
+    "unit": null,
+    "attribute": "storage_test_score",
+    "attribute_value": "50 ribuan",
+    "context": "Pengujian Storage Test AnTuTu",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk storage test-nya pun bisa mendapatkan skor mencapai 50 ribuan",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 39,
+      "segment_end_index": 39,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:58,030",
+    "timestamp_end": "00:03:01,669",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E034",
+    "topic": "performance",
+    "subtopic": "performa",
+    "type": "OPINION",
+    "claim": "Reviewer menilai performa penggunaan sehari-hari jelas sudah sangat mumpuni",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Performa Sehari-hari",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Jadi dari sisi performa untuk sehari-hari jelas sudah sangat mumpuni",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 41,
+      "segment_end_index": 41,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:04,229",
+    "timestamp_end": "00:03:09,120",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E035",
+    "topic": "performance",
+    "subtopic": "game-hd",
+    "type": "OPINION",
+    "claim": "Reviewer menilai ponsel masih sangat sanggup untuk menjalankan kinerja berat seperti game HD",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Performa Kinerja Berat",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Bahkan untuk kinerja yang berat seperti jalanin game HD pun aslinya masih bisa banget",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 42,
+      "segment_end_index": 42,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:09,120",
+    "timestamp_end": "00:03:13,539",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E036",
+    "topic": "gaming",
+    "subtopic": "pubg-mobile",
+    "type": "FACT",
+    "claim": "Game PUBG Mobile dapat dimainkan pada settingan Smooth Extreme",
+    "value": null,
+    "unit": null,
+    "attribute": "graphics_preset",
+    "attribute_value": "Smooth Extreme",
+    "context": "Pengujian PUBG Mobile, Pengaturan Grafis",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "buat jalanin game PUBG Mobile, bisa main di settingan terenaknya di Smooth Extreme",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E037",
+      "c1qTN1rmO2g-E040",
+      "c1qTN1rmO2g-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 43,
+      "segment_end_index": 43,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "RELATION",
+          "reason": "[preset_without_result] Evidence preset grafis untuk \"pubg mobile\" tidak memiliki evidence frame rate pasangan di daftar. Rule 19 mewajibkan preset menautkan ke hasil pengukuran.",
+          "severity": "MEDIUM"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:03:13,539",
+    "timestamp_end": "00:03:18,300",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E037",
+    "topic": "gaming",
+    "subtopic": "pubg-mobile",
+    "type": "OPINION",
+    "claim": "Reviewer menilai gameplay PUBG Mobile terasa enak dan minim terasa frame drop",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian PUBG Mobile",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Gameplay-nya juga enak dan minim terasa frame drop",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E036"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 44,
+      "segment_end_index": 44,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:03:18,300",
+    "timestamp_end": "00:03:20,819",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E038",
+    "topic": "display",
+    "subtopic": "touchscreen",
+    "type": "OPINION",
+    "claim": "Reviewer menilai touchscreen responsif dan tidak delay saat bermain PUBG Mobile",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian PUBG Mobile, Layar Sentuh",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk touchscreen-nya dan sensor gyro-nya juga responsif dan nggak delay",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E039"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 45,
+      "segment_end_index": 45,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:03:20,819",
+    "timestamp_end": "00:03:24,199",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E039",
+    "topic": "sensors",
+    "subtopic": "sensor-gyro",
+    "type": "OPINION",
+    "claim": "Reviewer menilai sensor gyro responsif dan tidak delay saat bermain PUBG Mobile",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian PUBG Mobile, Gyroscope",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk touchscreen-nya dan sensor gyro-nya juga responsif dan nggak delay",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E038"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 45,
+      "segment_end_index": 45,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:03:20,819",
+    "timestamp_end": "00:03:24,199",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E040",
+    "topic": "gaming",
+    "subtopic": "pubg-mobile",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G dengan Exynos 1380 sangat bisa diandalkan untuk PUBG Mobile",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian PUBG Mobile Overall",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": " buat jalanin game PUBG Mobile, Samsung Galaxy A26 5G ini dengan Exynos 1380-nya sangat bisa diandalkan",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E036"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 46,
+      "segment_end_index": 46,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:24,199",
+    "timestamp_end": "00:03:31,319",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E041",
+    "topic": "gaming",
+    "subtopic": "pubg-mobile",
+    "type": "MEASUREMENT",
+    "claim": "Suhu panas maksimal setelah bermain PUBG Mobile selama setengah jam mencapai 42 derajat Celsius",
+    "value": 42,
+    "unit": "derajat Celsius",
+    "attribute": "max_temperature",
+    "attribute_value": null,
+    "context": "Pengujian PUBG Mobile 30 menit",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Suhu panas maksimal setelah bermain selama setengah jam pun cuma mentok di 42 derajat",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E036",
+      "c1qTN1rmO2g-E042"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 47,
+      "segment_end_index": 47,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:31,319",
+    "timestamp_end": "00:03:35,680",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E042",
+    "topic": "gaming",
+    "subtopic": "pubg-mobile",
+    "type": "MEASUREMENT",
+    "claim": "Konsumsi baterai berkurang sebanyak 7% setelah bermain PUBG Mobile selama setengah jam",
+    "value": 7,
+    "unit": "%",
+    "attribute": "battery_drain",
+    "attribute_value": null,
+    "context": "Pengujian PUBG Mobile 30 menit",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dengan penurunan baterai sebanyak 7%",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 48,
+      "segment_end_index": 48,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:35,680",
+    "timestamp_end": "00:03:37,979",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E043",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "FACT",
+    "claim": "Genshin Impact diuji menggunakan preset grafis rata kiri 60 fps",
+    "value": null,
+    "unit": null,
+    "attribute": "graphics_preset",
+    "attribute_value": "rata kiri 60 fps",
+    "context": "Pengujian Genshin Impact",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "buat jalanin game seberat Genshin Impact dengan settingan rata kiri 60 fps",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E044",
+      "c1qTN1rmO2g-E045",
+      "c1qTN1rmO2g-E046",
+      "c1qTN1rmO2g-E049",
+      "c1qTN1rmO2g-E050"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 49,
+      "segment_end_index": 49,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:37,979",
+    "timestamp_end": "00:03:43,180",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E044",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Genshin Impact dengan settingan rata kiri 60 fps masih tergolong smooth",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian Genshin Impact preset rata kiri 60 fps",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "dengan settingan rata kiri 60 fps juga masih tergolong smooth",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E043"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 49,
+      "segment_end_index": 49,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:37,979",
+    "timestamp_end": "00:03:43,180",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E045",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "OBSERVATION",
+    "claim": "Terjadi frame drop pada Genshin Impact saat menampilkan full efek animasi",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian Genshin Impact saat animasi penuh",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Walau tetap ada frame drop saat full efek animasi",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E046"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 50,
+      "segment_end_index": 50,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:43,180",
+    "timestamp_end": "00:03:48,060",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E046",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Genshin Impact secara keseluruhan masih cukup nyaman dimainkan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian Genshin Impact Overall",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "namun overall masih cukup nyaman dimainkan",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E045"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 50,
+      "segment_end_index": 50,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:43,180",
+    "timestamp_end": "00:03:48,060",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E047",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "OPINION",
+    "claim": "Reviewer menilai suhu panas ponsel cukup terasa jika Genshin Impact dimainkan dalam waktu lama",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian Genshin Impact durasi lama",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Palingan cuma di suhu panas hape saja yang bakal cukup terasa jika dimainkan dalam waktu yang lama",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 51,
+      "segment_end_index": 51,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:48,479",
+    "timestamp_end": "00:03:52,819",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E048",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "RECOMMENDATION",
+    "claim": "Disarankan menggunakan settingan default atau menurunkan fps ke 45 fps untuk Genshin Impact",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Rekomendasi Pengaturan Genshin Impact",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi rekomendasinya bisa pakai settingan default, atau settingan fps-nya bisa sedikit diturunkan ke 45 fps saja",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 52,
+      "segment_end_index": 52,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:53,219",
+    "timestamp_end": "00:03:59,000",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E049",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "MEASUREMENT",
+    "claim": "Suhu panas mencapai 45 derajat Celsius setelah bermain Genshin Impact selama setengah jam",
+    "value": 45,
+    "unit": "derajat Celsius",
+    "attribute": "max_temperature",
+    "attribute_value": null,
+    "context": "Pengujian Genshin Impact 30 menit",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Saya tes bermain selama setengah jam, suhu panasnya mencapai 45 derajat",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E043",
+      "c1qTN1rmO2g-E050"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 53,
+      "segment_end_index": 53,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:59,580",
+    "timestamp_end": "00:04:05,240",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E050",
+    "topic": "gaming",
+    "subtopic": "genshin-impact",
+    "type": "MEASUREMENT",
+    "claim": "Baterai berkurang sebanyak 9% setelah bermain Genshin Impact selama setengah jam",
+    "value": 9,
+    "unit": "%",
+    "attribute": "battery_drain",
+    "attribute_value": null,
+    "context": "Pengujian Genshin Impact 30 menit",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan penurunan baterai sebanyak 9%",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E049"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 53,
+      "segment_end_index": 53,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:59,580",
+    "timestamp_end": "00:04:05,240",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E051",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "OPINION",
+    "claim": "Reviewer menilai ponsel paling pas jika digunakan untuk memainkan game mobile seperti MLBB",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian Mobile Legends",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Nah paling pas kalau cuma bercalainin game mobile kayak MLBB ini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 54,
+      "segment_end_index": 54,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:05,240",
+    "timestamp_end": "00:04:08,699",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E052",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "FACT",
+    "claim": "MLBB diuji dengan menggunakan pengaturan grafis rata kanan",
+    "value": null,
+    "unit": null,
+    "attribute": "graphics_preset",
+    "attribute_value": "rata kanan",
+    "context": "Pengujian MLBB rata kanan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Saya tes pakai settingan rata kanan pun masih tidak masalah",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E054",
+      "c1qTN1rmO2g-E055",
+      "c1qTN1rmO2g-E056",
+      "c1qTN1rmO2g-E057",
+      "c1qTN1rmO2g-E058"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 55,
+      "segment_end_index": 55,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "RELATION",
+          "reason": "[preset_without_result] Evidence preset grafis untuk \"mlbb\" tidak memiliki evidence frame rate pasangan di daftar. Rule 19 mewajibkan preset menautkan ke hasil pengukuran.",
+          "severity": "MEDIUM"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:04:09,120",
+    "timestamp_end": "00:04:11,740",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E054",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "OBSERVATION",
+    "claim": "Animasi grafis MLBB dapat ditampilkan dengan maksimal",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian MLBB rata kanan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Animasi grafisnya bisa ditampilkan dengan maksimal",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E052"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 56,
+      "segment_end_index": 56,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:11,740",
+    "timestamp_end": "00:04:14,560",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E055",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hanya terasa sedikit frame drop wajar saat warp langsung pada MLBB",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian MLBB saat warp langsung",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Dan hanya terasa sedikit frame drop wajar saat warp langsung",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E052"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:14,560",
+    "timestamp_end": "00:04:17,699",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E056",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "OPINION",
+    "claim": "Reviewer menganggap lebih nyaman jika menggunakan settingan grafis dan fps High saat bermain MLBB",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengaturan Grafis MLBB",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Aslinya kalau mau lebih nyaman pakai settingan grafis dan fps di-hight aja",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 58,
+      "segment_end_index": 58,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:17,699",
+    "timestamp_end": "00:04:21,600",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E057",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "OPINION",
+    "claim": "Reviewer menilai suhu panas HP cukup terasa sebagai imbas bermain MLBB di settingan rata kanan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian MLBB rata kanan",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Imbasnya tentunya suhu panas HP-nya yang cukup terasa",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E052"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 60,
+      "segment_end_index": 60,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:24,420",
+    "timestamp_end": "00:04:27,180",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E058",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "MEASUREMENT",
+    "claim": "Suhu panas maksimal mencapai 44 derajat Celsius setelah bermain MLBB selama 30 menit",
+    "value": 44,
+    "unit": "derajat Celsius",
+    "attribute": "max_temperature",
+    "attribute_value": null,
+    "context": "Pengujian MLBB 30 menit rata kanan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi saat saya tes selama 30 menit, suhu panas maksimalnya mencapai 44 derajat",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E052",
+      "c1qTN1rmO2g-E059"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 61,
+      "segment_end_index": 61,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:27,180",
+    "timestamp_end": "00:04:31,720",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E059",
+    "topic": "gaming",
+    "subtopic": "mlbb",
+    "type": "MEASUREMENT",
+    "claim": "Konsumsi baterai berkurang sebesar 8% setelah bermain MLBB selama 30 menit",
+    "value": 8,
+    "unit": "%",
+    "attribute": "battery_drain",
+    "attribute_value": null,
+    "context": "Pengujian MLBB 30 menit rata kanan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan penurunan baterainya sebanyak 8%",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E058"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 62,
+      "segment_end_index": 62,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:31,720",
+    "timestamp_end": "00:04:34,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E060",
+    "topic": "battery",
+    "subtopic": "baterai",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki kapasitas baterai sebesar 5000 mAh",
+    "value": 5000,
+    "unit": "mAh",
+    "attribute": "battery_capacity",
+    "attribute_value": null,
+    "context": "Spesifikasi Baterai",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ditopang dengan pasas baterai 5000 mAh",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E061"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 63,
+      "segment_end_index": 63,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:34,079",
+    "timestamp_end": "00:04:38,879",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E061",
+    "topic": "charging",
+    "subtopic": "fast-charge",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung pengisian daya cepat 25W fast charge",
+    "value": 25,
+    "unit": "W",
+    "attribute": "charging_speed",
+    "attribute_value": null,
+    "context": "Spesifikasi Pengisian Daya",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "yang mendukung 25W fast charge",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E060"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 63,
+      "segment_end_index": 63,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:34,079",
+    "timestamp_end": "00:04:38,879",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E062",
+    "topic": "pricing",
+    "subtopic": "kelas-harga",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kombinasi baterai dan pengisian daya sudah pas di kelas harganya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesesuaian Harga Baterai & Charging",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Tentunya sudah pas di kelas harganya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 64,
+      "segment_end_index": 64,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:04:38,879",
+    "timestamp_end": "00:04:40,879",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E063",
+    "topic": "battery",
+    "subtopic": "pcmark",
+    "type": "MEASUREMENT",
+    "claim": "Pengujian daya tahan baterai dengan aplikasi PCMark menghasilkan screen runtime mencapai 13 jam 57 menit",
+    "value": null,
+    "unit": null,
+    "attribute": "screen_runtime",
+    "attribute_value": "13 jam 57 menit",
+    "context": "Pengujian PCMark Work 3.0 Battery Test",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan saat dites pake aplikasi PCMark, bisa mendapatkan screen runtime mencapai 13 jam 57 menit",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E064"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 65,
+      "segment_end_index": 65,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:40,879",
+    "timestamp_end": "00:04:46,560",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E064",
+    "topic": "battery",
+    "subtopic": "pcmark",
+    "type": "OPINION",
+    "claim": "Reviewer menilai daya tahan baterai tergolong lumayan walau tidak terlalu awet banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian Daya Tahan Baterai",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Yang tentunya sudah tergolong lumayan, walau tidak terlalu awet banget",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E063"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 66,
+      "segment_end_index": 66,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:46,860",
+    "timestamp_end": "00:04:49,959",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E065",
+    "topic": "performance",
+    "subtopic": "performa",
+    "type": "OPINION",
+    "claim": "Reviewer menilai dari segi performa ponsel sudah oke",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesimpulan Performa Keseluruhan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Dari segi performa sudah oke",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 67,
+      "segment_end_index": 67,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:50,300",
+    "timestamp_end": "00:04:51,800",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E066",
+    "topic": "camera",
+    "subtopic": "kamera",
+    "type": "OPINION",
+    "claim": "Reviewer menilai sektor kamera ponsel cakep",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian Kualitas Kamera Keseluruhan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Tak ketinggalan di bagian kamera juga cakep",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 68,
+      "segment_end_index": 68,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:52,240",
+    "timestamp_end": "00:04:54,519",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E067",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "FACT",
+    "claim": "Kamera utama beresolusi 50 MP dan dilengkapi dengan fitur OIS",
+    "value": 50,
+    "unit": "MP",
+    "attribute": "main_camera_resolution",
+    "attribute_value": null,
+    "context": "Spesifikasi Kamera Utama",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dengan kamera utama 50 MP ber-OIS",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E068",
+      "c1qTN1rmO2g-E069"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:04:54,800",
+    "timestamp_end": "00:05:01,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E068",
+    "topic": "camera",
+    "subtopic": "lensa-ultrawide",
+    "type": "FACT",
+    "claim": "Ponsel dilengkapi dengan lensa ultrawide beresolusi 8 MP",
+    "value": 8,
+    "unit": "MP",
+    "attribute": "ultrawide_camera_resolution",
+    "attribute_value": null,
+    "context": "Spesifikasi Lensa Ultrawide",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "yang didukung dengan lensa ultrawide 8 MP",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E067",
+      "c1qTN1rmO2g-E069"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:54,800",
+    "timestamp_end": "00:05:01,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E069",
+    "topic": "camera",
+    "subtopic": "lensa-makro",
+    "type": "FACT",
+    "claim": "Ponsel dilengkapi dengan lensa makro beresolusi 2 MP",
+    "value": 2,
+    "unit": "MP",
+    "attribute": "macro_camera_resolution",
+    "attribute_value": null,
+    "context": "Spesifikasi Lensa Makro",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan lensa makro 2 MP",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E067",
+      "c1qTN1rmO2g-E068"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:54,800",
+    "timestamp_end": "00:05:01,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E071",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "MEASUREMENT",
+    "claim": "Kamera utama beresolusi 50 MP",
+    "value": 50,
+    "unit": "MP",
+    "attribute": "camera_resolution",
+    "attribute_value": null,
+    "context": "Spesifikasi hardware kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera utama 50 MP",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E072"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:54,800",
+    "timestamp_end": "00:05:01,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E072",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "FACT",
+    "claim": "Kamera utama dilengkapi fitur OIS",
+    "value": null,
+    "unit": null,
+    "attribute": "image_stabilization",
+    "attribute_value": "OIS",
+    "context": "Spesifikasi hardware kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera utama 50 MP ber-OIS",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E071"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:54,800",
+    "timestamp_end": "00:05:01,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E073",
+    "topic": "camera",
+    "subtopic": "lensa-ultrawide",
+    "type": "MEASUREMENT",
+    "claim": "Lensa ultrawide beresolusi 8 MP",
+    "value": 8,
+    "unit": "MP",
+    "attribute": "camera_resolution",
+    "attribute_value": null,
+    "context": "Spesifikasi hardware kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "lensa ultrawide 8 MP",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:54,800",
+    "timestamp_end": "00:05:01,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E074",
+    "topic": "camera",
+    "subtopic": "lensa-makro",
+    "type": "MEASUREMENT",
+    "claim": "Lensa makro beresolusi 2 MP",
+    "value": 2,
+    "unit": "MP",
+    "attribute": "camera_resolution",
+    "attribute_value": null,
+    "context": "Spesifikasi hardware kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "lensa makro 2 MP",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:54,800",
+    "timestamp_end": "00:05:01,079",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E075",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "MEASUREMENT",
+    "claim": "Kamera selfie beresolusi 13 MP",
+    "value": 13,
+    "unit": "MP",
+    "attribute": "camera_resolution",
+    "attribute_value": null,
+    "context": "Spesifikasi hardware kamera depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera selfie 13 MP",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 70,
+      "segment_end_index": 70,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:01,720",
+    "timestamp_end": "00:05:07,620",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E077",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "OPINION",
+    "claim": "Reviewer menyayangkan kamera selfie baru bisa merekam video hingga Full HD 30 fps",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kemampuan perekaman video kamera depan",
+    "comparison_target": "ekspektasi",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "yang sayangnya baru bisa merekam video Full HD 30 fps",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 70,
+      "segment_end_index": 70,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:01,720",
+    "timestamp_end": "00:05:07,620",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E078",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "FACT",
+    "claim": "Kamera utama dapat merekam video hingga resolusi 4K pada 30 fps",
+    "value": null,
+    "unit": null,
+    "attribute": "max_video_resolution",
+    "attribute_value": "4K 30 fps",
+    "context": "Kemampuan perekaman video kamera belakang",
+    "comparison_target": "kamera selfie",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera utama yang bisa merekam video 4K di 30 fps",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E077"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 71,
+      "segment_end_index": 71,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:07,620",
+    "timestamp_end": "00:05:11,379",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E079",
+    "topic": "software",
+    "subtopic": "update-keamanan",
+    "type": "FACT",
+    "claim": "Samsung menjamin dukungan pembaruan keamanan hingga 6 kali",
+    "value": 6,
+    "unit": "kali",
+    "attribute": "security_update_count",
+    "attribute_value": null,
+    "context": "Dukungan purna jual perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "update keamanan dan OS yang dijamin hingga 6 kali",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E080",
+      "c1qTN1rmO2g-E081"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 74,
+      "segment_end_index": 74,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:05,480",
+    "timestamp_end": "00:06:09,259",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E080",
+    "topic": "software",
+    "subtopic": "os",
+    "type": "FACT",
+    "claim": "Samsung menjamin pembaruan Sistem Operasi (OS) hingga 6 kali",
+    "value": 6,
+    "unit": "kali",
+    "attribute": "os_update_count",
+    "attribute_value": null,
+    "context": "Dukungan purna jual perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "update keamanan dan OS yang dijamin hingga 6 kali",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E079",
+      "c1qTN1rmO2g-E081"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 74,
+      "segment_end_index": 74,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:05,480",
+    "timestamp_end": "00:06:09,259",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E081",
+    "topic": "software",
+    "subtopic": "after-sales",
+    "type": "OPINION",
+    "claim": "Reviewer menilai dukungan after sales Samsung Galaxy A26 5G merupakan keunggulan yang jelas",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Dukungan purna jual perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "keunggulan Samsung Galaxy A26 5G ini jelas ada pada dukungan after sales-nya",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E079",
+      "c1qTN1rmO2g-E080"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 73,
+      "segment_end_index": 73,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:14,879",
+    "timestamp_end": "00:06:05,480",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E082",
+    "topic": "durability",
+    "subtopic": "rating-ip67",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki sertifikasi rating IP67",
+    "value": null,
+    "unit": null,
+    "attribute": "certification",
+    "attribute_value": "IP67",
+    "context": "Sertifikasi ketahanan air dan debu",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "adanya rating IP67",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E083"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 77,
+      "segment_end_index": 77,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:14,959",
+    "timestamp_end": "00:06:18,639",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E083",
+    "topic": "durability",
+    "subtopic": "rating-ip67",
+    "type": "OPINION",
+    "claim": "Adanya rating IP67 menjadi nilai tambah tersendiri untuk menutupi beberapa kekurangan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sertifikasi ketahanan air dan debu",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "rating IP67 juga jadi nilai lebih tersendiri",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E082",
+      "c1qTN1rmO2g-E084",
+      "c1qTN1rmO2g-E085"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 77,
+      "segment_end_index": 77,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:14,959",
+    "timestamp_end": "00:06:18,639",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E084",
+    "topic": "audio",
+    "subtopic": "mono-speaker",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G masih menggunakan mono speaker",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_type",
+    "attribute_value": "mono speaker",
+    "context": "Sistem audio speaker",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "masih mono speaker",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E083"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 78,
+      "segment_end_index": 78,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:18,639",
+    "timestamp_end": "00:06:23,720",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E085",
+    "topic": "display",
+    "subtopic": "desain-layar",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain layar Samsung Galaxy A26 5G masih belum kekinian",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Tampilan desain bagian depan/layar",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "desain layar yang masih belum kekinian",
+    "related_evidence_ids": [
+      "c1qTN1rmO2g-E083"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 78,
+      "segment_end_index": 78,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:18,639",
+    "timestamp_end": "00:06:23,720",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E086",
+    "topic": "design",
+    "subtopic": "build-quality",
+    "type": "OPINION",
+    "claim": "Build quality Samsung Galaxy A26 5G terasa solid dan terlihat premium",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas material dan desain bodi",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "build quality yang solid dan terlihat premium",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 79,
+      "segment_end_index": 79,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:06:23,720",
+    "timestamp_end": "00:06:27,500",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  },
+  {
+    "evidence_id": "c1qTN1rmO2g-E087",
+    "topic": "verdict",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Samsung Galaxy A26 5G dinilai sangat layak dipertimbangkan untuk dibeli di kelas harga 3 jutaan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Rekomendasi akhir dan kesimpulan reviewer",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Hape ini layak banget untuk dipertimbangkan",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 81,
+      "segment_end_index": 81,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:30,839",
+    "timestamp_end": "00:06:33,540",
+    "source": "FlashGadget",
+    "review_id": "c1qTN1rmO2g",
+    "video_url": "https://www.youtube.com/watch?v=c1qTN1rmO2g",
+    "video_title": "Unboxing & Review Samsung A26 5G Performa & Camera Test !"
+  }
+]

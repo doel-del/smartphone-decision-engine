@@ -1,0 +1,6565 @@
+[
+  {
+    "evidence_id": "iiFusNBRirA-E001",
+    "topic": "design",
+    "subtopic": "material-bodi",
+    "type": "FACT",
+    "claim": "Material bodi belakang HP menggunakan kaca",
+    "value": null,
+    "unit": null,
+    "attribute": "back_material",
+    "attribute_value": "kaca",
+    "context": "Material bodi belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "material bodi belakang HP ini pun dikasih material kaca juga sama Samsung",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:30,730",
+    "timestamp_end": "00:00:35,530",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E002",
+    "topic": "design",
+    "subtopic": "finishing-kaca",
+    "type": "FACT",
+    "claim": "Finishing kaca bodi belakang bersifat glossy",
+    "value": null,
+    "unit": null,
+    "attribute": "finish_type",
+    "attribute_value": "glossy",
+    "context": "Finishing bodi belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Finishing kacanya sama ya, glossy",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E001"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:35,810",
+    "timestamp_end": "00:00:40,369",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E003",
+    "topic": "design",
+    "subtopic": "finishing-kaca",
+    "type": "OPINION",
+    "claim": "Reviewer menilai finishing kaca membuat bodi terlihat mewah namun gampang kotor",
+    "value": null,
+    "unit": null,
+    "attribute": "finish_assessment",
+    "attribute_value": "mewah namun gampang kotor",
+    "context": "Penilaian finishing bodi belakang",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "yang sebetulnya bikin kelihatan mewah walau gampang kotor juga",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E002"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:35,810",
+    "timestamp_end": "00:00:40,369",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E004",
+    "topic": "durability",
+    "subtopic": "gorilla-glass",
+    "type": "FACT",
+    "claim": "Kaca bodi belakang dilindungi Gorilla Glass Victus+",
+    "value": null,
+    "unit": null,
+    "attribute": "protection_type",
+    "attribute_value": "Gorilla Glass Victus+",
+    "context": "Proteksi kaca bodi belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Terus kacanya sudah pakai Gorilla Glass Victus+ pula",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E001"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:40,810",
+    "timestamp_end": "00:00:43,270",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E005",
+    "topic": "durability",
+    "subtopic": "rating-ip67",
+    "type": "FACT",
+    "claim": "Ponsel memiliki sertifikasi rating IP67",
+    "value": null,
+    "unit": null,
+    "attribute": "certification",
+    "attribute_value": "IP67",
+    "context": "Ketahanan debu dan air",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Plus sudah ada rating IP67 juga",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:43,770",
+    "timestamp_end": "00:00:47,810",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E008",
+    "topic": "design",
+    "subtopic": "frame-samping",
+    "type": "FACT",
+    "claim": "Frame samping menggunakan material plastik",
+    "value": null,
+    "unit": null,
+    "attribute": "frame_material",
+    "attribute_value": "plastik",
+    "context": "Material frame samping",
+    "comparison_target": "A56",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dia pakai plastik",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:25,870",
+    "timestamp_end": "00:01:28,989",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E009",
+    "topic": "design",
+    "subtopic": "ketebalan-bodi",
+    "type": "MEASUREMENT",
+    "claim": "Selisih ketebalan lebih tipis sekitar 0,6 mm dibanding A25",
+    "value": 0.6,
+    "unit": "mm",
+    "attribute": "thickness_difference",
+    "attribute_value": "0.6 mm",
+    "context": "Perbandingan ketebalan bodi",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "sekitar 0,6 mm dibandingkan A25 kemarin",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:32,969",
+    "timestamp_end": "00:01:37,209",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E010",
+    "topic": "sensors",
+    "subtopic": "fingerprint-sensor",
+    "type": "FACT",
+    "claim": "Sensor fingerprint menyatu dengan tombol power",
+    "value": null,
+    "unit": null,
+    "attribute": "fingerprint_position",
+    "attribute_value": "side-mounted",
+    "context": "Letak sensor sidik jari",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "fingerprint sensor-nya gabung sama tombol power ya, bukan di bawah layar",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:43,510",
+    "timestamp_end": "00:01:46,989",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E011",
+    "topic": "display",
+    "subtopic": "waterdrop-display",
+    "type": "FACT",
+    "claim": "Layar menggunakan desain waterdrop display",
+    "value": null,
+    "unit": null,
+    "attribute": "notch_type",
+    "attribute_value": "waterdrop",
+    "context": "Desain takik layar depan",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini masih pakai desain waterdrop display, sama kayak A25 kemarin",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:47,790",
+    "timestamp_end": "00:01:52,109",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E012",
+    "topic": "display",
+    "subtopic": "bezel-bawah",
+    "type": "OPINION",
+    "claim": "Reviewer menilai bezel bagian bawah masih agak tebal",
+    "value": null,
+    "unit": null,
+    "attribute": "bottom_bezel_assessment",
+    "attribute_value": "masih agak tebal",
+    "context": "Ketebalan bezel bawah layar",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "dengan bezel bagian bawah yang masih agak tebal juga",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:52,430",
+    "timestamp_end": "00:01:54,930",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E013",
+    "topic": "display",
+    "subtopic": "bezel-bawah",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain bezel membuat A26 terlihat kurang modern dibanding A-series di atasnya",
+    "value": null,
+    "unit": null,
+    "attribute": "modernity_assessment",
+    "attribute_value": "kurang modern",
+    "context": "Penilaian modernitas desain layar",
+    "comparison_target": "A-series di atasnya",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Nah, ini nih yang bikin A26 jadi terlihat kurang modern dibandingkan A-series yang di atasnya",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E012"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:55,310",
+    "timestamp_end": "00:01:59,689",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E014",
+    "topic": "display",
+    "subtopic": "panel-super-amoled",
+    "type": "FACT",
+    "claim": "Layar menggunakan panel Super AMOLED",
+    "value": null,
+    "unit": null,
+    "attribute": "display_panel",
+    "attribute_value": "Super AMOLED",
+    "context": "Jenis panel layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk panelnya sudah pakai Super AMOLED",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:07,230",
+    "timestamp_end": "00:02:11,229",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E015",
+    "topic": "display",
+    "subtopic": "panel-super-amoled",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kualitas panel Super AMOLED sudah bagus banget di kelasnya",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_quality_assessment",
+    "attribute_value": "bagus banget",
+    "context": "Penilaian kualitas panel layar",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "yang kualitasnya buat saya sudah bagus banget buat di kelasnya",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E014"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:07,230",
+    "timestamp_end": "00:02:11,229",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E016",
+    "topic": "display",
+    "subtopic": "refresh-rate",
+    "type": "MEASUREMENT",
+    "claim": "Refresh rate layar mencapai 120Hz",
+    "value": 120,
+    "unit": "Hz",
+    "attribute": "refresh_rate",
+    "attribute_value": "120Hz",
+    "context": "Kecepatan refresh layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan tentu layarnya sudah sangat smooth pula di 120Hz",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:01,030",
+    "timestamp_end": "00:03:03,930",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E017",
+    "topic": "performance",
+    "subtopic": "chipset-exynos-1380",
+    "type": "FACT",
+    "claim": "Menggunakan chipset Exynos 1380",
+    "value": null,
+    "unit": null,
+    "attribute": "chipset",
+    "attribute_value": "Exynos 1380",
+    "context": "Dapur pacu utama",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 pakai chipset Exynos 1380",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:05,080",
+    "timestamp_end": "00:03:09,699",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E018",
+    "topic": "performance",
+    "subtopic": "ram-capacity",
+    "type": "MEASUREMENT",
+    "claim": "Kapasitas RAM fisik sebesar 8GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": "ram_capacity",
+    "attribute_value": "8GB",
+    "context": "Spesifikasi memori RAM",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "RAM-nya dikasih 8GB",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:34,360",
+    "timestamp_end": "00:03:37,800",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E019",
+    "topic": "performance",
+    "subtopic": "ram-plus",
+    "type": "MEASUREMENT",
+    "claim": "Fitur RAM Plus menyediakan tambahan hingga 8GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": "ram_plus_expansion",
+    "attribute_value": "8GB",
+    "context": "Perluasan memori virtual",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan ada RAM Plus hingga 8GB lagi",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E018"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:34,360",
+    "timestamp_end": "00:03:37,800",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E020",
+    "topic": "performance",
+    "subtopic": "storage-capacity",
+    "type": "MEASUREMENT",
+    "claim": "Kapasitas internal storage sebesar 256GB",
+    "value": 256,
+    "unit": "GB",
+    "attribute": "storage_capacity",
+    "attribute_value": "256GB",
+    "context": "Kapasitas penyimpanan internal",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Storage HP ini besar, 256GB",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:37,800",
+    "timestamp_end": "00:03:43,919",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E021",
+    "topic": "performance",
+    "subtopic": "storage-ufs",
+    "type": "FACT",
+    "claim": "Internal storage menggunakan tipe UFS 2.2",
+    "value": null,
+    "unit": null,
+    "attribute": "storage_type",
+    "attribute_value": "UFS 2.2",
+    "context": "Tipe penyimpanan internal",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "pakai UFS 2.2",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E020"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:37,800",
+    "timestamp_end": "00:03:43,919",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E022",
+    "topic": "performance",
+    "subtopic": "microsd-slot",
+    "type": "FACT",
+    "claim": "Tersedia slot microSD terpisah",
+    "value": null,
+    "unit": null,
+    "attribute": "expandable_storage",
+    "attribute_value": "microSD slot",
+    "context": "Dukungan ekspansi memori",
+    "comparison_target": "A36 dan A56",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Terus yang ini tuh masih dikasih slot microSD",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:43,919",
+    "timestamp_end": "00:03:46,419",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E027",
+    "topic": "audio",
+    "subtopic": "speaker",
+    "type": "COMPARISON",
+    "claim": "Speaker mengalami downgrade dari stereo di A25",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_type",
+    "attribute_value": "downgrade",
+    "context": "Perbandingan audio dengan generasi sebelumnya",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "downgrade dari stereo di A25 kemarin saja sih",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E023",
+      "iiFusNBRirA-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:46,420",
+    "timestamp_end": "00:04:49,660",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E028",
+    "topic": "battery",
+    "subtopic": "baterai",
+    "type": "MEASUREMENT",
+    "claim": "Kapasitas baterai HP ini 5000 mAh",
+    "value": 5000,
+    "unit": "mAh",
+    "attribute": "battery_capacity",
+    "attribute_value": "5000 mAh",
+    "context": "Spesifikasi kapasitas baterai",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kapasitas baterai HP ini 5000 mAh",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E029",
+      "iiFusNBRirA-E030"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:49,660",
+    "timestamp_end": "00:04:52,040",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E029",
+    "topic": "battery",
+    "subtopic": "baterai",
+    "type": "OBSERVATION",
+    "claim": "Kapasitas baterai dinilai termasuk besar",
+    "value": null,
+    "unit": null,
+    "attribute": "battery_impression",
+    "attribute_value": "besar",
+    "context": "Penilaian kapasitas baterai",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "termasuk besar",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E028"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:52,040",
+    "timestamp_end": "00:04:55,220",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E030",
+    "topic": "charging",
+    "subtopic": "charging",
+    "type": "FACT",
+    "claim": "Mendukung super fast charging 25W",
+    "value": 25,
+    "unit": "W",
+    "attribute": "charging_speed",
+    "attribute_value": "25W",
+    "context": "Kecepatan pengisian daya",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "support super fast charging 25W",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E028"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:52,040",
+    "timestamp_end": "00:04:55,220",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E031",
+    "topic": "connectivity",
+    "subtopic": "NFC",
+    "type": "FACT",
+    "claim": "Tersedia fitur NFC",
+    "value": null,
+    "unit": null,
+    "attribute": "nfc_availability",
+    "attribute_value": "tersedia",
+    "context": "Konektivitas NFC",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan tentu ada NFC juga",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:55,220",
+    "timestamp_end": "00:04:56,660",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E032",
+    "topic": "software",
+    "subtopic": "One UI",
+    "type": "FACT",
+    "claim": "Menggunakan One UI 7",
+    "value": null,
+    "unit": null,
+    "attribute": "os_version",
+    "attribute_value": "One UI 7",
+    "context": "Versi antarmuka software",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini sudah pakai One UI 7",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E033"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:56,660",
+    "timestamp_end": "00:05:07,100",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E033",
+    "topic": "software",
+    "subtopic": "Android",
+    "type": "FACT",
+    "claim": "Menggunakan sistem operasi Android 15",
+    "value": 15,
+    "unit": null,
+    "attribute": "android_version",
+    "attribute_value": "Android 15",
+    "context": "Versi sistem operasi",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Android 15",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E032"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:56,660",
+    "timestamp_end": "00:05:07,100",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E034",
+    "topic": "software",
+    "subtopic": "One UI",
+    "type": "OBSERVATION",
+    "claim": "Tampilan terlihat fresh dan mirip A-series 2025 lainnya",
+    "value": null,
+    "unit": null,
+    "attribute": "display_appearance",
+    "attribute_value": "fresh",
+    "context": "Tampilan antarmuka",
+    "comparison_target": "A-series 2025",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi secara tampilan sudah fresh. Mirip sama A-series 2025 lainnya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:05:07,100",
+    "timestamp_end": "00:05:11,379",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E035",
+    "topic": "software",
+    "subtopic": "Now Bar",
+    "type": "FACT",
+    "claim": "Tersedia fitur Now Bar untuk akses dan kontrol aplikasi di lock screen",
+    "value": null,
+    "unit": null,
+    "attribute": "feature",
+    "attribute_value": "Now Bar",
+    "context": "Fitur software lock screen",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada fitur Now Bar juga yang bisa akses dan kontrol beberapa apps di lock screen",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:05:11,379",
+    "timestamp_end": "00:05:15,480",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E036",
+    "topic": "software",
+    "subtopic": "One UI",
+    "type": "OPINION",
+    "claim": "UI Samsung dinilai nyaman",
+    "value": null,
+    "unit": null,
+    "attribute": "ui_comfort",
+    "attribute_value": "nyaman",
+    "context": "Pengalaman antarmuka software",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "menurut saya tuh UI-nya Samsung ini nyaman ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:15,480",
+    "timestamp_end": "00:05:18,680",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E037",
+    "topic": "software",
+    "subtopic": "auto-blocker",
+    "type": "FACT",
+    "claim": "Tersedia fitur auto-blocker untuk menghindari instalasi aplikasi nakal",
+    "value": null,
+    "unit": null,
+    "attribute": "security_feature",
+    "attribute_value": "auto-blocker",
+    "context": "Fitur keamanan software",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Di HP Samsung ada fitur auto-blocker buat menghindari itu",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:32,120",
+    "timestamp_end": "00:05:34,920",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E038",
+    "topic": "software",
+    "subtopic": "Knox Vault",
+    "type": "FACT",
+    "claim": "Tersedia Knox Vault sebagai dedicated security chip",
+    "value": null,
+    "unit": null,
+    "attribute": "security_chip",
+    "attribute_value": "Knox Vault",
+    "context": "Fitur keamanan hardware/software",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung tuh sampai kasih Knox Vault, sebuah dedicated security chip",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E039"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:42,199",
+    "timestamp_end": "00:05:45,879",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E039",
+    "topic": "software",
+    "subtopic": "Knox Vault",
+    "type": "OPINION",
+    "claim": "Knox Vault dinilai sebagai fitur mahal yang tidak ada di HP lain di harga segini",
+    "value": null,
+    "unit": null,
+    "attribute": "feature_value",
+    "attribute_value": "mahal",
+    "context": "Penilaian fitur keamanan dibandingkan kelas harga",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Ini fitur mahal yang saya rasa nggak ada di HP lain di harga segini ya",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E038"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:49,560",
+    "timestamp_end": "00:05:53,019",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E040",
+    "topic": "software",
+    "subtopic": "update",
+    "type": "MEASUREMENT",
+    "claim": "Jaminan update OS dan security hingga 6 tahun",
+    "value": 6,
+    "unit": "tahun",
+    "attribute": "os_update_years",
+    "attribute_value": "6 tahun",
+    "context": "Dukungan pembaruan perangkat lunak",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "sampai 6 tahun",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:05:53,439",
+    "timestamp_end": "00:05:56,759",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E041",
+    "topic": "software",
+    "subtopic": "Awesome Intelligence",
+    "type": "FACT",
+    "claim": "Tersedia fitur AI atau Awesome Intelligence",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_feature",
+    "attribute_value": "Awesome Intelligence",
+    "context": "Fitur kecerdasan buatan",
+    "comparison_target": "A36 dan A56",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung juga kasih fitur AI atau Awesome Intelligence juga yang agak mirip sama A36 dan A56",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E042",
+      "iiFusNBRirA-E043",
+      "iiFusNBRirA-E044"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:03,470",
+    "timestamp_end": "00:06:08,670",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E042",
+    "topic": "software",
+    "subtopic": "Awesome Intelligence",
+    "type": "FACT",
+    "claim": "Fitur Base Phase, Auto Trim, dan Instant Slow Motion absen di HP ini",
+    "value": null,
+    "unit": null,
+    "attribute": "absent_ai_features",
+    "attribute_value": "Base Phase, Auto Trim, Instant Slow Motion",
+    "context": "Keterbatasan fitur AI",
+    "comparison_target": "A36 dan A56",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "karena fitur kayak Base Phase, Auto Trim, dan Instant Slow Motion itu absen di HP ini",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:06:09,050",
+    "timestamp_end": "00:06:14,730",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E043",
+    "topic": "software",
+    "subtopic": "Object Eraser",
+    "type": "FACT",
+    "claim": "Tersedia fitur Object Eraser",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_feature",
+    "attribute_value": "Object Eraser",
+    "context": "Fitur AI galeri",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "masih ada fitur kayak Object Eraser",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:14,730",
+    "timestamp_end": "00:06:19,430",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E044",
+    "topic": "software",
+    "subtopic": "AI Select",
+    "type": "FACT",
+    "claim": "Tersedia fitur AI Select",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_feature",
+    "attribute_value": "AI Select",
+    "context": "Fitur AI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "AI Select",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": null,
+    "timestamp_end": null,
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E045",
+    "topic": "software",
+    "subtopic": "Read Aloud",
+    "type": "FACT",
+    "claim": "Tersedia fitur Read Aloud di browser",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_feature",
+    "attribute_value": "Read Aloud",
+    "context": "Fitur AI browser",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan Read Aloud di browser",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:14,730",
+    "timestamp_end": "00:06:19,430",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E046",
+    "topic": "software",
+    "subtopic": "Circle to Search",
+    "type": "FACT",
+    "claim": "Tersedia fitur Circle to Search",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_feature",
+    "attribute_value": "Circle to Search",
+    "context": "Fitur pencarian AI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini tentu ada Circle to Search juga",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:56,449",
+    "timestamp_end": "00:06:58,589",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E047",
+    "topic": "software",
+    "subtopic": "Gemini",
+    "type": "FACT",
+    "claim": "Tombol power dapat digunakan untuk akses langsung ke Gemini",
+    "value": null,
+    "unit": null,
+    "attribute": "shortcut_feature",
+    "attribute_value": "Gemini",
+    "context": "Akses tombol power",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "tombol power-nya bisa buat akses langsung ke Gemini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:00,850",
+    "timestamp_end": "00:07:03,970",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E048",
+    "topic": "software",
+    "subtopic": "Bixby",
+    "type": "FACT",
+    "claim": "Tidak ada fitur Bixby",
+    "value": null,
+    "unit": null,
+    "attribute": "feature_availability",
+    "attribute_value": "absent",
+    "context": "Ketersediaan asisten suara",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "ini nggak ada Bixby",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:03,970",
+    "timestamp_end": "00:07:05,970",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E049",
+    "topic": "camera",
+    "subtopic": "triple camera",
+    "type": "FACT",
+    "claim": "Menggunakan setup triple camera di belakang",
+    "value": 3,
+    "unit": null,
+    "attribute": "camera_setup",
+    "attribute_value": "triple camera",
+    "context": "Konfigurasi kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 pakai setup triple camera di belakang",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E050",
+      "iiFusNBRirA-E051",
+      "iiFusNBRirA-E052"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:12,790",
+    "timestamp_end": "00:07:17,680",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E050",
+    "topic": "camera",
+    "subtopic": "kamera utama",
+    "type": "FACT",
+    "claim": "Kamera utama memiliki resolusi 50MP dengan OIS",
+    "value": 50,
+    "unit": "MP",
+    "attribute": "main_camera_resolution",
+    "attribute_value": "50MP",
+    "context": "Spesifikasi kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada kamera utama 50MP dengan OIS",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E049"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:17,680",
+    "timestamp_end": "00:07:20,699",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E051",
+    "topic": "camera",
+    "subtopic": "kamera ultrawide",
+    "type": "FACT",
+    "claim": "Kamera ultrawide memiliki resolusi 8MP",
+    "value": 8,
+    "unit": "MP",
+    "attribute": "ultrawide_camera_resolution",
+    "attribute_value": "8MP",
+    "context": "Spesifikasi kamera ultrawide",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada kamera ultrawide 8MP",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E049"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:20,699",
+    "timestamp_end": "00:07:22,740",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E052",
+    "topic": "camera",
+    "subtopic": "kamera makro",
+    "type": "FACT",
+    "claim": "Kamera makro memiliki resolusi 2MP",
+    "value": 2,
+    "unit": "MP",
+    "attribute": "macro_camera_resolution",
+    "attribute_value": "2MP",
+    "context": "Spesifikasi kamera makro",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan kamera makro 2MP",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E049",
+      "iiFusNBRirA-E053"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:22,740",
+    "timestamp_end": "00:07:24,699",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E053",
+    "topic": "camera",
+    "subtopic": "kamera makro",
+    "type": "OPINION",
+    "claim": "Keberadaan kamera makro dinilai tidak terlalu berguna",
+    "value": null,
+    "unit": null,
+    "attribute": "macro_camera_usefulness",
+    "attribute_value": "tidak berguna",
+    "context": "Penilaian kegunaan lensa makro",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "yang menurut saya keberadaannya nggak terlalu berguna lah ya",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E052"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:24,699",
+    "timestamp_end": "00:07:27,300",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E054",
+    "topic": "camera",
+    "subtopic": "kamera ultrawide",
+    "type": "OPINION",
+    "claim": "Reviewer mengapresiasi Samsung masih bisa memberikan kamera ultrawide di harga segini",
+    "value": null,
+    "unit": null,
+    "attribute": "ultrawide_presence",
+    "attribute_value": "dipuji",
+    "context": "Penilaian ketersediaan kamera ultrawide",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Menurut saya yang cukup penting, Samsung masih bisa kasih kamera ultrawide di HP harga segini",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E055"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:28,319",
+    "timestamp_end": "00:07:32,519",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E055",
+    "topic": "camera",
+    "subtopic": "kamera ultrawide",
+    "type": "COMPARISON",
+    "claim": "Beberapa HP pesaing di harga mirip tidak diberi kamera ultrawide",
+    "value": null,
+    "unit": null,
+    "attribute": "competitor_comparison",
+    "attribute_value": "tanpa ultrawide",
+    "context": "Perbandingan fitur dengan kompetitor",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Karena kalau saya cek, ada beberapa HP pesaing di harga yang mirip, tapi nggak dikasih ultrawide",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E054"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:32,860",
+    "timestamp_end": "00:07:37,000",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E056",
+    "topic": "camera",
+    "subtopic": "kamera ultrawide",
+    "type": "OPINION",
+    "claim": "Hasil foto kamera ultrawide dinilai sangat lumayan dan sudah bagus untuk harga segini",
+    "value": null,
+    "unit": null,
+    "attribute": "ultrawide_photo_quality",
+    "attribute_value": "lumayan bagus",
+    "context": "Penilaian kualitas foto ultrawide",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Hasil fotonya pun menurut saya sangat lumayan. Ya sudah bagus lah buat harga segini mah ya",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E051"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:07:41,660",
+    "timestamp_end": "00:07:46,100",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E057",
+    "topic": "camera",
+    "subtopic": "kamera ultrawide",
+    "type": "OBSERVATION",
+    "claim": "Pada kondisi low light, detail foto menjadi agak soft dan noisy",
+    "value": null,
+    "unit": null,
+    "attribute": "low_light_detail",
+    "attribute_value": "soft dan noisy",
+    "context": "Performa kamera di kondisi minim cahaya",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Paling pas masuk ke kondisi low light, sudah mulai kelihatan kalau detailnya jadi agak soft dan noisy ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:07:55,339",
+    "timestamp_end": "00:07:59,920",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E058",
+    "topic": "camera",
+    "subtopic": "kamera utama",
+    "type": "OPINION",
+    "claim": "Hasil foto kamera utama dinilai bagus dan reviewer merasa impressed",
+    "value": null,
+    "unit": null,
+    "attribute": "main_camera_quality",
+    "attribute_value": "bagus",
+    "context": "Penilaian kualitas kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk kamera utamanya, hasilnya bagus, saya impressed",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E050"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:08:11,680",
+    "timestamp_end": "00:08:16,079",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E059",
+    "topic": "camera",
+    "subtopic": "kamera utama",
+    "type": "OBSERVATION",
+    "claim": "Sensor kamera utama tidak sebesar A36 dan A56",
+    "value": null,
+    "unit": null,
+    "attribute": "sensor_size",
+    "attribute_value": "lebih kecil",
+    "context": "Perbandingan ukuran sensor kamera",
+    "comparison_target": "A36 dan A56",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "tapi sensornya nggak sebesar di A36, apalagi yang di A56 ya",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E050"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:08:17,980",
+    "timestamp_end": "00:08:25,040",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E060",
+    "topic": "camera",
+    "subtopic": "zoom",
+    "type": "OPINION",
+    "claim": "Hasil foto pada zoom 2x atau 3x dinilai not bad",
+    "value": null,
+    "unit": null,
+    "attribute": "zoom_quality",
+    "attribute_value": "not bad",
+    "context": "Kualitas foto menggunakan zoom",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "kalau masih di 2x atau 3x zoom, not bad lah",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:25,360",
+    "timestamp_end": "00:08:28,879",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E061",
+    "topic": "camera",
+    "subtopic": "AI Color Filter",
+    "type": "FACT",
+    "claim": "Tersedia fitur AI Color Filter yang sama seperti HP Samsung lain yang lebih mahal",
+    "value": null,
+    "unit": null,
+    "attribute": "camera_feature",
+    "attribute_value": "AI Color Filter",
+    "context": "Fitur filter warna kamera",
+    "comparison_target": "HP Samsung lebih mahal",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "masih dikasih fitur AI Color Filter yang sama kayak HP Samsung lain yang lebih mahal juga",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:38,200",
+    "timestamp_end": "00:08:43,700",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E062",
+    "topic": "camera",
+    "subtopic": "mode portrait",
+    "type": "FACT",
+    "claim": "Mode portrait hanya bisa di 1x zoom tanpa opsi penyesuaian zoom",
+    "value": 1,
+    "unit": "x",
+    "attribute": "portrait_mode_zoom",
+    "attribute_value": "1x zoom",
+    "context": "Batasan mode portrait",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "cuma bisa di 1x zoom, nggak bisa diatur-atur lagi zoom-nya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:58,850",
+    "timestamp_end": "00:09:02,110",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E063",
+    "topic": "camera",
+    "subtopic": "low light",
+    "type": "OPINION",
+    "claim": "Kualitas foto low light dinilai boleh juga dan sudah bagus untuk harga segini",
+    "value": null,
+    "unit": null,
+    "attribute": "low_light_quality",
+    "attribute_value": "bagus",
+    "context": "Penilaian kualitas foto kondisi minim cahaya",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Pas foto gelap atau low light, saya bilang boleh juga sih, buat harga segini sudah bagus",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E064"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:09:05,220",
+    "timestamp_end": "00:09:09,220",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E064",
+    "topic": "camera",
+    "subtopic": "low light",
+    "type": "COMPARISON",
+    "claim": "Kualitas low light jauh dibandingkan kamera ultrawide",
+    "value": null,
+    "unit": null,
+    "attribute": "quality_comparison",
+    "attribute_value": "lebih baik",
+    "context": "Perbandingan kualitas kamera utama vs ultrawide di low light",
+    "comparison_target": "kamera ultrawide",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kualitasnya jauh dibandingkan kamera ultrawide-nya tadi",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E063"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:09,559",
+    "timestamp_end": "00:09:14,059",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E065",
+    "topic": "camera",
+    "subtopic": "night mode",
+    "type": "OBSERVATION",
+    "claim": "Saat night mode aktif, efek HDR dan detail dinaikkan serta noise dikurangi",
+    "value": null,
+    "unit": null,
+    "attribute": "night_mode_adjustment",
+    "attribute_value": "HDR/detail naik, noise turun",
+    "context": "Perilaku night mode pada kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Pas pakai night mode, efek HDR dan detail agak dinaikin, noise-nya juga kelihatan dikurangin",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:09:14,460",
+    "timestamp_end": "00:09:19,200",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E066",
+    "topic": "camera",
+    "subtopic": "night-mode",
+    "type": "OBSERVATION",
+    "claim": "Penggunaan night mode menaikkan efek HDR dan detail serta mengurangi noise",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian night mode",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "efek HDR dan detail agak dinaikin, noise-nya juga kelihatan dikurangin",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:09:14,460",
+    "timestamp_end": "00:09:19,200",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E067",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "OPINION",
+    "claim": "Hasil foto night mode ultrawide tidak terlalu berbeda jauh dengan foto tanpa night mode",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan foto ultrawide dengan dan tanpa night mode",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "overall nggak terlalu beda jauh sama foto tanpa night mode-nya tadi ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:19,539",
+    "timestamp_end": "00:09:22,919",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E068",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "MEASUREMENT",
+    "claim": "Resolusi kamera selfie adalah 13MP",
+    "value": 13,
+    "unit": "MP",
+    "attribute": "camera_resolution",
+    "attribute_value": "13MP",
+    "context": "Spesifikasi kamera depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kamera selfie-nya beresolusi 13MP",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:25,240",
+    "timestamp_end": "00:09:30,320",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E069",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "OPINION",
+    "claim": "Kualitas kamera selfie di kondisi terang dinilai masih oke",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian kamera selfie kondisi terang",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "kalau di kondisi terang hasilnya masih oke menurut saya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:25,240",
+    "timestamp_end": "00:09:30,320",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E070",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "OBSERVATION",
+    "claim": "Kamera selfie dapat digunakan untuk mengambil foto portrait",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Fitur kamera depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Terus bisa ambil foto portrait juga",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:30,700",
+    "timestamp_end": "00:09:32,220",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E071",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "OBSERVATION",
+    "claim": "Foto kamera selfie di kondisi low light terlihat soft dan noisy jika tidak menggunakan night mode",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian kamera selfie kondisi low light",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Paling pas di low light kelihatan soft dan noisy fotonya kalau nggak pakai night mode",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:09:32,899",
+    "timestamp_end": "00:09:36,659",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E072",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "OBSERVATION",
+    "claim": "Penggunaan night mode membuat hasil foto selfie di low light menjadi agak mendingan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian kamera selfie low light dengan night mode",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Tapi kalau pakai night mode jadi agak mendingan lah",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:36,899",
+    "timestamp_end": "00:09:39,200",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E073",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "CLAIM",
+    "claim": "Kamera ultrawide dapat merekam video hingga resolusi Full HD 30fps",
+    "value": null,
+    "unit": null,
+    "attribute": "max_video_resolution",
+    "attribute_value": "Full HD 30fps",
+    "context": "Perekaman video kamera ultrawide",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera ultrawide-nya bisa rekam hingga resolusi Full HD 30fps",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:45,340",
+    "timestamp_end": "00:09:49,940",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E074",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "OPINION",
+    "claim": "Resolusi video kamera ultrawide dinilai standar di kelasnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Evaluasi resolusi video ultrawide",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "Resolusi yang standar ya di kelasnya ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:50,379",
+    "timestamp_end": "00:09:52,460",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E075",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "OPINION",
+    "claim": "Hasil perekaman video kamera ultrawide lumayan tajam",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas video kamera ultrawide",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "hasil kamera ultrawide-nya lumayan lah, lumayan tajam",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:09:52,639",
+    "timestamp_end": "00:09:56,340",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E076",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung masih memberikan sensor ultrawide yang baik untuk harga segini",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian sensor ultrawide",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "saya bilang sih Samsung masih kasih sensor ultrawide yang baik untuk harga segini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:10:01,480",
+    "timestamp_end": "00:10:05,120",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E077",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "OBSERVATION",
+    "claim": "Spesifikasi kamera ultrawide mirip dengan HP brand lain di harga 6 juta ke atas",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan spesifikasi ultrawide",
+    "comparison_target": "6 juta ke atas",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "speknya kelihatan mirip sama ultrawide HP brand lain di harga 6 juta ke atas",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:10:05,440",
+    "timestamp_end": "00:10:09,840",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E078",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OPINION",
+    "claim": "Hasil video kamera utama dinilai mantap dan sangat tajam di kelasnya terutama pada resolusi 4K",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas video kamera utama",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Hasil kamera utamanya sih mantap saya bilang. Tajam banget buat di kelasnya apalagi kalau kita rekam 4K",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:10:39,129",
+    "timestamp_end": "00:10:44,450",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E079",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OPINION",
+    "claim": "Hasil video kamera utama pada resolusi Full HD dinilai masih tajam",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas video kamera utama Full HD",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Di Full HD pun masih tajam saya bilang",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:10:44,750",
+    "timestamp_end": "00:10:46,350",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E080",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OPINION",
+    "claim": "Warna dan kontras video kamera utama dinilai asyik",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas warna video kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Warna dan kontrasnya juga asyik ya, pas dia nggak macem-macem",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:10:46,629",
+    "timestamp_end": "00:10:49,350",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E081",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OBSERVATION",
+    "claim": "Tersedia fitur AI color filter untuk perekaman video",
+    "value": null,
+    "unit": null,
+    "attribute": "feature",
+    "attribute_value": "AI color filter",
+    "context": "Fitur video kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Terus bisa pakai AI color filter juga buat di videonya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:10:49,350",
+    "timestamp_end": "00:10:52,610",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E082",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OBSERVATION",
+    "claim": "Dynamic range video kamera utama saat merekam backlight termasuk lebih lebar dibandingkan kamera ultrawide",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian dynamic range video kamera utama",
+    "comparison_target": "kamera ultrawide",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dynamic range pas rekam backlight termasuk lebar lah, lebih lebar dibandingkan ultrawide-nya tadi",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:10:52,990",
+    "timestamp_end": "00:10:57,409",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E083",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OPINION",
+    "claim": "Reviewer menyukai hasil perekaman video kamera utama di kondisi extreme low light",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian video low light kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Saya suka sih",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:10,679",
+    "timestamp_end": "00:11:11,279",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E084",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OBSERVATION",
+    "claim": "Fitur video portrait tidak tersedia pada kamera utama",
+    "value": null,
+    "unit": null,
+    "attribute": "feature",
+    "attribute_value": "video portrait",
+    "context": "Ketersediaan fitur video",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Paling nggak ada fitur video portrait saja",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:11,779",
+    "timestamp_end": "00:11:15,299",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E085",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "OBSERVATION",
+    "claim": "Samsung Galaxy A56 juga tidak memiliki fitur video portrait",
+    "value": null,
+    "unit": null,
+    "attribute": "feature",
+    "attribute_value": "video portrait",
+    "context": "Perbandingan fitur dengan model lain",
+    "comparison_target": "Galaxy A56",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "tapi di A56 juga nggak dikasih sama Samsung",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:11,779",
+    "timestamp_end": "00:11:15,299",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E086",
+    "topic": "camera",
+    "subtopic": "stabilisasi",
+    "type": "OBSERVATION",
+    "claim": "Perekaman video sambil berjalan pada resolusi Full HD 30fps menghasilkan kestabilan yang tidak gempa dan lumayan banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian video stabilization Full HD 30fps",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "pas saya coba rekam sambil jalan di resolusi Full HD 30fps, hasilnya nggak gempa ya, kestabilannya masih termasuk lumayan banget",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:11:19,700",
+    "timestamp_end": "00:11:27,220",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E087",
+    "topic": "camera",
+    "subtopic": "stabilisasi",
+    "type": "OBSERVATION",
+    "claim": "Perekaman video pada resolusi Full HD 60fps atau 4K hanya mengandalkan OIS tanpa tambahan EIS",
+    "value": null,
+    "unit": null,
+    "attribute": "stabilization_type",
+    "attribute_value": "OIS",
+    "context": "Pengujian video stabilization resolusi tinggi",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di resolusi yang lebih tinggi nih, di Full HD 60fps ataupun di 4K, dia tuh keliatannya cuma mengandalkan OIS-nya doang, nggak ditambah sama EIS",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:27,519",
+    "timestamp_end": "00:11:36,019",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E088",
+    "topic": "camera",
+    "subtopic": "stabilisasi",
+    "type": "OBSERVATION",
+    "claim": "Kestabilan video pada resolusi tinggi tidak sampai gempa parah namun tidak sebaik Full HD 30fps",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas stabilisasi resolusi tinggi",
+    "comparison_target": "Full HD 30fps",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "memang goyangnya nggak sampai yang gempa parah, tapi nggak sebagus yang resolusi Full HD 30fps tadi ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:36,440",
+    "timestamp_end": "00:11:41,860",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E089",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "CLAIM",
+    "claim": "Kamera selfie dapat merekam video hingga resolusi Full HD 30fps",
+    "value": null,
+    "unit": null,
+    "attribute": "max_video_resolution",
+    "attribute_value": "Full HD 30fps",
+    "context": "Perekaman video kamera depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kamera selfie-nya bisa rekam hingga Full HD 30fps",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:42,639",
+    "timestamp_end": "00:11:45,440",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E090",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "OBSERVATION",
+    "claim": "Hasil video kamera selfie lumayan di kondisi terang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian video kamera depan kondisi terang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "hasilnya lumayan kalau terangnya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:45,700",
+    "timestamp_end": "00:11:47,240",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E091",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "OBSERVATION",
+    "claim": "Hasil video kamera selfie di kondisi low light sudah noisy namun masih not bad",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian video kamera depan kondisi low light",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kalau di low light, sudah noisy, walau masih not bad lah menurut saya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:47,240",
+    "timestamp_end": "00:11:50,500",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E092",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OPINION",
+    "claim": "Samsung Galaxy A26 dinilai enak dan bagus untuk harganya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesimpulan review",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 ini enak dan bagus loh buat harganya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:11:54,299",
+    "timestamp_end": "00:11:58,679",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E093",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OBSERVATION",
+    "claim": "Desain bodi belakang Samsung Galaxy A26 termasuk premium di kelasnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kelebihan desain",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "desain bodi belakang termasuk premium di kelasnya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:11:58,919",
+    "timestamp_end": "00:12:03,440",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E094",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OBSERVATION",
+    "claim": "Performa Samsung Galaxy A26 enak untuk harga segini",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kelebihan performa",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "performanya juga enak buat harga segini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:12:03,799",
+    "timestamp_end": "00:12:05,620",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E095",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OBSERVATION",
+    "claim": "Chipset Samsung Galaxy A26 berasal dari HP kelas 5 jutaan yang diturunkan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Asal usul chipset",
+    "comparison_target": "HP 5 jutaan",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ingat ini tuh dulu chipset HP 5 jutaan yang diturunkan ke HP ini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:12:05,779",
+    "timestamp_end": "00:12:09,320",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E096",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OPINION",
+    "claim": "Perekaman video Samsung Galaxy A26 dinilai bagus banget untuk harganya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesimpulan kualitas video",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Termasuk perekaman videonya kalau saya bilang, bagus banget buat harganya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:12:13,279",
+    "timestamp_end": "00:12:16,320",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E097",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OPINION",
+    "claim": "Sektor keamanan Samsung Galaxy A26 dinilai tidak ada lawan di harga segini",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesimpulan keamanan",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk segi keamanan, nggak ada lawan lah di harga segini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:12:16,659",
+    "timestamp_end": "00:12:19,019",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E098",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OBSERVATION",
+    "claim": "Samsung menjanjikan update yang sangat panjang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Jaminan update software",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan update-nya dijanjikan sangat panjang pula",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:12:19,019",
+    "timestamp_end": "00:12:21,360",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E099",
+    "topic": "verdict",
+    "subtopic": "kesimpulan",
+    "type": "OBSERVATION",
+    "claim": "Desain layar waterdrop menjadi faktor yang membuat agak mundur untuk membeli HP ini",
+    "value": null,
+    "unit": null,
+    "attribute": "display_notch",
+    "attribute_value": "waterdrop",
+    "context": "Kekurangan desain layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "yang bikin agak mundur untuk beli HP ini tuh karena desain layar waterdrop-nya saja",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:12:21,720",
+    "timestamp_end": "00:12:26,159",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E100",
+    "topic": "comparison",
+    "subtopic": "samsung-galaxy-a35",
+    "type": "RECOMMENDATION",
+    "claim": "Disarankan memilih Samsung Galaxy A35 bagi yang tidak menyukai layar waterdrop di budget yang mirip",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Alternatif produk bagi yang tidak suka waterdrop",
+    "comparison_target": "Samsung Galaxy A35",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kalau kalian nggak suka sih, di budget yang mirip mungkin bisa beli Samsung Galaxy A35 ya produk tahun lalu",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:12:26,419",
+    "timestamp_end": "00:12:31,360",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E101",
+    "topic": "verdict",
+    "subtopic": "rekomendasi",
+    "type": "RECOMMENDATION",
+    "claim": "Samsung Galaxy A26 direkomendasikan bagi pengguna yang mencari HP baru tahun ini, jaminan update panjang, dan bisa mentolerir desain waterdrop terutama untuk orang tua, anak, dan pelajar",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Target pengguna dan rekomendasi pembelian",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Tapi kalau kalian pengennya HP yang baru yang tahun ini, dan pengen jaminan update yang lebih panjang tadi ya, terus masih bisa mentolerir waterdrop ini, apalagi kalau untuk orang tua, untuk anak, pelajar, saya rasa kalian bakal dapat experience yang nyaman dan masih menyenangkan",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:12:31,600",
+    "timestamp_end": "00:12:48,559",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?"
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E006",
+    "topic": "design",
+    "subtopic": null,
+    "type": "FACT",
+    "claim": "Tersedia opsi warna black. Tersedia opsi warna mint",
+    "value": null,
+    "unit": null,
+    "attribute": "color_option",
+    "attribute_value": "black",
+    "context": "Pilihan warna",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "ada yang warna black sama yang warna mint ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:51,189",
+    "timestamp_end": "00:00:55,030",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?",
+    "merged_subtopics": [
+      "warna-black",
+      "warna-mint"
+    ],
+    "merged_from_evidence_ids": [
+      "iiFusNBRirA-E006",
+      "iiFusNBRirA-E007"
+    ]
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E023",
+    "topic": "audio",
+    "subtopic": null,
+    "type": "FACT",
+    "claim": "Speaker menggunakan konfigurasi mono. Speaker HP ini masih mono",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_type",
+    "attribute_value": "mono",
+    "context": null,
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "speaker HP ini sayang masih mono ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:41,759",
+    "timestamp_end": "00:04:46,420",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?",
+    "merged_subtopics": [
+      "mono-speaker",
+      "speaker"
+    ],
+    "merged_from_evidence_ids": [
+      "iiFusNBRirA-E023",
+      "iiFusNBRirA-E025"
+    ]
+  },
+  {
+    "evidence_id": "iiFusNBRirA-E024",
+    "topic": "audio",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Reviewer menilai kualitas speaker lumayan untuk harganya. Kualitas speaker dinilai lumayan untuk harganya",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_quality_assessment",
+    "attribute_value": "lumayan",
+    "context": null,
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "kualitasnya sih lumayan buat harganya",
+    "related_evidence_ids": [
+      "iiFusNBRirA-E023"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 0,
+      "segment_end_index": 0,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:41,759",
+    "timestamp_end": "00:04:46,420",
+    "source": "TrendingTek",
+    "review_id": "iiFusNBRirA",
+    "video_url": "https://www.youtube.com/watch?v=iiFusNBRirA",
+    "video_title": "Review Samsung A26 5G | Beli Atau Cari HP Lain?",
+    "merged_subtopics": [
+      "mono-speaker",
+      "speaker"
+    ],
+    "merged_from_evidence_ids": [
+      "iiFusNBRirA-E024",
+      "iiFusNBRirA-E026"
+    ]
+  }
+]

@@ -1,0 +1,6136 @@
+[
+  {
+    "evidence_id": "4OZDxvPr4wY-E001",
+    "topic": "design",
+    "subtopic": "desain",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain Samsung Galaxy A26 5G asli cakep banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "desain Samsung Galaxy A26 5G ini asli cakep banget, guys",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 8,
+      "segment_end_index": 8,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:32,899",
+    "timestamp_end": "00:00:36,100",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E002",
+    "topic": "design",
+    "subtopic": "warna-mint",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki opsi warna mint",
+    "value": null,
+    "unit": null,
+    "attribute": "color_option",
+    "attribute_value": "Mint",
+    "context": "Varian warna Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Apalagi yang warna mint",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 9,
+      "segment_end_index": 9,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:36,100",
+    "timestamp_end": "00:00:37,479",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E003",
+    "topic": "design",
+    "subtopic": "backdoor",
+    "type": "FACT",
+    "claim": "Backdoor Samsung Galaxy A26 5G menggunakan bahan kaca",
+    "value": null,
+    "unit": null,
+    "attribute": "back_material",
+    "attribute_value": "kaca",
+    "context": "Material backdoor Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk backdoor-nya ini menggunakan kaca",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E004"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 10,
+      "segment_end_index": 10,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:37,479",
+    "timestamp_end": "00:00:41,719",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E004",
+    "topic": "durability",
+    "subtopic": "gorilla-glass-victus",
+    "type": "FACT",
+    "claim": "Backdoor Samsung Galaxy A26 5G dilapisi proteksi Gorilla Glass Victus",
+    "value": null,
+    "unit": null,
+    "attribute": "protection_type",
+    "attribute_value": "Gorilla Glass Victus",
+    "context": "Proteksi kaca backdoor Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan proteksi Gorilla Glass Victus",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E003",
+      "4OZDxvPr4wY-E005"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 10,
+      "segment_end_index": 10,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:37,479",
+    "timestamp_end": "00:00:41,719",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E005",
+    "topic": "durability",
+    "subtopic": "layar",
+    "type": "FACT",
+    "claim": "Layar Samsung Galaxy A26 5G menggunakan proteksi kaca yang sama dengan backdoor",
+    "value": null,
+    "unit": null,
+    "attribute": "protection_type",
+    "attribute_value": "Gorilla Glass Victus",
+    "context": "Proteksi layar Samsung Galaxy A26 5G",
+    "comparison_target": "backdoor",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ini sama, guys, seperti proteksi yang digunakan pada layar HP ini",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E004"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:41,719",
+    "timestamp_end": "00:00:46,320",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E006",
+    "topic": "design",
+    "subtopic": "desain-kamera",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain kamera Samsung Galaxy A26 5G membuat HP terasa premium",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain modul kamera Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "yang bikin HP ini terasa premium lagi yaitu di desain kameranya",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E007",
+      "4OZDxvPr4wY-E008"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 12,
+      "segment_end_index": 12,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:46,320",
+    "timestamp_end": "00:00:50,340",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E007",
+    "topic": "camera",
+    "subtopic": "triple-camera",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan setup triple camera",
+    "value": null,
+    "unit": null,
+    "attribute": "camera_setup",
+    "attribute_value": "triple camera",
+    "context": "Konfigurasi kamera belakang Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk kameranya menggunakan setup triple camera",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E006",
+      "4OZDxvPr4wY-E008"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 13,
+      "segment_end_index": 13,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:50,340",
+    "timestamp_end": "00:00:55,439",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E008",
+    "topic": "design",
+    "subtopic": "finishing",
+    "type": "FACT",
+    "claim": "Kamera Samsung Galaxy A26 5G menggunakan finishing berwarna hitam",
+    "value": null,
+    "unit": null,
+    "attribute": "camera_finishing_color",
+    "attribute_value": "hitam",
+    "context": "Finishing desain kamera Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan finishing berwarna hitam",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E006",
+      "4OZDxvPr4wY-E007"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 13,
+      "segment_end_index": 13,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:50,340",
+    "timestamp_end": "00:00:55,439",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E009",
+    "topic": "design",
+    "subtopic": "sisi-samping",
+    "type": "FACT",
+    "claim": "Sisi samping Samsung Galaxy A26 5G menggunakan bahan plastik",
+    "value": null,
+    "unit": null,
+    "attribute": "frame_material",
+    "attribute_value": "plastik",
+    "context": "Material frame/sisi samping Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian di sisi samping ini menggunakan bahan plastik",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 14,
+      "segment_end_index": 14,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:55,439",
+    "timestamp_end": "00:00:58,240",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E010",
+    "topic": "sensors",
+    "subtopic": "fingerprint",
+    "type": "FACT",
+    "claim": "Sisi kanan Samsung Galaxy A26 5G memiliki tombol power yang menyatu dengan sensor fingerprint",
+    "value": null,
+    "unit": null,
+    "attribute": "fingerprint_type",
+    "attribute_value": "side-mounted",
+    "context": "Tombol power dan sensor sidik jari Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di sisi kanan di sini terdapat tombol power yang jadi satu dengan fingerprint",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 15,
+      "segment_end_index": 15,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:58,240",
+    "timestamp_end": "00:01:03,200",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E011",
+    "topic": "design",
+    "subtopic": "tombol-volume",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi dengan tombol volume di sisi kanan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Tombol fisik Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian ada tombol volume",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 16,
+      "segment_end_index": 16,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:03,200",
+    "timestamp_end": "00:01:08,980",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E012",
+    "topic": "audio",
+    "subtopic": "mikrofon",
+    "type": "FACT",
+    "claim": "Bagian atas Samsung Galaxy A26 5G hanya dilengkapi mikrofon",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Port dan interface bagian atas Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di bagian atas di sini cuma ada mikrofon saja",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 16,
+      "segment_end_index": 16,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:03,200",
+    "timestamp_end": "00:01:08,980",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E013",
+    "topic": "design",
+    "subtopic": "slot-sim-card",
+    "type": "FACT",
+    "claim": "Bagian kiri Samsung Galaxy A26 5G terdapat slot SIM card",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sisi kiri Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di bagian kiri ada slot SIM card",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 17,
+      "segment_end_index": 17,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:08,980",
+    "timestamp_end": "00:01:11,239",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E014",
+    "topic": "audio",
+    "subtopic": "dual-mikrofon",
+    "type": "FACT",
+    "claim": "Bagian bawah Samsung Galaxy A26 5G terdapat dual mikrofon",
+    "value": null,
+    "unit": null,
+    "attribute": "microphone_setup",
+    "attribute_value": "dual mikrofon",
+    "context": "Interface audio bagian bawah Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian di bagian bawah di sini ada dual mikrofon",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E015",
+      "4OZDxvPr4wY-E016"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 18,
+      "segment_end_index": 18,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:11,239",
+    "timestamp_end": "00:01:13,920",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E015",
+    "topic": "audio",
+    "subtopic": "speaker",
+    "type": "FACT",
+    "claim": "Bagian bawah Samsung Galaxy A26 5G terdapat speaker",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Interface audio bagian bawah Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian ada speaker",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E014",
+      "4OZDxvPr4wY-E016"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 19,
+      "segment_end_index": 19,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:13,920",
+    "timestamp_end": "00:01:17,159",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E016",
+    "topic": "connectivity",
+    "subtopic": "usb-type-c",
+    "type": "FACT",
+    "claim": "Bagian bawah Samsung Galaxy A26 5G terdapat port USB Type-C",
+    "value": null,
+    "unit": null,
+    "attribute": "port_type",
+    "attribute_value": "USB Type-C",
+    "context": "Port pengisian daya dan data bagian bawah Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan ada USB Type-C",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E014",
+      "4OZDxvPr4wY-E015"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 19,
+      "segment_end_index": 19,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:13,920",
+    "timestamp_end": "00:01:17,159",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E017",
+    "topic": "durability",
+    "subtopic": "ip67",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki sertifikasi ketahanan IP67",
+    "value": null,
+    "unit": null,
+    "attribute": "certification",
+    "attribute_value": "IP67",
+    "context": "Sertifikasi ketahanan air dan debu Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini memiliki sertifikasi IP67",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E018",
+      "4OZDxvPr4wY-E019",
+      "4OZDxvPr4wY-E020"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 20,
+      "segment_end_index": 20,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:17,159",
+    "timestamp_end": "00:01:21,439",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E018",
+    "topic": "durability",
+    "subtopic": "ip67",
+    "type": "FACT",
+    "claim": "Angka 6 pada rating IP67 menunjukkan perlindungan penuh terhadap debu",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Definisi standar ketahanan debu sertifikasi IP67",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "standard_definition",
+    "source_excerpt": "Angka 6 pada IP67 berarti perlindungan penuh terhadap debu",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E017",
+      "4OZDxvPr4wY-E019",
+      "4OZDxvPr4wY-E020"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 21,
+      "segment_end_index": 21,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:21,439",
+    "timestamp_end": "00:01:25,840",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E019",
+    "topic": "durability",
+    "subtopic": "kedalaman",
+    "type": "FACT",
+    "claim": "Angka 7 pada IP67 menunjukkan perlindungan terhadap air hingga kedalaman 1 meter",
+    "value": 1,
+    "unit": "meter",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Definisi standar kedalaman terendam air sertifikasi IP67",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "standard_definition",
+    "source_excerpt": "angka 7 menunjukkan perlindungan terhadap air dengan kondisi terendam hingga kedalaman 1 meter",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E017",
+      "4OZDxvPr4wY-E018",
+      "4OZDxvPr4wY-E020"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 22,
+      "segment_end_index": 22,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:25,840",
+    "timestamp_end": "00:01:34,719",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E020",
+    "topic": "durability",
+    "subtopic": "30-menit",
+    "type": "FACT",
+    "claim": "Perlindungan terendam air pada sertifikasi IP67 berlaku selama 30 menit",
+    "value": 30,
+    "unit": "menit",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Definisi standar durasi terendam air sertifikasi IP67",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "standard_definition",
+    "source_excerpt": "selama 30 menit",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E017",
+      "4OZDxvPr4wY-E018",
+      "4OZDxvPr4wY-E019"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 22,
+      "segment_end_index": 22,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:25,840",
+    "timestamp_end": "00:01:34,719",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E021",
+    "topic": "connectivity",
+    "subtopic": "jaringan-5g",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung jaringan 5G",
+    "value": null,
+    "unit": null,
+    "attribute": "network_support",
+    "attribute_value": "5G",
+    "context": "Dukungan jaringan seluler Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini sudah menggunakan jaringan 5G",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E022"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 27,
+      "segment_end_index": 27,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:47,140",
+    "timestamp_end": "00:01:53,700",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E022",
+    "topic": "connectivity",
+    "subtopic": "penggunaan-jangka-panjang",
+    "type": "OPINION",
+    "claim": "Reviewer menilai dukungan jaringan 5G sudah oke banget untuk penggunaan jangka panjang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Manfaat jaringan 5G untuk jangka panjang",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "untuk penggunaan jangka panjang tentunya sudah oke banget ya",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E021"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 27,
+      "segment_end_index": 27,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:47,140",
+    "timestamp_end": "00:01:53,700",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E023",
+    "topic": "performance",
+    "subtopic": "chipset",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G dibekali chipset yang ngebut",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Performa dapur pacu Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G ini dibekali dengan chipset yang ngebut",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 29,
+      "segment_end_index": 29,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:59,540",
+    "timestamp_end": "00:02:05,700",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E024",
+    "topic": "performance",
+    "subtopic": "exynos-1380",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan chipset Exynos 1380",
+    "value": null,
+    "unit": null,
+    "attribute": "chipset",
+    "attribute_value": "Exynos 1380",
+    "context": "Chipset Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk chipset-nya pakai Exynos 1380",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E023"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 30,
+      "segment_end_index": 30,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:05,700",
+    "timestamp_end": "00:02:12,479",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E025",
+    "topic": "performance",
+    "subtopic": "ram",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi dengan RAM 8 GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kapasitas RAM Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan perpaduan RAM 8 GB",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E027"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 30,
+      "segment_end_index": 30,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:05,700",
+    "timestamp_end": "00:02:12,479",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E026",
+    "topic": "performance",
+    "subtopic": "storage",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi dengan storage 256 GB",
+    "value": 256,
+    "unit": "GB",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kapasitas penyimpanan internal Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan storage 256 GB",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E028"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 30,
+      "segment_end_index": 30,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:05,700",
+    "timestamp_end": "00:02:12,479",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E027",
+    "topic": "performance",
+    "subtopic": "lpddr4x",
+    "type": "FACT",
+    "claim": "RAM Samsung Galaxy A26 5G menggunakan tipe LPDDR4X",
+    "value": null,
+    "unit": null,
+    "attribute": "ram_type",
+    "attribute_value": "LPDDR4X",
+    "context": "Tipe RAM Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "untuk RAM-nya ini pakai tipe LPDDR4X",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E025"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 31,
+      "segment_end_index": 31,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:12,479",
+    "timestamp_end": "00:02:15,400",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E028",
+    "topic": "performance",
+    "subtopic": "penyimpanan-internal",
+    "type": "FACT",
+    "claim": "Penyimpanan internal Samsung Galaxy A26 5G menggunakan tipe UFS 2.2",
+    "value": null,
+    "unit": null,
+    "attribute": "storage_type",
+    "attribute_value": "UFS 2.2",
+    "context": "Tipe penyimpanan internal Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan untuk penyimpanan internalnya pakai tipe UFS 2.2",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E026"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 32,
+      "segment_end_index": 32,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:15,400",
+    "timestamp_end": "00:02:18,719",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E029",
+    "topic": "performance",
+    "subtopic": "transfer-file",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kecepatan transfer file besar di Samsung Galaxy A26 5G sudah ngebut banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kecepatan transfer file pada Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "untuk transfer-transfer file besar ini udah ngebut banget, guys",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E028"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 33,
+      "segment_end_index": 33,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:18,719",
+    "timestamp_end": "00:02:22,400",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E030",
+    "topic": "software",
+    "subtopic": "update-os",
+    "type": "FACT",
+    "claim": "Samsung mengklaim Samsung Galaxy A26 5G mendapatkan jaminan update OS hingga 6 kali",
+    "value": 6,
+    "unit": "kali",
+    "attribute": "os_update_generations",
+    "attribute_value": "6 kali",
+    "context": "Jaminan pembaruan sistem operasi dari Samsung",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "Samsung ngeklaim kalau si Samsung Galaxy A26 5G ini akan mendapatkan jaminan update OS hingga 6 kali",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E031"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:25,439",
+    "timestamp_end": "00:02:31,900",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E031",
+    "topic": "software",
+    "subtopic": "security-update",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendapatkan jaminan security update hingga 6 tahun menurut klaim Samsung",
+    "value": 6,
+    "unit": "tahun",
+    "attribute": "security_patch_years",
+    "attribute_value": "6 tahun",
+    "context": "Jaminan pembaruan keamanan dari Samsung",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "Dan kita akan mendapatkan security update hingga 6 tahun",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E030"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:31,900",
+    "timestamp_end": "00:02:36,000",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E034",
+    "topic": "software",
+    "subtopic": "one-ui-7",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G sudah menggunakan antarmuka One UI 7 secara langsung saat rilis",
+    "value": null,
+    "unit": null,
+    "context": "Sistem antarmuka bawaan perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G ini dari lahir sudah menggunakan One UI 7",
+    "attribute": "os_version",
+    "attribute_value": "One UI 7",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E035"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 38,
+      "segment_end_index": 38,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:41,520",
+    "timestamp_end": "00:02:48,120",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E035",
+    "topic": "software",
+    "subtopic": "android-15",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan basis sistem operasi Android 15 saat rilis",
+    "value": null,
+    "unit": null,
+    "context": "Sistem operasi bawaan perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan basis Android 15",
+    "attribute": "android_version",
+    "attribute_value": "Android 15",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E034"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 38,
+      "segment_end_index": 38,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:41,520",
+    "timestamp_end": "00:02:48,120",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E036",
+    "topic": "software",
+    "subtopic": "circle-to-search",
+    "type": "FACT",
+    "claim": "Fitur Circle to Search telah tersedia pada Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "context": "Fitur perangkat lunak One UI 7",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada fitur Circle to Search",
+    "attribute": "software_feature",
+    "attribute_value": "Circle to Search",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E037"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 41,
+      "segment_end_index": 41,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:57,759",
+    "timestamp_end": "00:03:02,500",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E037",
+    "topic": "software",
+    "subtopic": "now-bar",
+    "type": "FACT",
+    "claim": "Fitur Now Bar telah tersedia pada Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "context": "Fitur perangkat lunak One UI 7",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kemudian ada fitur Now Bar juga sudah ready di HP ini",
+    "attribute": "software_feature",
+    "attribute_value": "Now Bar",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E036"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 41,
+      "segment_end_index": 41,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:57,759",
+    "timestamp_end": "00:03:02,500",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E038",
+    "topic": "software",
+    "subtopic": "fitur-ai",
+    "type": "FACT",
+    "claim": "Beberapa fitur AI lainnya sudah tersedia pada Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "context": "Ketersediaan fitur AI pada sistem",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan beberapa fitur AI lainnya juga sudah tersedia",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 42,
+      "segment_end_index": 42,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:02,699",
+    "timestamp_end": "00:03:05,780",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E039",
+    "topic": "camera",
+    "subtopic": "hasil-kamera",
+    "type": "OPINION",
+    "claim": "Reviewer sangat menyukai hasil kamera Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "context": "Evaluasi umum hasil tangkapan kamera",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "aku suka banget dengan hasil kamera Samsung Galaxy A26 5G ini",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 46,
+      "segment_end_index": 46,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:18,199",
+    "timestamp_end": "00:03:22,620",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E040",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "FACT",
+    "claim": "Kamera utama Samsung Galaxy A26 5G memiliki resolusi 50 MP",
+    "value": 50,
+    "unit": "MP",
+    "context": "Spesifikasi kamera utama belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera utama, HP ini memiliki resolusi 50 MP",
+    "attribute": "primary_camera_resolution",
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 47,
+      "segment_end_index": 47,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:22,620",
+    "timestamp_end": "00:03:26,159",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E041",
+    "topic": "camera",
+    "subtopic": "ois",
+    "type": "FACT",
+    "claim": "Kamera utama Samsung Galaxy A26 5G dilengkapi dengan fitur OIS (Optical Image Stabilization)",
+    "value": null,
+    "unit": null,
+    "context": "Fitur stabilisasi optik kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "sudah tersedia OIS atau Optical Image Stabilization di HP ini",
+    "attribute": "stabilization_type",
+    "attribute_value": "OIS",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E040"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 48,
+      "segment_end_index": 48,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:26,159",
+    "timestamp_end": "00:03:31,240",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E042",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi kamera ultrawide beresolusi 8 MP",
+    "value": 8,
+    "unit": "MP",
+    "context": "Spesifikasi kamera ultrawide belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "ada 8 MP kamera ultrawide",
+    "attribute": "ultrawide_camera_resolution",
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E043"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 49,
+      "segment_end_index": 49,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:31,240",
+    "timestamp_end": "00:03:35,800",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E043",
+    "topic": "camera",
+    "subtopic": "kamera-makro",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi kamera makro beresolusi 2 MP",
+    "value": 2,
+    "unit": "MP",
+    "context": "Spesifikasi kamera makro belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "2 MP kamera makro",
+    "attribute": "macro_camera_resolution",
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E042"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 49,
+      "segment_end_index": 49,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:31,240",
+    "timestamp_end": "00:03:35,800",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E044",
+    "topic": "camera",
+    "subtopic": "perekaman-video",
+    "type": "FACT",
+    "claim": "Perekaman video Samsung Galaxy A26 5G mendukung resolusi hingga 4K",
+    "value": null,
+    "unit": null,
+    "context": "Kemampuan maksimal perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "perekaman videonya bisa hingga 4K",
+    "attribute": "max_video_resolution",
+    "attribute_value": "4K",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 50,
+      "segment_end_index": 50,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:35,800",
+    "timestamp_end": "00:03:39,020",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E045",
+    "topic": "camera",
+    "subtopic": "gyro-eis",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G sudah dilengkapi dengan fitur gyro-EIS",
+    "value": null,
+    "unit": null,
+    "context": "Fitur stabilisasi video elektronik",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "untuk gyro-EIS-nya sudah tersedia di HP ini",
+    "attribute": "stabilization_type",
+    "attribute_value": "gyro-EIS",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 51,
+      "segment_end_index": 51,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:39,020",
+    "timestamp_end": "00:03:42,639",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E046",
+    "topic": "camera",
+    "subtopic": "kamera-depan",
+    "type": "FACT",
+    "claim": "Setelan perekaman video kamera depan berada pada opsi Full HD 30 fps",
+    "value": null,
+    "unit": null,
+    "context": "Pengujian perekaman video kamera depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "setelannya tuh ada di Full HD 30 fps",
+    "attribute": "front_video_mode",
+    "attribute_value": "Full HD 30 fps",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E047"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 53,
+      "segment_end_index": 53,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:12,740",
+    "timestamp_end": "00:04:16,220",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E047",
+    "topic": "camera",
+    "subtopic": "fitur-stabilisasi",
+    "type": "OBSERVATION",
+    "claim": "Tampilan video kamera depan sedikit nge-zoom karena penggunaan fitur stabilisasi",
+    "value": null,
+    "unit": null,
+    "context": "Pengujian perekaman video kamera depan saat bergerak",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ini gambarnya tuh sedikit nge-zoom ya, guys. Karena dipakai untuk fitur stabilisasinya.",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E046",
+      "4OZDxvPr4wY-E048"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 54,
+      "segment_end_index": 55,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:16,220",
+    "timestamp_end": "00:04:22,600",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E048",
+    "topic": "camera",
+    "subtopic": "kamera-depan",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hasil perekaman video kamera depan Samsung Galaxy A26 5G sangat stabil",
+    "value": null,
+    "unit": null,
+    "context": "Pengujian perekaman video kamera depan saat berjalan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "asli, ini stabil banget sih untuk hasil perekaman video kamera depan Samsung Galaxy A26 5G",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E047"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:24,420",
+    "timestamp_end": "00:04:30,620",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E049",
+    "topic": "camera",
+    "subtopic": "dynamic-range",
+    "type": "OPINION",
+    "claim": "Reviewer menilai dynamic range hasil perekaman video kamera depan tergolong cukup luas",
+    "value": null,
+    "unit": null,
+    "context": "Pengujian perekaman video kamera depan di luar ruangan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "untuk dynamic range juga cukup luas ya",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 58,
+      "segment_end_index": 58,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:30,620",
+    "timestamp_end": "00:04:33,939",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E050",
+    "topic": "camera",
+    "subtopic": "perekaman-video",
+    "type": "OPINION",
+    "claim": "Reviewer menilai wajah masih terlihat dengan cukup bagus saat mengambil video menghadap arah matahari",
+    "value": null,
+    "unit": null,
+    "context": "Pengujian video kamera depan kondisi backlight",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "wajahku masih kelihatan dengan cukup bagus",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 62,
+      "segment_end_index": 62,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:47,779",
+    "timestamp_end": "00:04:51,579",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E051",
+    "topic": "camera",
+    "subtopic": "perekaman-video",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hasil perekaman video Samsung Galaxy A26 5G cakep banget",
+    "value": null,
+    "unit": null,
+    "context": "Evaluasi umum perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Cakep banget untuk hasil perekaman video Samsung Galaxy A26 5G ini",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 64,
+      "segment_end_index": 64,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:54,720",
+    "timestamp_end": "00:04:59,639",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E052",
+    "topic": "camera",
+    "subtopic": "stabilizer",
+    "type": "OPINION",
+    "claim": "Reviewer menilai performa stabilizer perekaman video tergolong bagus",
+    "value": null,
+    "unit": null,
+    "context": "Evaluasi fungsi stabilisasi perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk stabilizer-nya juga bagus",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 65,
+      "segment_end_index": 65,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:59,639",
+    "timestamp_end": "00:05:01,420",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E053",
+    "topic": "camera",
+    "subtopic": "dynamic-range",
+    "type": "OPINION",
+    "claim": "Reviewer menilai dynamic range perekaman video tergolong bagus",
+    "value": null,
+    "unit": null,
+    "context": "Evaluasi rentang dinamis perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Dynamic range bagus",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 66,
+      "segment_end_index": 66,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:01,420",
+    "timestamp_end": "00:05:02,459",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E054",
+    "topic": "camera",
+    "subtopic": "skin-tone",
+    "type": "OPINION",
+    "claim": "Reviewer menilai reproduksi skin tone pada rekaman video masih terjaga dengan cukup baik",
+    "value": null,
+    "unit": null,
+    "context": "Evaluasi warna kulit pada hasil rekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "untuk skin tone ini juga masih terjaga dengan cukup baik",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 67,
+      "segment_end_index": 67,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:02,459",
+    "timestamp_end": "00:05:06,860",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E055",
+    "topic": "verdict",
+    "subtopic": "vlogging",
+    "type": "OPINION",
+    "claim": "Reviewer menganggap Samsung Galaxy A26 5G cukup direkomendasikan untuk pengguna yang mencari HP untuk kebutuhan vlogging",
+    "value": null,
+    "unit": null,
+    "context": "Rekomendasi target pengguna vlogging",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "buat teman-teman yang cari HP untuk vlogging, ini menurutku cukup recommended sih untuk kalian pilih",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 68,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:06,860",
+    "timestamp_end": "00:05:16,300",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E056",
+    "topic": "camera",
+    "subtopic": "kamera-depan",
+    "type": "FACT",
+    "claim": "Perekaman video kamera depan belum mendukung resolusi 4K dan terbatas pada 1080p 30 fps",
+    "value": null,
+    "unit": null,
+    "context": "Batas resolusi perekaman video kamera depan",
+    "comparison_target": "ekspektasi",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera depan HP ini perekaman videonya itu belum 4K. Cuma mentoknya itu di 1080p 30 fps",
+    "attribute": "front_max_video_resolution",
+    "attribute_value": "1080p 30 fps",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E057"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 72,
+      "segment_end_index": 74,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "GROUNDING",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: kata bermakna excerpt ada di chunk dalam urutan asli; kata fungsi / imbuhan / ejaan dinormalisasi (coverage 100%, span 72..74)."
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "PROVENANCE",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: excerpt traceable ke segmen 72..74 setelah normalisasi kata fungsi / imbuhan / ejaan (coverage 100%)."
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:05:24,980",
+    "timestamp_end": "00:05:31,839",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E057",
+    "topic": "camera",
+    "subtopic": "kamera-depan",
+    "type": "OPINION",
+    "claim": "Reviewer menyayangkan fitur perekaman 4K di kamera depan HP ini masih belum aktif",
+    "value": null,
+    "unit": null,
+    "context": "Keterbatasan perekaman video 4K kamera depan",
+    "comparison_target": "ekspektasi",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "untuk 4K di kamera depan HP ini sayangnya masih belum aktif",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E056"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 70,
+      "segment_end_index": 70,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:16,300",
+    "timestamp_end": "00:05:21,360",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E058",
+    "topic": "camera",
+    "subtopic": "1080p-30-fps",
+    "type": "FACT",
+    "claim": "Perekaman video mentok di resolusi 1080p 30 fps",
+    "value": null,
+    "unit": null,
+    "attribute": "max_video_resolution",
+    "attribute_value": "1080p 30 fps",
+    "context": "Batas resolusi perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Cuma mentoknya itu di 1080p 30 fps atau Full HD 30 fps.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 74,
+      "segment_end_index": 75,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:29,019",
+    "timestamp_end": "00:05:34,519",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E059",
+    "topic": "camera",
+    "subtopic": "stabilizer",
+    "type": "OPINION",
+    "claim": "Reviewer menilai stabilizer kamera utama sama bagusnya dengan kamera selfie",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian stabilizer perekaman video kamera utama",
+    "comparison_target": "kamera selfie",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk stabilizer ini sama-sama bagus ya, seperti di kamera selfie-nya tadi.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 79,
+      "segment_end_index": 80,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:43,160",
+    "timestamp_end": "00:05:49,100",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E060",
+    "topic": "camera",
+    "subtopic": "autofocus",
+    "type": "OPINION",
+    "claim": "Reviewer menilai autofocus kamera utama bagus banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian autofocus perekaman video kamera utama",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk autofocus-nya ini bagus banget.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 83,
+      "segment_end_index": 83,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:53,649",
+    "timestamp_end": "00:05:57,050",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E061",
+    "topic": "camera",
+    "subtopic": "stabilizer",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hasil perekaman video dengan stabilizer saat dipakai berjalan cakep banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian stabilizer perekaman video kamera utama sambil berjalan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Oke, ini cakep banget sih.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 87,
+      "segment_end_index": 87,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:03,509",
+    "timestamp_end": "00:06:05,730",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E062",
+    "topic": "camera",
+    "subtopic": "lensa-ultrawide",
+    "type": "FACT",
+    "claim": "Lensa ultrawide dapat aktif pada perekaman video resolusi 1080p 30 fps",
+    "value": null,
+    "unit": null,
+    "attribute": "ultrawide_lens_support",
+    "attribute_value": "aktif pada 1080p 30 fps",
+    "context": "Perekaman video resolusi 1080p 30 fps",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kalau kita pakai di resolusi 1080p 30 fps, ini untuk lensa ultrawide dan lensa 2x ini bisa aktif.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E063",
+      "4OZDxvPr4wY-E065"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 89,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:05,730",
+    "timestamp_end": "00:06:15,529",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E063",
+    "topic": "camera",
+    "subtopic": "lensa-2x",
+    "type": "FACT",
+    "claim": "Lensa 2x dapat aktif pada perekaman video resolusi 1080p 30 fps",
+    "value": null,
+    "unit": null,
+    "attribute": "zoom_2x_support",
+    "attribute_value": "aktif pada 1080p 30 fps",
+    "context": "Perekaman video resolusi 1080p 30 fps",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kalau kita pakai di resolusi 1080p 30 fps, ini untuk lensa ultrawide dan lensa 2x ini bisa aktif.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E062",
+      "4OZDxvPr4wY-E066"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 89,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:05,730",
+    "timestamp_end": "00:06:15,529",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E064",
+    "topic": "camera",
+    "subtopic": "perekaman-videonya",
+    "type": "OBSERVATION",
+    "claim": "Perekaman video mendukung pembesaran hingga lensa 10x",
+    "value": null,
+    "unit": null,
+    "attribute": "max_video_zoom",
+    "attribute_value": "10x",
+    "context": "Pengujian tingkat pembesaran saat perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Lensa 10x. Ini masih bisa ya di perekaman videonya.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 96,
+      "segment_end_index": 97,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:27,569",
+    "timestamp_end": "00:06:32,209",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E065",
+    "topic": "camera",
+    "subtopic": "lensa-ultrawide",
+    "type": "FACT",
+    "claim": "Lensa ultrawide tidak dapat aktif pada perekaman video resolusi 4K",
+    "value": null,
+    "unit": null,
+    "attribute": "ultrawide_lens_support",
+    "attribute_value": "tidak aktif pada 4K",
+    "context": "Perekaman video resolusi 4K",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Cuma, kalau kita pakai di resolusi 4K, untuk lensa ultrawide dan lensa 2x ini tidak bisa aktif, teman-teman.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E062",
+      "4OZDxvPr4wY-E066"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 98,
+      "segment_end_index": 100,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "GROUNDING",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: kata bermakna excerpt ada di chunk dalam urutan asli; kata fungsi / imbuhan / ejaan dinormalisasi (coverage 100%, span 98..100)."
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "PROVENANCE",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: excerpt traceable ke segmen 98..100 setelah normalisasi kata fungsi / imbuhan / ejaan (coverage 100%)."
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:32,209",
+    "timestamp_end": "00:06:41,310",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E066",
+    "topic": "camera",
+    "subtopic": "lensa-2x",
+    "type": "FACT",
+    "claim": "Lensa 2x tidak dapat aktif pada perekaman video resolusi 4K",
+    "value": null,
+    "unit": null,
+    "attribute": "zoom_2x_support",
+    "attribute_value": "tidak aktif pada 4K",
+    "context": "Perekaman video resolusi 4K",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Cuma, kalau kita pakai di resolusi 4K, untuk lensa ultrawide dan lensa 2x ini tidak bisa aktif, teman-teman.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E063",
+      "4OZDxvPr4wY-E065"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 98,
+      "segment_end_index": 100,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "GROUNDING",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: kata bermakna excerpt ada di chunk dalam urutan asli; kata fungsi / imbuhan / ejaan dinormalisasi (coverage 100%, span 98..100)."
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "PROVENANCE",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: excerpt traceable ke segmen 98..100 setelah normalisasi kata fungsi / imbuhan / ejaan (coverage 100%)."
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:32,209",
+    "timestamp_end": "00:06:41,310",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E067",
+    "topic": "camera",
+    "subtopic": "hasil-langitnya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hasil perekaman/foto ke arah langit masih kelihatan dengan cukup jelas",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengambilan gambar/video ke arah langit",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "untuk hasil langitnya masih kelihatan dengan cukup jelas.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 102,
+      "segment_end_index": 102,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:44,170",
+    "timestamp_end": "00:06:47,129",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E068",
+    "topic": "camera",
+    "subtopic": "kamera",
+    "type": "OPINION",
+    "claim": "Reviewer menilai performa kamera Samsung Galaxy A26 5G oke banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Evaluasi keseluruhan kamera Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Oke banget untuk kamera Samsung Galaxy A26 5G ini.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 103,
+      "segment_end_index": 103,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:47,129",
+    "timestamp_end": "00:06:51,610",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E069",
+    "topic": "display",
+    "subtopic": "bezel",
+    "type": "OPINION",
+    "claim": "Reviewer menilai bezel Samsung Galaxy A26 5G masih tergolong tebal",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Evaluasi ketebalan bezel layar",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "bezel Samsung Galaxy A26 5G ini masih tergolong tebal, guys.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E070"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 109,
+      "segment_end_index": 109,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:10,889",
+    "timestamp_end": "00:07:14,930",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E070",
+    "topic": "display",
+    "subtopic": "bezel",
+    "type": "COMPARISON",
+    "claim": "Bezel bagian bawah Samsung Galaxy A26 5G lebih tebal dibanding bezel kanan, kiri, dan atas",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan proporsi ketebalan bezel layar",
+    "comparison_target": "bezel kanan, kiri, dan atas",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Apalagi bezel yang di bagian bawah ini lebih tebal dibanding bezel kanan, kiri, dan juga atas.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E069"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 110,
+      "segment_end_index": 110,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:14,930",
+    "timestamp_end": "00:07:20,870",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E071",
+    "topic": "display",
+    "subtopic": "desain-notch",
+    "type": "COMPARISON",
+    "claim": "Desain notch Samsung Galaxy A26 5G masih sama seperti pendahulunya yaitu Samsung Galaxy A25",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain notch layar",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan sayangnya untuk desain notch di Samsung Galaxy A26 5G ini masih sama seperti pendahulunya, yaitu Samsung Galaxy A25.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E072"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 111,
+      "segment_end_index": 112,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:20,870",
+    "timestamp_end": "00:07:27,110",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E072",
+    "topic": "display",
+    "subtopic": "desain-notch",
+    "type": "FACT",
+    "claim": "Desain notch Samsung Galaxy A26 5G menggunakan bentuk waterdrop yang disebut Samsung sebagai Infinity-U",
+    "value": null,
+    "unit": null,
+    "attribute": "notch_design",
+    "attribute_value": "waterdrop / Infinity-U",
+    "context": "Bentuk dan penamaan notch layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk desain notch-nya ini masih menggunakan bentuk waterdrop atau Samsung menyebutnya dengan Infinity-U.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E071",
+      "4OZDxvPr4wY-E073"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 113,
+      "segment_end_index": 114,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:27,110",
+    "timestamp_end": "00:07:33,589",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E073",
+    "topic": "display",
+    "subtopic": "desain",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain notch memberikan kesan seperti HP lawas, HP jadul, dan HP murah",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Tampilan visual dan persepsi desain layar depan",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Dan desain ini bikin kesan kalau Samsung Galaxy A26 5G ini seperti HP lawas ya, HP jadul, dan HP murah.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E072"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 115,
+      "segment_end_index": 116,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:07:33,589",
+    "timestamp_end": "00:07:41,389",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E074",
+    "topic": "retail-package",
+    "subtopic": "kepala-charger",
+    "type": "FACT",
+    "claim": "Paket penjualan Samsung Galaxy A26 5G tidak mendapatkan kepala charger 25 Watt",
+    "value": null,
+    "unit": null,
+    "attribute": "included_charger",
+    "attribute_value": "tidak ada",
+    "context": "Kelengkapan paket penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Di sini, di paket penjualan kita tidak mendapatkan kepala charger 25 Watt.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E075"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 118,
+      "segment_end_index": 118,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:45,230",
+    "timestamp_end": "00:07:50,550",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E075",
+    "topic": "accessories",
+    "subtopic": "harganya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai harga kepala charger original 25 Watt cukup mahal",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pembelian terpisah kepala charger original 25 Watt",
+    "comparison_target": "ekspektasi",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Dan untuk harganya cukup mahal ya, guys.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E074"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 120,
+      "segment_end_index": 120,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:56,430",
+    "timestamp_end": "00:07:58,430",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E076",
+    "topic": "charging",
+    "subtopic": "kepala-charger",
+    "type": "FACT",
+    "claim": "Pengguna harus membeli kepala charger original 25 Watt secara terpisah",
+    "value": "25",
+    "unit": "W",
+    "attribute": "charger_power",
+    "attribute_value": "25 W",
+    "context": "Kelengkapan charger dalam paket penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi kita harus siapin uang ekstra untuk beli kepala charger ori 25 Watt.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E075",
+      "4OZDxvPr4wY-E078"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 119,
+      "segment_end_index": 119,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:50,550",
+    "timestamp_end": "00:07:56,430",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E078",
+    "topic": "accessories",
+    "subtopic": "original",
+    "type": "MEASUREMENT",
+    "claim": "Harga kepala charger original berada di kisaran 200 ribuan",
+    "value": "200",
+    "unit": "ribu",
+    "attribute": "charger_price",
+    "attribute_value": "200 ribu",
+    "context": "Harga kepala charger original 25 Watt",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk yang original-nya sekitar 200 ribuan.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E076",
+      "4OZDxvPr4wY-E075"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 121,
+      "segment_end_index": 121,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:58,430",
+    "timestamp_end": "00:08:01,009",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E079",
+    "topic": "audio",
+    "subtopic": "mono-speaker",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G hanya memiliki mono speaker di bagian bawah",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_type",
+    "attribute_value": "mono speaker",
+    "context": "Konfigurasi audio HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini cuma memiliki mono speaker.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E080"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 122,
+      "segment_end_index": 122,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:01,009",
+    "timestamp_end": "00:08:04,470",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E080",
+    "topic": "audio",
+    "subtopic": "dengerin-musik",
+    "type": "OPINION",
+    "claim": "Pengalaman mendengarkan musik di HP ini dinilai kurang oleh reviewer",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengalaman mendengarkan musik dengan mono speaker",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Jadi untuk experience dengerin musik di HP ini tentunya kurang ya, guys.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E079"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 124,
+      "segment_end_index": 124,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:07,970",
+    "timestamp_end": "00:08:12,730",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E081",
+    "topic": "audio",
+    "subtopic": "dengerin-musik",
+    "type": "OPINION",
+    "claim": "Mendengarkan musik tanpa TWS pada HP ini merupakan sebuah PR yang cukup besar",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengalaman mendengarkan musik tanpa TWS",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "ini merupakan sebuah PR yang cukup besar.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E080"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 126,
+      "segment_end_index": 126,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:16,110",
+    "timestamp_end": "00:08:19,089",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E082",
+    "topic": "audio",
+    "subtopic": "jack-audio",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G tidak dilengkapi jack audio 3,5 mm",
+    "value": null,
+    "unit": null,
+    "attribute": "audio_jack",
+    "attribute_value": "tidak ada",
+    "context": "Fitur konektivitas audio kabel",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di Samsung Galaxy A26 5G ini tidak tersedia jack audio 3,5 mm.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E083"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 127,
+      "segment_end_index": 127,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:08:19,089",
+    "timestamp_end": "00:08:24,470",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E083",
+    "topic": "audio",
+    "subtopic": "headset-kabel",
+    "type": "OPINION",
+    "claim": "HP ini dinilai kurang cocok bagi pengguna yang suka mendengarkan musik dengan headset kabel atau merekam audio dengan mikrofon kabel",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan headset kabel atau mikrofon kabel",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "HP ini kurang cocok buat kamu.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E082"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 129,
+      "segment_end_index": 129,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:30,189",
+    "timestamp_end": "00:08:32,950",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E084",
+    "topic": "camera",
+    "subtopic": "perekaman-video",
+    "type": "FACT",
+    "claim": "Pada perekaman video resolusi 4K hanya kamera utama yang muncul dan aktif",
+    "value": null,
+    "unit": null,
+    "attribute": "video_4k_active_camera",
+    "attribute_value": "kamera utama",
+    "context": "Perekaman video resolusi 4K",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "saat kita berada di mode video dan kita atur pada resolusi 4K-nya, maka di sini yang muncul cuma satu lensa aja, guys, yaitu kamera utama.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E085"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 132,
+      "segment_end_index": 134,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "GROUNDING",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: kata bermakna excerpt ada di chunk dalam urutan asli; kata fungsi / imbuhan / ejaan dinormalisasi (coverage 100%, span 132..134)."
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "PROVENANCE",
+          "severity": "LOW",
+          "code": "QUASI_LITERAL",
+          "reason": "Quasi-literal: excerpt traceable ke segmen 132..134 setelah normalisasi kata fungsi / imbuhan / ejaan (coverage 100%)."
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:08:43,129",
+    "timestamp_end": "00:08:53,210",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E085",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "FACT",
+    "claim": "Kamera ultrawide tidak dapat muncul saat perekaman video pada resolusi 4K",
+    "value": null,
+    "unit": null,
+    "attribute": "ultrawide_4k_support",
+    "attribute_value": "tidak bisa muncul",
+    "context": "Perekaman video resolusi 4K",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk kamera ultrawide-nya di sini tidak bisa muncul.",
+    "related_evidence_ids": [
+      "4OZDxvPr4wY-E084"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 135,
+      "segment_end_index": 135,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:53,210",
+    "timestamp_end": "00:08:56,029",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  },
+  {
+    "evidence_id": "4OZDxvPr4wY-E086",
+    "topic": "camera",
+    "subtopic": "lensa-2x",
+    "type": "FACT",
+    "claim": "Pilihan lensa 2x pada mode perekaman video merupakan hasil cropping, bukan lensa fisik tersendiri",
+    "value": null,
+    "unit": null,
+    "attribute": "lens_2x_type",
+    "attribute_value": "cropping",
+    "context": "Perekaman video dengan perbesaran 2x",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "untuk lensa 2x ini sebenarnya dia cropping aja ya, guys, bukan lensa beneran.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 140,
+      "segment_end_index": 141,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:09:09,769",
+    "timestamp_end": "00:09:14,710",
+    "source": "rizkinhk",
+    "review_id": "4OZDxvPr4wY",
+    "video_url": "https://www.youtube.com/watch?v=4OZDxvPr4wY",
+    "video_title": "Satu Minggu Pake Samsung A26 5G !! Ini dia Kekurangan dan Kelebihan HP ini"
+  }
+]

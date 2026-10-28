@@ -1,0 +1,6339 @@
+[
+  {
+    "evidence_id": "kwoPr9769gc-E001",
+    "topic": "design",
+    "subtopic": "desain",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain Samsung Galaxy A26 5G tampil cukup simple",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain bodi",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "tampil dengan desain yang cukup simple",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:54,289",
+    "timestamp_end": "00:00:59,490",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E002",
+    "topic": "design",
+    "subtopic": "modul-kamera",
+    "type": "OBSERVATION",
+    "claim": "Modul kamera disusun vertikal tanpa housing besar",
+    "value": null,
+    "unit": null,
+    "attribute": "camera_module_layout",
+    "attribute_value": "vertikal tanpa housing besar",
+    "context": "Desain bodi bagian belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "modul kamera disusun vertikal tanpa housing besar",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 12,
+      "segment_end_index": 12,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:00,030",
+    "timestamp_end": "00:01:04,170",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E003",
+    "topic": "design",
+    "subtopic": "tampilan",
+    "type": "OPINION",
+    "claim": "Reviewer menilai tampilan ponsel kelihatan rapi dan tidak norak",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain bodi bagian belakang",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "bikin tampilannya kelihatan rapi dan nggak norak",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 13,
+      "segment_end_index": 13,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:04,590",
+    "timestamp_end": "00:01:06,969",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E004",
+    "topic": "design",
+    "subtopic": "material",
+    "type": "FACT",
+    "claim": "Material bodi ponsel terbuat dari plastik",
+    "value": null,
+    "unit": null,
+    "attribute": "body_material",
+    "attribute_value": "plastik",
+    "context": "Material bodi",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Materialnya memang masih plastik",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E005"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 14,
+      "segment_end_index": 14,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:07,549",
+    "timestamp_end": "00:01:11,129",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E005",
+    "topic": "design",
+    "subtopic": "finishing",
+    "type": "OPINION",
+    "claim": "Reviewer menilai finishing bodi bodi rapi dan solid",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Material bodi",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "tapi finishingnya rapi dan solid",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E004"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 14,
+      "segment_end_index": 14,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:07,549",
+    "timestamp_end": "00:01:11,129",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E006",
+    "topic": "design",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Reviewer menilai bodi ponsel tidak terasa murahan saat digenggam",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengalaman memegang bodi",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Nggak terasa murahan saat digenggam",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 15,
+      "segment_end_index": 15,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:11,489",
+    "timestamp_end": "00:01:13,109",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E007",
+    "topic": "design",
+    "subtopic": "bobot",
+    "type": "OPINION",
+    "claim": "Reviewer menilai bobot ponsel nyaman untuk pemakaian lama dan tidak terlalu berat",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Bobot ponsel saat digunakan lama",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Bobotnya juga masih nyaman untuk pemakaian lama, nggak terlalu berat",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 16,
+      "segment_end_index": 16,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:13,730",
+    "timestamp_end": "00:01:16,930",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E008",
+    "topic": "design",
+    "subtopic": null,
+    "type": "RECOMMENDATION",
+    "claim": "Ponsel ini cocok untuk pengguna yang sering memegang HP selama berjam-jam",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan durasi panjang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Cocok buat yang sering pegang HP berjam-jam",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 17,
+      "segment_end_index": 17,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:16,930",
+    "timestamp_end": "00:01:19,530",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E009",
+    "topic": "design",
+    "subtopic": "desain",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain ponsel ini terasa aman banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Karakter gaya desain",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "desainnya ini aman banget",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 18,
+      "segment_end_index": 18,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:20,230",
+    "timestamp_end": "00:01:23,989",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E010",
+    "topic": "design",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain Samsung Galaxy A26 5G mungkin terasa kurang wow bagi pengguna yang menyukai tampilan beda",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Gaya desain untuk pengguna yang suka tampil beda",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Samsung A26 5G mungkin terasa kurang wow",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 19,
+      "segment_end_index": 19,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:24,430",
+    "timestamp_end": "00:01:29,109",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E011",
+    "topic": "display",
+    "subtopic": "layar-pls-lcd",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan layar berpanel PLS LCD",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_type",
+    "attribute_value": "PLS LCD",
+    "context": "Spesifikasi layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dibekali layar PLS LCD",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 20,
+      "segment_end_index": 20,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:31,150",
+    "timestamp_end": "00:01:37,109",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E012",
+    "topic": "display",
+    "subtopic": "kualitas-warna",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kualitas warna layar cukup tajam",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas tampilan layar",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Kualitas warnanya cukup tajam",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 21,
+      "segment_end_index": 21,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:37,650",
+    "timestamp_end": "00:01:41,010",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E013",
+    "topic": "display",
+    "subtopic": "kontras",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kontras layar oke untuk kelasnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kontras layar",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "kontrasnya oke untuk kelasnya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 21,
+      "segment_end_index": 21,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:37,650",
+    "timestamp_end": "00:01:41,010",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E014",
+    "topic": "display",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Reviewer menilai layar nyaman digunakan untuk menonton YouTube, TikTok, atau scrolling sosial media",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan layar untuk konsumsi media dan sosmed",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "dan nyaman dipakai nonton YouTube, TikTok, atau scrolling sosmed",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 22,
+      "segment_end_index": 22,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:41,010",
+    "timestamp_end": "00:01:45,030",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E016",
+    "topic": "display",
+    "subtopic": "amoled",
+    "type": "OPINION",
+    "claim": "Reviewer menilai belum adanya panel AMOLED menjadi kekurangan yang cukup terasa di kelas harganya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Panel layar di kelas harganya",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "belum AMOLED itu jadi kekurangan yang cukup terasa",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E017"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 23,
+      "segment_end_index": 23,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:45,489",
+    "timestamp_end": "00:01:50,209",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E017",
+    "topic": "display",
+    "subtopic": "amoled",
+    "type": "COMPARISON",
+    "claim": "Banyak kompetitor di kelasnya sudah menggunakan panel AMOLED dengan refresh rate yang lebih tinggi",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan layar dengan kompetitor",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "banyak kompetitor yang sudah pakai AMOLED dengan refresh rate lebih tinggi",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E016"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 24,
+      "segment_end_index": 24,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:50,650",
+    "timestamp_end": "00:01:54,709",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E018",
+    "topic": "performance",
+    "subtopic": "pemakaian-harian",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G difokuskan pada pemakaian harian yang stabil, bukan performa kencang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Fokus performa ponsel",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "fokus ke pemakaian harian yang stabil, bukan performa ngebut",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 26,
+      "segment_end_index": 26,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:02:01,200",
+    "timestamp_end": "00:02:07,099",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E019",
+    "topic": "performance",
+    "subtopic": "multitasking",
+    "type": "OPINION",
+    "claim": "Reviewer menilai performa untuk chatting, Instagram, TikTok, YouTube, Google Maps, dan multitasking ringan masih lancar dan responsif",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan harian chatting, sosmed, navigasi, dan multitasking ringan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "HP ini masih lancar dan responsif",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 28,
+      "segment_end_index": 28,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:02:14,060",
+    "timestamp_end": "00:02:15,900",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E020",
+    "topic": "gaming",
+    "subtopic": "game-berat",
+    "type": "OPINION",
+    "claim": "Reviewer menyarankan untuk tidak berekspektasi terlalu tinggi saat menjalankan game berat",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian game berat",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "kalau ngomongin game berat, jangan berekspektasi terlalu tinggi",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 29,
+      "segment_end_index": 29,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:16,460",
+    "timestamp_end": "00:02:19,840",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E021",
+    "topic": "gaming",
+    "subtopic": "setting-grafis",
+    "type": "OBSERVATION",
+    "claim": "Game populer masih dapat dimainkan dengan menurunkan setting grafis agar tetap stabil",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian game populer",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Game populer masih bisa dimainkan, tapi harus nurunin setting grafis supaya stabil",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 30,
+      "segment_end_index": 30,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:19,840",
+    "timestamp_end": "00:02:24,639",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E022",
+    "topic": "verdict",
+    "subtopic": null,
+    "type": "RECOMMENDATION",
+    "claim": "Ponsel ini bukan diperuntukkan bagi gamer berat, melainkan sebagai ponsel harian yang aman",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Target pengguna ponsel",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "bukan HP buat gamer berat, tapi lebih ke HP aman buat dipakai harian tanpa drama",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 31,
+      "segment_end_index": 31,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:02:25,139",
+    "timestamp_end": "00:02:30,199",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E023",
+    "topic": "camera",
+    "subtopic": null,
+    "type": "OBSERVATION",
+    "claim": "Kamera Samsung Galaxy A26 5G memiliki karakter warna khas Samsung",
+    "value": null,
+    "unit": null,
+    "attribute": "color_character",
+    "attribute_value": "khas Samsung",
+    "context": "Karakter modul kamera",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk kamera, Samsung Galaxy A26 5G punya karakter khas Samsung",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 32,
+      "segment_end_index": 32,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:32,360",
+    "timestamp_end": "00:02:36,659",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E024",
+    "topic": "camera",
+    "subtopic": "warna",
+    "type": "OBSERVATION",
+    "claim": "Hasil warna kamera tampak natural dan konsisten",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Karakter reproduksi warna kamera",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Warna natural, konsisten",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E025"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 33,
+      "segment_end_index": 33,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:02:37,120",
+    "timestamp_end": "00:02:40,000",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E025",
+    "topic": "camera",
+    "subtopic": "warna",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hasil warna kamera enak dilihat",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Karakter reproduksi warna kamera",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "dan enak dilihat",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 33,
+      "segment_end_index": 33,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:37,120",
+    "timestamp_end": "00:02:40,000",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E026",
+    "topic": "camera",
+    "subtopic": "foto-siang-hari",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hasil foto siang hari cukup tajam",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Hasil foto di kondisi siang hari",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Foto siang hari hasilnya cukup tajam",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 34,
+      "segment_end_index": 34,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:40,539",
+    "timestamp_end": "00:02:45,919",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E027",
+    "topic": "camera",
+    "subtopic": "dynamic-range",
+    "type": "OPINION",
+    "claim": "Reviewer menilai dynamic range foto siang hari lumayan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Hasil foto di kondisi siang hari",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "dynamic range-nya lumayan",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 34,
+      "segment_end_index": 34,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:40,539",
+    "timestamp_end": "00:02:45,919",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E028",
+    "topic": "camera",
+    "subtopic": "warna-kulit",
+    "type": "OBSERVATION",
+    "claim": "Warna kulit pada foto siang hari terlihat natural",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Hasil foto warna kulit di kondisi siang hari",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan warna kulit terlihat natural",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 34,
+      "segment_end_index": 34,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:40,539",
+    "timestamp_end": "00:02:45,919",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E029",
+    "topic": "camera",
+    "subtopic": "low-light",
+    "type": "OBSERVATION",
+    "claim": "Kualitas foto mulai turun dan detail berkurang saat diambil pada kondisi low light",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengambilan foto kondisi low light",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "begitu masuk kondisi low light, kualitasnya mulai turun, detail berkurang",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:02:46,479",
+    "timestamp_end": "00:02:55,699",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E030",
+    "topic": "camera",
+    "subtopic": "noise",
+    "type": "OBSERVATION",
+    "claim": "Noise mulai kelihatan saat mengambil foto pada kondisi low light",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengambilan foto kondisi low light",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "noise mulai kelihatan",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:46,479",
+    "timestamp_end": "00:02:55,699",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E031",
+    "topic": "camera",
+    "subtopic": "night-mode",
+    "type": "OBSERVATION",
+    "claim": "Fitur night mode membantu saat pengambilan foto low light",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan night mode pada foto low light",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "night mode membantu",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E032"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:46,479",
+    "timestamp_end": "00:02:55,699",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E032",
+    "topic": "camera",
+    "subtopic": "night-mode",
+    "type": "OPINION",
+    "claim": "Reviewer menilai night mode kamera bukan yang terbaik di kelasnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan night mode dibanding kompetitor",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "tapi bukan yang terbaik di kelasnya",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E031"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:46,479",
+    "timestamp_end": "00:02:55,699",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E041",
+    "topic": "camera",
+    "subtopic": "rekaman-video",
+    "type": "RECOMMENDATION",
+    "claim": "Hasil rekaman video dinilai cocok untuk kebutuhan media sosial",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Rekaman video cocok buat kebutuhan sosial media",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:56,340",
+    "timestamp_end": "00:03:00,860",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E042",
+    "topic": "camera",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Kualitas perekaman video dinilai belum mencapai standar kualitas flagship",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian perekaman video",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "tapi jangan berharap kualitas flagship",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:56,340",
+    "timestamp_end": "00:03:00,860",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E043",
+    "topic": "battery",
+    "subtopic": "baterai",
+    "type": "OPINION",
+    "claim": "Sektor baterai dinilai sebagai salah satu nilai tambah utama Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Ketahanan daya perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Soal baterai, ini salah satu kelebihan Samsung Galaxy A26 5G",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 37,
+      "segment_end_index": 37,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:03,199",
+    "timestamp_end": "00:03:07,300",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E044",
+    "topic": "battery",
+    "subtopic": "daya-tahannya",
+    "type": "OPINION",
+    "claim": "Daya tahan baterai dinilai awet untuk penggunaan seharian penuh",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan baterai harian",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Daya tahannya awet untuk pemakaian seharian penuh",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 38,
+      "segment_end_index": 38,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:07,300",
+    "timestamp_end": "00:03:12,840",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E045",
+    "topic": "battery",
+    "subtopic": "pemakaiannya",
+    "type": "OBSERVATION",
+    "claim": "Kapasitas baterai masih tersisa jika pemakaian dilakukan secara normal",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan baterai harian",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "bahkan masih sisa kalau pemakaiannya normal",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 38,
+      "segment_end_index": 38,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:07,300",
+    "timestamp_end": "00:03:12,840",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E046",
+    "topic": "verdict",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Perangkat dinilai sangat cocok untuk kebutuhan kerja, kuliah, dan aktivitas luar ruangan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Segmentasi sasaran pengguna",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Cocok banget buat kerja, kuliah, aktivitas outdoor",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 39,
+      "segment_end_index": 39,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:03:12,840",
+    "timestamp_end": "00:03:16,520",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E047",
+    "topic": "charging",
+    "subtopic": "kecepatan-chargingnya",
+    "type": "OPINION",
+    "claim": "Kecepatan charging dinilai bukan yang paling kencang di kelasnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengisian daya baterai",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "kecepatan chargingnya bukan yang paling ngebut",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 40,
+      "segment_end_index": 40,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:16,979",
+    "timestamp_end": "00:03:21,879",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E048",
+    "topic": "charging",
+    "subtopic": "ngecas",
+    "type": "OPINION",
+    "claim": "Proses pengisian baterai memerlukan waktu lebih lama dan ekstra kesabaran",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengisian daya baterai",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "jadi butuh waktu lebih sabar saat ngecas",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 40,
+      "segment_end_index": 40,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:03:16,979",
+    "timestamp_end": "00:03:21,879",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E049",
+    "topic": "software",
+    "subtopic": "one-ui",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan sistem antarmuka One UI",
+    "value": null,
+    "unit": null,
+    "attribute": "os_name",
+    "attribute_value": "One UI",
+    "context": "Sistem operasi dan antarmuka",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G sudah pakai One UI",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 42,
+      "segment_end_index": 42,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:26,340",
+    "timestamp_end": "00:03:33,159",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E050",
+    "topic": "software",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "One UI dinilai terkenal stabil dalam pengoperasiannya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sistem antarmuka One UI",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "terkenal stabil",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 42,
+      "segment_end_index": 42,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:26,340",
+    "timestamp_end": "00:03:33,159",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E051",
+    "topic": "software",
+    "subtopic": "fiturnya",
+    "type": "OPINION",
+    "claim": "Fitur-fitur pada One UI dinilai lengkap",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sistem antarmuka One UI",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "fiturnya lengkap",
+    "related_evidence_ids": null,
+    "source_coordinates": null,
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "PROVENANCE",
+          "reason": "source_excerpt ambiguous, lebih dari satu kemungkinan occurrence",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": null,
+    "timestamp_end": null,
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E052",
+    "topic": "software",
+    "subtopic": "bug",
+    "type": "OBSERVATION",
+    "claim": "Sistem operasi One UI tergolong jarang mengalami bug",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sistem antarmuka One UI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "jarang bug",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 42,
+      "segment_end_index": 42,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:26,340",
+    "timestamp_end": "00:03:33,159",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E053",
+    "topic": "software",
+    "subtopic": "update-software",
+    "type": "OPINION",
+    "claim": "Samsung terkenal memiliki dukungan pembaruan software yang berdurasi panjang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Dukungan pembaruan perangkat lunak",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Samsung terkenal dengan dukungan update software yang panjang",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 43,
+      "segment_end_index": 43,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:33,620",
+    "timestamp_end": "00:03:37,139",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E054",
+    "topic": "real-world",
+    "subtopic": "kelas-harga",
+    "type": "OPINION",
+    "claim": "Samsung Galaxy A26 5G dinilai lebih awet digunakan untuk 3 hingga 4 tahun ke depan dibanding pesaing di kelas harga yang sama",
+    "value": null,
+    "unit": null,
+    "attribute": "durability_years",
+    "attribute_value": "3-4 tahun",
+    "context": "Ketahanan pemakaian jangka panjang dibanding HP sekelasnya",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Jadi HP ini lebih awet dipakai 3-4 tahun ke depan dibanding banyak HP lain di kelas harga yang sama",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 44,
+      "segment_end_index": 44,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:37,139",
+    "timestamp_end": "00:03:43,419",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E055",
+    "topic": "real-world",
+    "subtopic": "pengalaman-harian",
+    "type": "OPINION",
+    "claim": "Pengalaman penggunaan harian dinilai stabil dan minim gangguan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengalaman penggunaan harian",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "pengalaman harian stabil dan minim drama",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 49,
+      "segment_end_index": 49,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:06,759",
+    "timestamp_end": "00:04:10,159",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E056",
+    "topic": "performance",
+    "subtopic": "kenceng",
+    "type": "OPINION",
+    "claim": "Samsung Galaxy A26 5G dinilai mungkin bukan perangkat yang paling kencang di kelasnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Performa perangkat",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "HP ini mungkin bukan yang paling kenceng",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 51,
+      "segment_end_index": 51,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:15,300",
+    "timestamp_end": "00:04:19,379",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E057",
+    "topic": "performance",
+    "subtopic": "buka-aplikasi",
+    "type": "OBSERVATION",
+    "claim": "Proses membuka aplikasi terasa cepat",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Respon dan navigasi sistem",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Buka aplikasi cepat",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 52,
+      "segment_end_index": 52,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:19,899",
+    "timestamp_end": "00:04:25,540",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E058",
+    "topic": "performance",
+    "subtopic": "pindah-pindah-aplikasi",
+    "type": "OBSERVATION",
+    "claim": "Perpindahan antar aplikasi berjalan dengan mulus",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Multitasking sistem",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "pindah-pindah aplikasi mulus",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 52,
+      "segment_end_index": 52,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:19,899",
+    "timestamp_end": "00:04:25,540",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E059",
+    "topic": "performance",
+    "subtopic": "scrolling-sosmed",
+    "type": "OBSERVATION",
+    "claim": "Aktivitas scrolling media sosial yang panjang jarang terasa patah-patah",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Navigasi media sosial",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "scrolling sosmed panjang pun jarang terasa patah-patah",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 52,
+      "segment_end_index": 52,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:19,899",
+    "timestamp_end": "00:04:25,540",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E060",
+    "topic": "software",
+    "subtopic": "one-ui",
+    "type": "OPINION",
+    "claim": "One UI dinilai sebagai perangkat lunak antarmuka paling nyaman di kelas harganya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sistem antarmuka One UI",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "One UI, software paling nyaman di kelasnya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 54,
+      "segment_end_index": 54,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:37,100",
+    "timestamp_end": "00:04:40,860",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E061",
+    "topic": "software",
+    "subtopic": "one-ui",
+    "type": "OPINION",
+    "claim": "Antarmuka One UI terkenal rapi dan mudah dipahami oleh semua kelompok umur",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sistem antarmuka One UI",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "One UI terkenal tampilannya rapi, mudah dipahami semua umur",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 56,
+      "segment_end_index": 56,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:04:45,879",
+    "timestamp_end": "00:04:51,740",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E062",
+    "topic": "software",
+    "subtopic": "mode-gelap",
+    "type": "FACT",
+    "claim": "One UI menyediakan opsi mode gelap",
+    "value": null,
+    "unit": null,
+    "attribute": "software_feature",
+    "attribute_value": "mode gelap",
+    "context": "Fitur perangkat lunak One UI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Mulai dari mode gelap",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:52,160",
+    "timestamp_end": "00:04:59,939",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E063",
+    "topic": "software",
+    "subtopic": "pengaturan-baterai",
+    "type": "FACT",
+    "claim": "One UI memiliki menu pengaturan baterai secara rinci",
+    "value": null,
+    "unit": null,
+    "attribute": "software_feature",
+    "attribute_value": "pengaturan baterai detail",
+    "context": "Fitur perangkat lunak One UI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "pengaturan baterai detail",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:52,160",
+    "timestamp_end": "00:04:59,939",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E064",
+    "topic": "software",
+    "subtopic": "keamanan-dan-privacy",
+    "type": "FACT",
+    "claim": "One UI dilengkapi fitur keamanan dan privasi",
+    "value": null,
+    "unit": null,
+    "attribute": "software_feature",
+    "attribute_value": "keamanan dan privacy",
+    "context": "Fitur perangkat lunak One UI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "keamanan dan privacy",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:04:52,160",
+    "timestamp_end": "00:04:59,939",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E065",
+    "topic": "software",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Fitur-fitur One UI dinilai terasa matang dan konsisten",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sistem antarmuka One UI",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "semuanya terasa matang dan konsisten",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:04:52,160",
+    "timestamp_end": "00:04:59,939",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E066",
+    "topic": "battery",
+    "subtopic": "powerbank",
+    "type": "RECOMMENDATION",
+    "claim": "Samsung Galaxy A26 5G direkomendasikan untuk pengguna sibuk yang enggan membawa powerbank saat bepergian",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Rekomendasi bagi pengguna mobilitas tinggi",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ini HP yang cocok buat orang sibuk yang nggak mau bawa powerbank kemana-mana",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 65,
+      "segment_end_index": 65,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:36,389",
+    "timestamp_end": "00:05:40,170",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E067",
+    "topic": "battery",
+    "subtopic": "pemakaian-normal",
+    "type": "OBSERVATION",
+    "claim": "Daya tahan baterai Samsung Galaxy A26 5G pada pemakaian normal mampu bertahan hingga seharian penuh.",
+    "value": null,
+    "unit": null,
+    "attribute": "battery_life",
+    "attribute_value": "seharian penuh",
+    "context": "Penggunaan daya baterai harian seperti chat, sosmed, nonton, dan browsing",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Pemakaian normal, chat, sosmed, nonton, browsing, bisa tembus seharian penuh tanpa was-was.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 64,
+      "segment_end_index": 64,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:30,189",
+    "timestamp_end": "00:05:35,889",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E069",
+    "topic": "design",
+    "subtopic": "materialnya",
+    "type": "FACT",
+    "claim": "Material bodi Samsung Galaxy A26 5G masih menggunakan bahan plastik.",
+    "value": null,
+    "unit": null,
+    "attribute": "body_material",
+    "attribute_value": "plastik",
+    "context": "Material konstruksi bodi ponsel",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Walaupun materialnya masih plastik",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E070"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 67,
+      "segment_end_index": 67,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:46,860",
+    "timestamp_end": "00:05:53,120",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E070",
+    "topic": "design",
+    "subtopic": "build-quality",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G terasa solid, rapi, dan tidak murahan.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas buatan dan impresi material bodi",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G terasa solid, rapi, dan nggak murahan.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E069"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 67,
+      "segment_end_index": 67,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:05:46,860",
+    "timestamp_end": "00:05:53,120",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E071",
+    "topic": "real-world",
+    "subtopic": "service-center",
+    "type": "FACT",
+    "claim": "Service center Samsung tersedia di hampir semua kota.",
+    "value": null,
+    "unit": null,
+    "attribute": "service_center_availability",
+    "attribute_value": "hampir semua kota",
+    "context": "Ketersediaan layanan purna jual brand Samsung",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Service center Samsung ada di hampir semua kota.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 71,
+      "segment_end_index": 71,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:10,509",
+    "timestamp_end": "00:06:13,250",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E072",
+    "topic": "display",
+    "subtopic": "layarnya",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G masih menggunakan panel layar LCD.",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_type",
+    "attribute_value": "LCD",
+    "context": "Spesifikasi panel layar ponsel",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kekurangan paling terasa dari Samsung Galaxy A26 5G adalah layarnya masih LCD.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E073",
+      "kwoPr9769gc-E074"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 76,
+      "segment_end_index": 76,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:34,120",
+    "timestamp_end": "00:06:38,819",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E073",
+    "topic": "display",
+    "subtopic": "amoled",
+    "type": "FACT",
+    "claim": "Layar AMOLED telah menjadi standar baru di kelas harga ponsel saat ini.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Standar industri panel layar di kelas harga saat ini",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Di kelas harga sekarang, AMOLED sudah jadi standar baru.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E072"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 77,
+      "segment_end_index": 77,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:39,360",
+    "timestamp_end": "00:06:42,019",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E074",
+    "topic": "display",
+    "subtopic": "warna-hitam",
+    "type": "COMPARISON",
+    "claim": "Warna hitam pada layar Samsung Galaxy A26 5G tidak sepekat layar AMOLED.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan pekatnya warna hitam antara layar LCD dan AMOLED",
+    "comparison_target": "AMOLED",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dampaknya warna hitam tidak sepekat AMOLED",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E072",
+      "kwoPr9769gc-E075"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 78,
+      "segment_end_index": 78,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:42,519",
+    "timestamp_end": "00:06:47,800",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E075",
+    "topic": "display",
+    "subtopic": "pengalaman-nonton",
+    "type": "OPINION",
+    "claim": "Reviewer menilai tampilan layar kurang wow dan pengalaman menonton kurang maksimal.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas tampilan dan pengalaman menonton akibat penggunaan layar LCD",
+    "comparison_target": "ekspektasi",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "tampilan kurang wow, pengalaman nonton kurang maksimal.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E074"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 78,
+      "segment_end_index": 78,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:06:42,519",
+    "timestamp_end": "00:06:47,800",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E076",
+    "topic": "display",
+    "subtopic": "layar",
+    "type": "OPINION",
+    "claim": "Reviewer menilai layar masih oke tetapi tidak istimewa untuk pemakaian menonton film, Netflix, atau YouTube berjam-jam.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan layar untuk menonton konten media berdurasi lama",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "layar ini masih oke, tapi tidak istimewa.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 79,
+      "segment_end_index": 79,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:06:47,800",
+    "timestamp_end": "00:06:54,300",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E077",
+    "topic": "performance",
+    "subtopic": "performa",
+    "type": "OPINION",
+    "claim": "Reviewer menilai performa Samsung Galaxy A26 5G bukan yang terkencang di kelas harganya.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Performa keseluruhan di kelas harga produk",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "performa bukan yang terkencang di kelasnya.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 80,
+      "segment_end_index": 80,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:56,379",
+    "timestamp_end": "00:06:59,639",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E078",
+    "topic": "gaming",
+    "subtopic": "game-berat",
+    "type": "OBSERVATION",
+    "claim": "Pengoperasian game berat pada Samsung Galaxy A26 5G harus menggunakan pengaturan grafis rendah.",
+    "value": null,
+    "unit": null,
+    "attribute": "graphics_preset",
+    "attribute_value": "rendah",
+    "context": "Pengaturan grafis saat memainkan game berat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "tapi game berat harus set grafis rendah.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 82,
+      "segment_end_index": 82,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "RELATION",
+          "reason": "[preset_without_result] Evidence preset grafis untuk \"game berat\" tidak memiliki evidence frame rate pasangan di daftar. Rule 19 mewajibkan preset menautkan ke hasil pengukuran.",
+          "severity": "MEDIUM"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:07:03,519",
+    "timestamp_end": "00:07:06,660",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E079",
+    "topic": "performance",
+    "subtopic": "multitasking",
+    "type": "OBSERVATION",
+    "claim": "Penggunaan multitasking berat pada Samsung Galaxy A26 5G kadang terasa ada jeda.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan multitasking dengan beban kerja berat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Multitasking berat kadang terasa jeda.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 83,
+      "segment_end_index": 83,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:07,060",
+    "timestamp_end": "00:07:08,819",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E080",
+    "topic": "performance",
+    "subtopic": "chipset",
+    "type": "OPINION",
+    "claim": "Reviewer menilai HP ini kurang memuaskan bagi gamer berat dibanding kompetitor yang berfokus pada chipset kencang.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesesuaian performa ponsel untuk pengguna gamer berat dibanding kompetitor",
+    "comparison_target": "kompetitor",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "HP ini kurang memuaskan dibanding kompetitor yang fokus ke chipset kencang.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E077",
+      "kwoPr9769gc-E078"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 84,
+      "segment_end_index": 84,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:09,259",
+    "timestamp_end": "00:07:16,060",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E081",
+    "topic": "charging",
+    "subtopic": "ngecasnya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai pengisian daya Samsung Galaxy A26 5G tidak lambat tetapi juga tidak cepat.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengalaman pengisian daya baterai",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "Ngecasnya tidak lambat, tapi juga tidak cepat.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 87,
+      "segment_end_index": 87,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:27,490",
+    "timestamp_end": "00:07:29,750",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E082",
+    "topic": "charging",
+    "subtopic": "charging",
+    "type": "OPINION",
+    "claim": "Kecepatan charging terasa kurang praktis bagi pengguna yang sering terburu-buru.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengisian daya dalam skenario butuh waktu cepat",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "ini bisa terasa kurang praktis.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E081"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 88,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:30,170",
+    "timestamp_end": "00:07:32,850",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E083",
+    "topic": "camera",
+    "subtopic": "kamera",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kamera Samsung Galaxy A26 5G bagus pada kondisi siang hari.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengambilan foto pada siang hari",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Kamera Samsung Galaxy A26 5G bagus di siang hari",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E084",
+      "kwoPr9769gc-E085"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 90,
+      "segment_end_index": 90,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:38,439",
+    "timestamp_end": "00:07:41,660",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E084",
+    "topic": "camera",
+    "subtopic": "malam-hari",
+    "type": "OBSERVATION",
+    "claim": "Hasil kamera di malam hari mengalami penurunan detail dan kemunculan noise.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengambilan foto kamera pada malam hari",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "tapi di malam hari detail turun, noise muncul",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E083",
+      "kwoPr9769gc-E085"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 91,
+      "segment_end_index": 91,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:07:41,660",
+    "timestamp_end": "00:07:46,480",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E085",
+    "topic": "camera",
+    "subtopic": "hasil-foto",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hasil foto kamera Samsung Galaxy A26 5G di malam hari biasa saja.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kualitas foto kamera di malam hari secara umum",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "hasil foto biasa aja.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E083",
+      "kwoPr9769gc-E084"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 91,
+      "segment_end_index": 91,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:41,660",
+    "timestamp_end": "00:07:46,480",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E086",
+    "topic": "camera",
+    "subtopic": "minim-cahaya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kamera Samsung Galaxy A26 5G cukup namun tidak unggul untuk kondisi foto malam atau indoor minim cahaya.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengambilan foto kondisi malam atau pencahayaan minim di dalam ruangan",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "kamera ini cukup, tapi tidak unggul.",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E084",
+      "kwoPr9769gc-E085"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 92,
+      "segment_end_index": 92,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:46,480",
+    "timestamp_end": "00:07:51,540",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E087",
+    "topic": "verdict",
+    "subtopic": "hp",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G merupakan ponsel yang terlalu aman dari segi desain, performa, dan fitur.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Karakteristik keseluruhan produk",
+    "comparison_target": null,
+    "reviewer_assessment": "neutral",
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G itu HP yang terlalu aman.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 94,
+      "segment_end_index": 94,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:07:57,209",
+    "timestamp_end": "00:08:00,529",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E088",
+    "topic": "verdict",
+    "subtopic": "hape",
+    "type": "RECOMMENDATION",
+    "claim": "Samsung Galaxy A26 5G cocok untuk pengguna yang mencari ponsel Samsung yang aman dan stabil.",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Rekomendasi profil pengguna ponsel",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G cocok buat kamu yang cari hape Samsung yang aman dan stabil",
+    "related_evidence_ids": [
+      "kwoPr9769gc-E087"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 98,
+      "segment_end_index": 98,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:16,160",
+    "timestamp_end": "00:08:21,300",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E089",
+    "topic": "verdict",
+    "subtopic": "aman dan stabil",
+    "type": "RECOMMENDATION",
+    "claim": "Samsung Galaxy A26 5G dinilai cocok bagi pengguna yang mencari HP Samsung yang aman dan stabil",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Rekomendasi pengguna Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G cocok buat kamu yang cari hape Samsung yang aman dan stabil",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 98,
+      "segment_end_index": 98,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:16,160",
+    "timestamp_end": "00:08:21,300",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E090",
+    "topic": "verdict",
+    "subtopic": "aktivitas harian",
+    "type": "RECOMMENDATION",
+    "claim": "Samsung Galaxy A26 5G dinilai cocok untuk pengguna yang mementingkan kenyamanan, keawetan, dan penggunaan harian",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Rekomendasi penggunaan harian",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "lebih mementingkan kenyamanan dan keawetan, pakai hape untuk aktivitas harian",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 99,
+      "segment_end_index": 99,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:08:21,800",
+    "timestamp_end": "00:08:25,879",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E091",
+    "topic": "verdict",
+    "subtopic": "performa gaming",
+    "type": "OPINION",
+    "claim": "Samsung Galaxy A26 5G dinilai kurang cocok bagi pengguna yang mencari performa gaming maksimal",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesesuaian untuk gaming",
+    "comparison_target": "ekspektasi",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Tapi kurang cocok buat kamu yang cari performa gaming maksimal",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 100,
+      "segment_end_index": 100,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:26,439",
+    "timestamp_end": "00:08:29,339",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E092",
+    "topic": "verdict",
+    "subtopic": "layar amoled",
+    "type": "OPINION",
+    "claim": "Samsung Galaxy A26 5G dinilai kurang cocok untuk pengguna yang menginginkan layar AMOLED di kelas harganya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesesuaian untuk pencari layar AMOLED",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Tapi kurang cocok buat kamu yang cari performa gaming maksimal, pengen layar AMOLED di harga segini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 100,
+      "segment_end_index": 101,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:26,439",
+    "timestamp_end": "00:08:33,419",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E093",
+    "topic": "verdict",
+    "subtopic": "desain nyentrik",
+    "type": "OPINION",
+    "claim": "Samsung Galaxy A26 5G dinilai kurang cocok bagi pengguna yang menyukai HP berdesain nyentrik",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesesuaian gaya desain",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "pengen layar AMOLED di harga segini, suka hape dengan desain nyentrik",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 101,
+      "segment_end_index": 101,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:29,779",
+    "timestamp_end": "00:08:33,419",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E094",
+    "topic": "verdict",
+    "subtopic": "paling kencang",
+    "type": "OPINION",
+    "claim": "Reviewer menyimpulkan Samsung Galaxy A26 5G bukan HP yang paling kencang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesimpulan performa Samsung Galaxy A26 5G",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Jadi kesimpulannya, Samsung Galaxy A26 5G itu bukan hape yang paling kencang",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 102,
+      "segment_end_index": 102,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:35,779",
+    "timestamp_end": "00:08:40,639",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E095",
+    "topic": "verdict",
+    "subtopic": "minim drama",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G merupakan HP yang aman, stabil, dan minim drama",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesimpulan karakter HP secara keseluruhan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "tapi ini adalah hape yang aman, stabil, dan minim drama",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 103,
+      "segment_end_index": 103,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:08:40,639",
+    "timestamp_end": "00:08:44,320",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E096",
+    "topic": "verdict",
+    "subtopic": "jangka panjang",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G opsi yang masuk akal untuk penggunaan jangka panjang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penggunaan jangka panjang",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Kalau kamu lebih mementingkan pengalaman jangka panjang, ini masih jadi pilihan yang masuk akal",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 104,
+      "segment_end_index": 105,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:44,820",
+    "timestamp_end": "00:08:49,320",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  },
+  {
+    "evidence_id": "kwoPr9769gc-E097",
+    "topic": "verdict",
+    "subtopic": "spek mentah",
+    "type": "OPINION",
+    "claim": "Reviewer menilai ada pilihan HP lain yang lebih menggoda jika pengguna mengejar spesifikasi mentah dan performa",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pertimbangan performa dan spesifikasi",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Tapi kalau kamu ngejar spek mentah dan performa, mungkin ada pilihan lain yang lebih menggoda",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 106,
+      "segment_end_index": 107,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:08:49,759",
+    "timestamp_end": "00:08:54,399",
+    "source": "Radar Gadget",
+    "review_id": "kwoPr9769gc",
+    "video_url": "https://www.youtube.com/watch?v=kwoPr9769gc",
+    "video_title": "Jangan Beli Dulu! Kelebihan & Kekurangan Samsung Galaxy A26 5G"
+  }
+]

@@ -1,0 +1,6228 @@
+[
+  {
+    "evidence_id": "lzeD_sBrCB0-E001",
+    "topic": "comparison",
+    "subtopic": "penerus",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G merupakan penerus dari Samsung Galaxy A25",
+    "value": null,
+    "unit": null,
+    "attribute": "predecessor",
+    "attribute_value": "Samsung Galaxy A25",
+    "context": "Positioning produk dibanding generasi sebelumnya",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ini merupakan penerus dari Samsung Galaxy A25",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 2,
+      "segment_end_index": 2,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:04,559",
+    "timestamp_end": "00:00:07,099",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E002",
+    "topic": "retail-package",
+    "subtopic": "box",
+    "type": "OBSERVATION",
+    "claim": "Box kemasan Samsung Galaxy A26 5G berukuran tipis",
+    "value": null,
+    "unit": null,
+    "attribute": "box_type",
+    "attribute_value": "tipis",
+    "context": "Kondisi fisik kemasan penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "box-nya itu tipis",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 5,
+      "segment_end_index": 5,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:18,839",
+    "timestamp_end": "00:00:25,559",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E003",
+    "topic": "retail-package",
+    "subtopic": "kepala charger",
+    "type": "FACT",
+    "claim": "Paket penjualan Samsung Galaxy A26 5G tidak menyertakan kepala charger",
+    "value": null,
+    "unit": null,
+    "attribute": "included_charger",
+    "attribute_value": "tidak ada",
+    "context": "Isi paket penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di sini kita tidak mendapatkan kepala charger",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E004",
+      "lzeD_sBrCB0-E005"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 6,
+      "segment_end_index": 6,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:25,960",
+    "timestamp_end": "00:00:28,559",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E004",
+    "topic": "retail-package",
+    "subtopic": "kepala charger",
+    "type": "FACT",
+    "claim": "Kepala charger untuk Samsung Galaxy A26 5G dijual secara terpisah",
+    "value": null,
+    "unit": null,
+    "attribute": "charger_availability",
+    "attribute_value": "dijual terpisah",
+    "context": "Penjualan aksesoris charger",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kepala chargernya ini dijual secara terpisah",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E003",
+      "lzeD_sBrCB0-E005"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 7,
+      "segment_end_index": 7,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:28,559",
+    "timestamp_end": "00:00:32,020",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E005",
+    "topic": "retail-package",
+    "subtopic": "kepala charger",
+    "type": "OPINION",
+    "claim": "Reviewer menilai ketiadaan kepala charger bawaan sebagai sebuah PR saat membeli HP",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pendapat reviewer mengenai penjualan tanpa kepala charger",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Dan itu merupakan sebuah PR",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E003",
+      "lzeD_sBrCB0-E004"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 8,
+      "segment_end_index": 8,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:32,020",
+    "timestamp_end": "00:00:34,159",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E006",
+    "topic": "pricing",
+    "subtopic": "harganya",
+    "type": "FACT",
+    "claim": "Harga resmi Samsung Galaxy A26 5G adalah 4 juta rupiah",
+    "value": 4,
+    "unit": "juta",
+    "attribute": "official_price",
+    "attribute_value": null,
+    "context": "Harga resmi (official) saat rilis",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dibanderol ofisialnya itu di 4 juta",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E007"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:37,380",
+    "timestamp_end": "00:00:41,520",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E007",
+    "topic": "pricing",
+    "subtopic": "diskon",
+    "type": "FACT",
+    "claim": "Reviewer membeli Samsung Galaxy A26 5G dengan harga diskon 3,8 juta rupiah",
+    "value": 3.8,
+    "unit": "juta",
+    "attribute": "purchase_price",
+    "attribute_value": null,
+    "context": "Harga pembelian reviewer setelah diskon",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi aku dapat di harga 3,8 juta",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E006"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 13,
+      "segment_end_index": 13,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:00:43,600",
+    "timestamp_end": "00:00:46,560",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E008",
+    "topic": "retail-package",
+    "subtopic": "free fire",
+    "type": "FACT",
+    "claim": "Samsung berkolaborasi dengan Free Fire pada kemasan produk",
+    "value": null,
+    "unit": null,
+    "attribute": "collaboration",
+    "attribute_value": "Free Fire",
+    "context": "Desain kemasan luar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung di sini kolaborasi dengan Free Fire",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 15,
+      "segment_end_index": 15,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:49,299",
+    "timestamp_end": "00:00:51,780",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E009",
+    "topic": "display",
+    "subtopic": "super amoled",
+    "type": "FACT",
+    "claim": "Layar Samsung Galaxy A26 5G menggunakan panel Super AMOLED",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_type",
+    "attribute_value": "Super AMOLED",
+    "context": "Spesifikasi layar pada dus penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Layarnya Super AMOLED",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E010",
+      "lzeD_sBrCB0-E011"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 20,
+      "segment_end_index": 20,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:00,939",
+    "timestamp_end": "00:01:04,060",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E010",
+    "topic": "display",
+    "subtopic": "layarnya",
+    "type": "FACT",
+    "claim": "Ukuran layar Samsung Galaxy A26 5G adalah 6,7 inci",
+    "value": 6.7,
+    "unit": "inci",
+    "attribute": "screen_size",
+    "attribute_value": null,
+    "context": "Spesifikasi layar pada dus penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "6,7 inci",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E009",
+      "lzeD_sBrCB0-E011"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 20,
+      "segment_end_index": 20,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:00,939",
+    "timestamp_end": "00:01:04,060",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E011",
+    "topic": "display",
+    "subtopic": "full hd+",
+    "type": "FACT",
+    "claim": "Resolusi layar Samsung Galaxy A26 5G adalah Full HD+",
+    "value": null,
+    "unit": null,
+    "attribute": "screen_resolution",
+    "attribute_value": "Full HD+",
+    "context": "Spesifikasi layar pada dus penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Full HD+",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E009",
+      "lzeD_sBrCB0-E010"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 20,
+      "segment_end_index": 20,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:00,939",
+    "timestamp_end": "00:01:04,060",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E012",
+    "topic": "durability",
+    "subtopic": "ip-rating",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki sertifikasi IP rating IP67",
+    "value": null,
+    "unit": null,
+    "attribute": "certification",
+    "attribute_value": "IP67",
+    "context": "Spesifikasi ketahanan pada dus penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian IP ratingnya IP67",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E013"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 21,
+      "segment_end_index": 21,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:04,060",
+    "timestamp_end": "00:01:06,079",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E013",
+    "topic": "durability",
+    "subtopic": "water resistant",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung ketahanan Water Resistant dan Dust Resistant",
+    "value": null,
+    "unit": null,
+    "attribute": "durability_feature",
+    "attribute_value": "Water Resistant dan Dust Resistant",
+    "context": "Spesifikasi ketahanan pada dus penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Water Resistant dan Dust Resistant",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E012"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 22,
+      "segment_end_index": 22,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:06,079",
+    "timestamp_end": "00:01:08,439",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E014",
+    "topic": "performance",
+    "subtopic": "ram",
+    "type": "FACT",
+    "claim": "Kapasitas RAM fisik Samsung Galaxy A26 5G adalah 8 GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": "physical_ram",
+    "attribute_value": null,
+    "context": "Spesifikasi memori RAM fisik",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kalau RAM fisiknya itu cuma 8 GB",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E015"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 26,
+      "segment_end_index": 26,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:15,200",
+    "timestamp_end": "00:01:17,379",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E015",
+    "topic": "performance",
+    "subtopic": "256 gb",
+    "type": "FACT",
+    "claim": "Kapasitas penyimpanan internal Samsung Galaxy A26 5G sebesar 256 GB",
+    "value": 256,
+    "unit": "GB",
+    "attribute": "storage_capacity",
+    "attribute_value": null,
+    "context": "Spesifikasi penyimpanan internal pada dus penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "256 GB",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E014"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 24,
+      "segment_end_index": 24,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:09,959",
+    "timestamp_end": "00:01:12,040",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E016",
+    "topic": "design",
+    "subtopic": "warna",
+    "type": "FACT",
+    "claim": "Varian warna unit Samsung Galaxy A26 5G yang dibeli reviewer adalah mint",
+    "value": null,
+    "unit": null,
+    "attribute": "color_option",
+    "attribute_value": "Mint",
+    "context": "Varian warna unit yang di-unboxing",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kemarin aku pilih yang warna mint",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:47,849",
+    "timestamp_end": "00:01:51,829",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E017",
+    "topic": "real-world",
+    "subtopic": "kesusahan",
+    "type": "OPINION",
+    "claim": "Reviewer merasa cukup kesusahan untuk mendapatkan Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengalaman ketersediaan saat membeli unit",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "aku cukup kesusahan untuk mendapatkan Samsung Galaxy A26 5G ini",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E018"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 37,
+      "segment_end_index": 37,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:53,489",
+    "timestamp_end": "00:01:59,810",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E018",
+    "topic": "real-world",
+    "subtopic": "stoknya",
+    "type": "FACT",
+    "claim": "Stok Samsung Galaxy A26 5G masih sangat terbatas terutama di daerah reviewer",
+    "value": null,
+    "unit": null,
+    "attribute": "stock_availability",
+    "attribute_value": "sangat terbatas",
+    "context": "Ketersediaan barang di pasaran daerah setempat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "stoknya memang masih sangat terbatas terutama di daerah saya",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E017"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 38,
+      "segment_end_index": 38,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:59,810",
+    "timestamp_end": "00:02:05,769",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E019",
+    "topic": "retail-package",
+    "subtopic": "sim ejector",
+    "type": "FACT",
+    "claim": "Di dalam paket penjualan disertakan SIM Ejector",
+    "value": null,
+    "unit": null,
+    "attribute": "included_accessory",
+    "attribute_value": "SIM Ejector",
+    "context": "Aksesoris bawaan di dalam kemasan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kita pertama mendapatkan tusuk kartu atau SIM Ejector",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 44,
+      "segment_end_index": 44,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:28,210",
+    "timestamp_end": "00:02:34,650",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E021",
+    "topic": "retail-package",
+    "subtopic": "buku-garansi",
+    "type": "FACT",
+    "claim": "Paket penjualan mencakup buku garansi dan manual book",
+    "value": null,
+    "unit": null,
+    "attribute": "package_contents",
+    "attribute_value": "buku garansi dan manual book",
+    "context": "Isi paket penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di sini kita mendapatkan buku garansi dan manual book",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 48,
+      "segment_end_index": 48,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:02:48,550",
+    "timestamp_end": "00:02:53,050",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E022",
+    "topic": "retail-package",
+    "subtopic": "kabel-usb",
+    "type": "FACT",
+    "claim": "Paket penjualan mencakup kabel USB Type-C to Type-C",
+    "value": null,
+    "unit": null,
+    "attribute": "cable_type",
+    "attribute_value": "Type-C to Type-C",
+    "context": "Isi paket penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kita juga mendapatkan kabel USB. Ini Type-C to Type-C.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 49,
+      "segment_end_index": 50,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:53,050",
+    "timestamp_end": "00:02:58,150",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E023",
+    "topic": "retail-package",
+    "subtopic": "kepala-charger",
+    "type": "FACT",
+    "claim": "Paket penjualan Samsung Galaxy A26 5G tidak menyertakan kepala charger",
+    "value": null,
+    "unit": null,
+    "attribute": "charger_included",
+    "attribute_value": "false",
+    "context": "Isi paket penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di sini kita tidak mendapatkan kepala charger",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 52,
+      "segment_end_index": 52,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:00,330",
+    "timestamp_end": "00:03:03,289",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E024",
+    "topic": "retail-package",
+    "subtopic": "kepala-charger",
+    "type": "OPINION",
+    "claim": "Reviewer menyayangkan ketiadaan kepala charger pada Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Ketiadaan kepala charger di paket penjualan",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Dan sayang banget.",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E023"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 56,
+      "segment_end_index": 56,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:11,969",
+    "timestamp_end": "00:03:14,250",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E025",
+    "topic": "design",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain Samsung Galaxy A26 5G sangat cakep",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kesan pertama desain produk",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "ini asli cakep banget",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 61,
+      "segment_end_index": 61,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:29,370",
+    "timestamp_end": "00:03:31,669",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E026",
+    "topic": "design",
+    "subtopic": "warna",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G tersedia dalam varian warna mint",
+    "value": null,
+    "unit": null,
+    "attribute": "color_option",
+    "attribute_value": "mint",
+    "context": "Varian warna produk",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Aku ambil yang varian warna mint",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E027"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 62,
+      "segment_end_index": 62,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:31,669",
+    "timestamp_end": "00:03:39,490",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E027",
+    "topic": "design",
+    "subtopic": "warna",
+    "type": "OPINION",
+    "claim": "Reviewer sangat menyukai varian warna Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian warna varian mint",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "aku suka banget dengan warna Samsung Galaxy A26 5G ini",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E026"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 62,
+      "segment_end_index": 62,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:31,669",
+    "timestamp_end": "00:03:39,490",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E028",
+    "topic": "design",
+    "subtopic": null,
+    "type": "OPINION",
+    "claim": "Reviewer menilai produk terasa sangat premium saat dipegang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Sensasi genggam produk",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "saat kita pegang, ini kerasa banget premiumnya",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E029"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 63,
+      "segment_end_index": 63,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:39,490",
+    "timestamp_end": "00:03:42,409",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E029",
+    "topic": "design",
+    "subtopic": "glass",
+    "type": "FACT",
+    "claim": "Bodi bagian belakang menggunakan material kaca (glass)",
+    "value": null,
+    "unit": null,
+    "attribute": "back_material",
+    "attribute_value": "glass",
+    "context": "Material bodi belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini menggunakan glass ya di bagian belakang",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E028",
+      "lzeD_sBrCB0-E030"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 64,
+      "segment_end_index": 64,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:42,409",
+    "timestamp_end": "00:03:46,110",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E030",
+    "topic": "durability",
+    "subtopic": "gorilla-glass-victus",
+    "type": "FACT",
+    "claim": "Bodi belakang dilapisi Gorilla Glass Victus",
+    "value": null,
+    "unit": null,
+    "attribute": "glass_protection",
+    "attribute_value": "Gorilla Glass Victus",
+    "context": "Perlindungan kaca bagian belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dia menggunakan Gorilla Glass Victus",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E029"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 65,
+      "segment_end_index": 65,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:46,110",
+    "timestamp_end": "00:03:48,669",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E031",
+    "topic": "display",
+    "subtopic": "layar",
+    "type": "MEASUREMENT",
+    "claim": "Samsung Galaxy A26 5G memiliki ukuran layar 6,7 inci",
+    "value": 6.7,
+    "unit": "inci",
+    "attribute": "screen_size",
+    "attribute_value": "6.7 inci",
+    "context": "Spesifikasi layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G ini punya lebar layar 6,7 inci",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 67,
+      "segment_end_index": 67,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:03:51,250",
+    "timestamp_end": "00:03:55,150",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E032",
+    "topic": "display",
+    "subtopic": "panel",
+    "type": "FACT",
+    "claim": "Layar menggunakan panel Super AMOLED",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_type",
+    "attribute_value": "Super AMOLED",
+    "context": "Spesifikasi panel layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "panelnya sudah pakai Super AMOLED",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 68,
+      "segment_end_index": 68,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:55,150",
+    "timestamp_end": "00:03:58,150",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E033",
+    "topic": "display",
+    "subtopic": "bezel",
+    "type": "OPINION",
+    "claim": "Reviewer menilai bezel layar masih terasa tebal",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Ketebalan bezel layar",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "untuk bezelnya di sini masih terasa tebal",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E034"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 69,
+      "segment_end_index": 69,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:58,150",
+    "timestamp_end": "00:04:01,569",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E034",
+    "topic": "display",
+    "subtopic": "bezel",
+    "type": "OBSERVATION",
+    "claim": "Bezel bagian bawah (dagu) lebih tebal daripada bezel bagian samping",
+    "value": null,
+    "unit": null,
+    "attribute": "bottom_bezel_thickness",
+    "attribute_value": "lebih tebal dari samping",
+    "context": "Perbandingan ketebalan bezel bawah dan samping",
+    "comparison_target": "bezel samping",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "bezel yang di bagian bawah ini lebih tebal dari yang samping-samping",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E033"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 71,
+      "segment_end_index": 71,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:04,250",
+    "timestamp_end": "00:04:08,810",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E035",
+    "topic": "display",
+    "subtopic": "kamera-u",
+    "type": "FACT",
+    "claim": "Layar menggunakan desain notch kamera model U",
+    "value": null,
+    "unit": null,
+    "attribute": "notch_type",
+    "attribute_value": "model U",
+    "context": "Desain kamera depan pada layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "layar HP ini masih pakai model kamera U seperti ini",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E036"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 72,
+      "segment_end_index": 72,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:08,810",
+    "timestamp_end": "00:04:13,110",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E036",
+    "topic": "display",
+    "subtopic": "layar",
+    "type": "OPINION",
+    "claim": "Reviewer menilai layar terasa seperti versi lawas karena menggunakan notch model U",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain notch model U pada layar",
+    "comparison_target": "layar versi modern",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "terasa kalau dia pakai layar versi lawas",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E035"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 73,
+      "segment_end_index": 73,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:13,110",
+    "timestamp_end": "00:04:16,129",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E037",
+    "topic": "display",
+    "subtopic": "refresh-rate",
+    "type": "MEASUREMENT",
+    "claim": "Layar mendukung refresh rate 120 Hz",
+    "value": 120,
+    "unit": "Hz",
+    "attribute": "max_refresh_rate",
+    "attribute_value": "120 Hz",
+    "context": "Fitur refresh rate layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini sudah pakai refresh rate 120 Hz",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E038",
+      "lzeD_sBrCB0-E039"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 74,
+      "segment_end_index": 74,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:16,129",
+    "timestamp_end": "00:04:18,870",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E038",
+    "topic": "display",
+    "subtopic": null,
+    "type": "FACT",
+    "claim": "Layar menyediakan opsi refresh rate standar 60 Hz",
+    "value": 60,
+    "unit": "Hz",
+    "attribute": "standard_refresh_rate",
+    "attribute_value": "60 Hz",
+    "context": "Pengaturan opsi refresh rate",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada di tinggi dan juga standar 60 Hz.",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E037",
+      "lzeD_sBrCB0-E039"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 78,
+      "segment_end_index": 78,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:28,410",
+    "timestamp_end": "00:04:31,889",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E039",
+    "topic": "display",
+    "subtopic": null,
+    "type": "FACT",
+    "claim": "Refresh rate layar dapat dikunci pada mode 120 Hz",
+    "value": 120,
+    "unit": "Hz",
+    "attribute": "lock_refresh_rate",
+    "attribute_value": "120 Hz",
+    "context": "Pengaturan penguncian refresh rate",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kita bisa kunci di 120 Hz.",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E037",
+      "lzeD_sBrCB0-E038"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 79,
+      "segment_end_index": 79,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:31,889",
+    "timestamp_end": "00:04:34,709",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E040",
+    "topic": "design",
+    "subtopic": "tombol-power",
+    "type": "FACT",
+    "claim": "Tombol power terletak di sisi kanan bodi",
+    "value": null,
+    "unit": null,
+    "attribute": "button_layout",
+    "attribute_value": "sisi kanan",
+    "context": "Posisi tombol power",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "sisi kanan di sini ada tombol power",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 81,
+      "segment_end_index": 81,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:37,790",
+    "timestamp_end": "00:04:39,790",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E041",
+    "topic": "sensors",
+    "subtopic": "sensor-fingerprint",
+    "type": "FACT",
+    "claim": "Sensor fingerprint menyatu dengan tombol power",
+    "value": null,
+    "unit": null,
+    "attribute": "fingerprint_sensor_type",
+    "attribute_value": "side-mounted (tombol power)",
+    "context": "Integrasi sensor fingerprint",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Yang jadi satu dengan sensor fingerprint.",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E040"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 82,
+      "segment_end_index": 82,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:39,790",
+    "timestamp_end": "00:04:41,670",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E042",
+    "topic": "audio",
+    "subtopic": "mikrofon",
+    "type": "FACT",
+    "claim": "Bagian atas bodi hanya memiliki mikrofon",
+    "value": null,
+    "unit": null,
+    "attribute": "top_port",
+    "attribute_value": "mikrofon",
+    "context": "Kelengkapan port/interface di sisi atas",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di bagian atas di sini cuma ada mikrofon saja",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 83,
+      "segment_end_index": 83,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:41,670",
+    "timestamp_end": "00:04:44,550",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E043",
+    "topic": "audio",
+    "subtopic": "mono-speaker",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G masih menggunakan mono speaker",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_setup",
+    "attribute_value": "mono speaker",
+    "context": "Konfigurasi speaker",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini masih pakai mono speaker",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 84,
+      "segment_end_index": 84,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:44,550",
+    "timestamp_end": "00:04:47,790",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E044",
+    "topic": "connectivity",
+    "subtopic": "hybrid",
+    "type": "FACT",
+    "claim": "SIM tray menggunakan tipe hybrid",
+    "value": null,
+    "unit": null,
+    "attribute": "sim_slot_type",
+    "attribute_value": "hybrid",
+    "context": "Tipe slot kartu SIM",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini pakai tipe hybrid",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E045"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 86,
+      "segment_end_index": 86,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:55,129",
+    "timestamp_end": "00:04:59,050",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E045",
+    "topic": "connectivity",
+    "subtopic": "nano-sim",
+    "type": "FACT",
+    "claim": "SIM tray hybrid dapat dikonfigurasi menggunakan dual nano SIM atau satu nano SIM dengan satu microSD",
+    "value": null,
+    "unit": null,
+    "attribute": "sim_tray_configuration",
+    "attribute_value": "dual nano SIM / single nano SIM + microSD",
+    "context": "Opsi konfigurasi kartu SIM dan memori eksternal",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kita bisa pakai dual nano SIM atau satu nano SIM dengan satu microSD",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E044"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 87,
+      "segment_end_index": 87,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:59,170",
+    "timestamp_end": "00:05:04,110",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E047",
+    "topic": "connectivity",
+    "subtopic": "micro-sd",
+    "type": "FACT",
+    "claim": "HP ini tidak dapat menggunakan dual SIM sekaligus dengan microSD",
+    "value": null,
+    "unit": null,
+    "attribute": "slot_limitation",
+    "attribute_value": "no dual SIM + microSD",
+    "context": "Keterbatasan slot SIM hybrid",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi kita tidak bisa pakai dual SIM plus satu microSD di HP ini",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E044"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 88,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:04,509",
+    "timestamp_end": "00:05:09,269",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E048",
+    "topic": "audio",
+    "subtopic": "speaker",
+    "type": "FACT",
+    "claim": "Terdapat speaker di bagian bawah bodi HP",
+    "value": null,
+    "unit": null,
+    "attribute": "speaker_location",
+    "attribute_value": "bawah",
+    "context": "Desain dan port bagian bawah",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di bagian bawah di sini ada speaker",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E049",
+      "lzeD_sBrCB0-E050"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 89,
+      "segment_end_index": 89,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:09,490",
+    "timestamp_end": "00:05:15,629",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E049",
+    "topic": "audio",
+    "subtopic": "mikrofon",
+    "type": "FACT",
+    "claim": "Terdapat mikrofon di bagian bawah bodi HP",
+    "value": null,
+    "unit": null,
+    "attribute": "microphone_location",
+    "attribute_value": "bawah",
+    "context": "Desain dan port bagian bawah",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kemudian ada mikrofon",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E048",
+      "lzeD_sBrCB0-E050"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 89,
+      "segment_end_index": 89,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:09,490",
+    "timestamp_end": "00:05:15,629",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E050",
+    "topic": "design",
+    "subtopic": "usb-type-c",
+    "type": "FACT",
+    "claim": "Terdapat port USB Type-C di bagian bawah bodi HP",
+    "value": null,
+    "unit": null,
+    "attribute": "port_type",
+    "attribute_value": "USB Type-C",
+    "context": "Desain dan port bagian bawah",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan ada USB Type-C",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E048",
+      "lzeD_sBrCB0-E049"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 89,
+      "segment_end_index": 89,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:09,490",
+    "timestamp_end": "00:05:15,629",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E051",
+    "topic": "performance",
+    "subtopic": "chipset",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan chipset Exynos 1380",
+    "value": null,
+    "unit": null,
+    "attribute": "chipset",
+    "attribute_value": "Exynos 1380",
+    "context": "Spesifikasi chipset HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G pakai chipset Exynos 1380",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E052",
+      "lzeD_sBrCB0-E053"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 92,
+      "segment_end_index": 92,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:22,470",
+    "timestamp_end": "00:05:27,250",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E052",
+    "topic": "performance",
+    "subtopic": "cpu",
+    "type": "FACT",
+    "claim": "Prosesor HP menggunakan CPU Octa-Core",
+    "value": null,
+    "unit": null,
+    "attribute": "cpu_core",
+    "attribute_value": "Octa-Core",
+    "context": "Spesifikasi CPU HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian pakai CPU Octa-Core",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E051",
+      "lzeD_sBrCB0-E053"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 93,
+      "segment_end_index": 93,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:27,509",
+    "timestamp_end": "00:05:33,970",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E053",
+    "topic": "performance",
+    "subtopic": "gpu",
+    "type": "FACT",
+    "claim": "Pengolah grafis HP menggunakan GPU Mali-G68 MP5",
+    "value": null,
+    "unit": null,
+    "attribute": "gpu",
+    "attribute_value": "Mali-G68 MP5",
+    "context": "Spesifikasi GPU HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan GPU-nya pakai Mali-G68 MP5",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E051",
+      "lzeD_sBrCB0-E052"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 93,
+      "segment_end_index": 93,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:27,509",
+    "timestamp_end": "00:05:33,970",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E054",
+    "topic": "performance",
+    "subtopic": "ram",
+    "type": "FACT",
+    "claim": "Kapasitas RAM HP ini adalah 8 GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": "ram_capacity",
+    "attribute_value": null,
+    "context": "Spesifikasi memori RAM",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "RAM HP ini pakai RAM 8 GB",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E055",
+      "lzeD_sBrCB0-E056",
+      "lzeD_sBrCB0-E057"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 94,
+      "segment_end_index": 94,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:34,329",
+    "timestamp_end": "00:05:39,430",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E055",
+    "topic": "performance",
+    "subtopic": "storage",
+    "type": "FACT",
+    "claim": "Kapasitas penyimpanan internal HP ini sebesar 256 GB",
+    "value": 256,
+    "unit": "GB",
+    "attribute": "storage_capacity",
+    "attribute_value": null,
+    "context": "Spesifikasi penyimpanan internal",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan storage 256 GB",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E054",
+      "lzeD_sBrCB0-E056",
+      "lzeD_sBrCB0-E057"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 94,
+      "segment_end_index": 94,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:34,329",
+    "timestamp_end": "00:05:39,430",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E056",
+    "topic": "performance",
+    "subtopic": "lpddr4x",
+    "type": "FACT",
+    "claim": "RAM HP ini menggunakan tipe LPDDR4X",
+    "value": null,
+    "unit": null,
+    "attribute": "ram_type",
+    "attribute_value": "LPDDR4X",
+    "context": "Tipe memori RAM",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan untuk RAM-nya pakai tipe LPDDR4X",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E054",
+      "lzeD_sBrCB0-E055",
+      "lzeD_sBrCB0-E057"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 94,
+      "segment_end_index": 94,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:34,329",
+    "timestamp_end": "00:05:39,430",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E057",
+    "topic": "performance",
+    "subtopic": "ufs-2-2",
+    "type": "FACT",
+    "claim": "Penyimpanan internal HP ini menggunakan tipe UFS 2.2",
+    "value": null,
+    "unit": null,
+    "attribute": "storage_type",
+    "attribute_value": "UFS 2.2",
+    "context": "Tipe penyimpanan internal",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan untuk penyimpanan internalnya pakai tipe UFS 2.2",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E054",
+      "lzeD_sBrCB0-E055",
+      "lzeD_sBrCB0-E056"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 95,
+      "segment_end_index": 95,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:39,589",
+    "timestamp_end": "00:05:43,750",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E058",
+    "topic": "performance",
+    "subtopic": "game-berat",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kecepatan transfer dan membuka game berat di HP ini lumayan mulus",
+    "value": null,
+    "unit": null,
+    "attribute": "user_experience",
+    "attribute_value": "lumayan mulus",
+    "context": "Performa kecepatan transfer dan membuka game berat",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Tentunya untuk speed transfer dan membuka game-game berat di HP ini udah lumayan mulus",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 96,
+      "segment_end_index": 96,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:05:43,750",
+    "timestamp_end": "00:05:49,870",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E059",
+    "topic": "benchmark",
+    "subtopic": "antutu-benchmark",
+    "type": "MEASUREMENT",
+    "claim": "Skor AnTuTu Benchmark versi 10 mencapai sekitar 609 ribuan",
+    "value": null,
+    "unit": null,
+    "attribute": "antutu_v10_score",
+    "attribute_value": "609 ribuan",
+    "context": "Pengujian AnTuTu Benchmark v10",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Pertama aku tes dengan menggunakan AnTuTu Benchmark versi 10. Dan di sini aku mendapatkan skor di 609 ribuan.",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E060",
+      "lzeD_sBrCB0-E061",
+      "lzeD_sBrCB0-E062"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 98,
+      "segment_end_index": 99,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:52,610",
+    "timestamp_end": "00:05:59,670",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E060",
+    "topic": "benchmark",
+    "subtopic": "single-core",
+    "type": "MEASUREMENT",
+    "claim": "Skor Geekbench 6 single-core mendapatkan angka 992",
+    "value": 992,
+    "unit": null,
+    "attribute": "geekbench6_single_core",
+    "attribute_value": null,
+    "context": "Pengujian Geekbench 6 single-core",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini mendapatkan skor di 992 untuk single core",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E059",
+      "lzeD_sBrCB0-E061",
+      "lzeD_sBrCB0-E062"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 102,
+      "segment_end_index": 102,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:07,170",
+    "timestamp_end": "00:06:13,029",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E061",
+    "topic": "benchmark",
+    "subtopic": "multi-core",
+    "type": "MEASUREMENT",
+    "claim": "Skor Geekbench 6 multi-core mendapatkan angka 2826",
+    "value": 2826,
+    "unit": null,
+    "attribute": "geekbench6_multi_core",
+    "attribute_value": null,
+    "context": "Pengujian Geekbench 6 multi-core",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan 2826. Untuk multi-core",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E059",
+      "lzeD_sBrCB0-E060",
+      "lzeD_sBrCB0-E062"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 102,
+      "segment_end_index": 103,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:07,170",
+    "timestamp_end": "00:06:14,810",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E062",
+    "topic": "benchmark",
+    "subtopic": "skor",
+    "type": "OPINION",
+    "claim": "Reviewer menilai skor benchmark yang didapatkan HP ini cukup tinggi",
+    "value": null,
+    "unit": null,
+    "attribute": "benchmark_evaluation",
+    "attribute_value": "cukup tinggi",
+    "context": "Evaluasi reviewer terhadap hasil benchmark",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Untuk skor yang didapatkan di HP ini cukup tinggi",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E059",
+      "lzeD_sBrCB0-E060",
+      "lzeD_sBrCB0-E061"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 104,
+      "segment_end_index": 104,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:14,810",
+    "timestamp_end": "00:06:17,889",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E063",
+    "topic": "camera",
+    "subtopic": "triple-camera",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki konfiguasi tiga kamera (triple camera) di bagian belakang",
+    "value": null,
+    "unit": null,
+    "attribute": "rear_camera_setup",
+    "attribute_value": "triple camera",
+    "context": "Konfigurasi kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G ini punya triple camera di bagian belakang",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E064",
+      "lzeD_sBrCB0-E065",
+      "lzeD_sBrCB0-E066"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 106,
+      "segment_end_index": 106,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:20,449",
+    "timestamp_end": "00:06:25,930",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E064",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "FACT",
+    "claim": "Kamera utama HP ini memiliki resolusi 50 MP",
+    "value": 50,
+    "unit": "MP",
+    "attribute": "main_camera_resolution",
+    "attribute_value": null,
+    "context": "Kamera utama belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera utama dengan resolusi 50 MP",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E063",
+      "lzeD_sBrCB0-E065",
+      "lzeD_sBrCB0-E066"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 107,
+      "segment_end_index": 107,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:25,930",
+    "timestamp_end": "00:06:30,529",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E065",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "FACT",
+    "claim": "Terdapat kamera ultrawide pada modul kamera belakang",
+    "value": null,
+    "unit": null,
+    "attribute": "has_ultrawide_camera",
+    "attribute_value": "true",
+    "context": "Lensa kamera ultrawide",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "di sini ada kamera ultrawide juga",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E063",
+      "lzeD_sBrCB0-E064",
+      "lzeD_sBrCB0-E066"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 108,
+      "segment_end_index": 108,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:30,529",
+    "timestamp_end": "00:06:34,870",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E066",
+    "topic": "camera",
+    "subtopic": "kamera-makro",
+    "type": "FACT",
+    "claim": "Terdapat satu kamera makro tambahan pada modul kamera belakang",
+    "value": null,
+    "unit": null,
+    "attribute": "has_macro_camera",
+    "attribute_value": "true",
+    "context": "Lensa kamera makro",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan ada satu tambahan kamera makro",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E063",
+      "lzeD_sBrCB0-E064",
+      "lzeD_sBrCB0-E065"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 109,
+      "segment_end_index": 109,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:34,870",
+    "timestamp_end": "00:06:37,610",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E067",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "FACT",
+    "claim": "Kamera selfie memiliki resolusi 13 MP",
+    "value": 13,
+    "unit": "MP",
+    "attribute": "selfie_camera_resolution",
+    "attribute_value": null,
+    "context": "Kamera depan HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera selfie, dia punya resolusi 13 MP",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 114,
+      "segment_end_index": 114,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:06:50,490",
+    "timestamp_end": "00:06:53,509",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E068",
+    "topic": "camera",
+    "subtopic": "image-stabilizer",
+    "type": "FACT",
+    "claim": "Fitur EIS atau Image Stabilizer sudah aktif di Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": "stabilization",
+    "attribute_value": "EIS",
+    "context": "Stabilisasi perekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk EIS atau Image Stabilizer tentunya sudah aktif di Samsung Galaxy A26 5G ini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 118,
+      "segment_end_index": 118,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:07,509",
+    "timestamp_end": "00:07:15,649",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E069",
+    "topic": "software",
+    "subtopic": "one-ui",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan sistem One UI versi 7",
+    "value": null,
+    "unit": null,
+    "attribute": "ui_version",
+    "attribute_value": "One UI 7",
+    "context": "Sistem antarmuka pengguna OS",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "OS Samsung Galaxy A26 5G ini sudah pakai One UI versi 7",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E070"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 119,
+      "segment_end_index": 119,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:15,649",
+    "timestamp_end": "00:07:22,009",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E070",
+    "topic": "software",
+    "subtopic": "android",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G berjalan menggunakan versi Android 15",
+    "value": null,
+    "unit": null,
+    "attribute": "android_version",
+    "attribute_value": "Android 15",
+    "context": "Versi sistem operasi Android",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan versi Android 15",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E069"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 119,
+      "segment_end_index": 119,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:15,649",
+    "timestamp_end": "00:07:22,009",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E071",
+    "topic": "software",
+    "subtopic": "security-update",
+    "type": "FACT",
+    "claim": "Pengguna dijanjikan mendapatkan jaminan security update selama 6 tahun",
+    "value": 6,
+    "unit": "tahun",
+    "attribute": "security_patch_years",
+    "attribute_value": null,
+    "context": "Dukungan pembaruan keamanan vendor",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "dijanjikan akan mendapatkan 6 tahun security update",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E072"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 120,
+      "segment_end_index": 120,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:22,009",
+    "timestamp_end": "00:07:28,170",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E072",
+    "topic": "software",
+    "subtopic": "os-update",
+    "type": "FACT",
+    "claim": "Pengguna dijanjikan mendapatkan pembaruan versi OS sebanyak 6 kali",
+    "value": 6,
+    "unit": "kali",
+    "attribute": "os_update_years",
+    "attribute_value": null,
+    "context": "Dukungan pembaruan OS vendor",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "dan 6 kali OS update",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E071"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 120,
+      "segment_end_index": 120,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:22,009",
+    "timestamp_end": "00:07:28,170",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E073",
+    "topic": "software",
+    "subtopic": "circle-to-search",
+    "type": "FACT",
+    "claim": "Fitur AI Circle to Search sudah tersedia pada HP ini",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_feature",
+    "attribute_value": "Circle to Search",
+    "context": "Fitur AI di One UI 7",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada fitur AI juga untuk Circle to Search di sini juga sudah ready",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 122,
+      "segment_end_index": 122,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:34,589",
+    "timestamp_end": "00:07:38,050",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E074",
+    "topic": "software",
+    "subtopic": "home-button",
+    "type": "FACT",
+    "claim": "Pengguna dapat tap dan tahan tombol home lalu melingkari objek yang ingin dicari",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_search_feature",
+    "attribute_value": "Circle to Search",
+    "context": "Fitur pencarian AI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kita bisa tap dan tahan pada home button. Dan di sini kita bisa lingkari saja objek yang ingin kita cari",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 123,
+      "segment_end_index": 124,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:07:38,050",
+    "timestamp_end": "00:07:44,490",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E075",
+    "topic": "software",
+    "subtopic": "galeri",
+    "type": "FACT",
+    "claim": "Fitur AI di galeri sudah tersedia pada Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": "ai_gallery_features",
+    "attribute_value": "tersedia",
+    "context": "Fitur AI di galeri",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Seperti fitur AI di galeri dan lain sebagainya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 126,
+      "segment_end_index": 126,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:47,769",
+    "timestamp_end": "00:07:51,209",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E076",
+    "topic": "software",
+    "subtopic": "fitur-fitur",
+    "type": "OPINION",
+    "claim": "Reviewer menilai fitur-fitur pada HP ini sudah cukup lengkap",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kelengkapan fitur HP secara umum",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Tentunya sudah cukup lengkap",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 129,
+      "segment_end_index": 129,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:57,230",
+    "timestamp_end": "00:08:01,110",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E077",
+    "topic": "connectivity",
+    "subtopic": "nfc",
+    "type": "FACT",
+    "claim": "Fitur NFC sudah tersedia pada Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": "nfc_support",
+    "attribute_value": "tersedia",
+    "context": "Konektivitas HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "untuk NFC juga sudah tersedia di HP ini",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 129,
+      "segment_end_index": 129,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:07:57,230",
+    "timestamp_end": "00:08:01,110",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E078",
+    "topic": "sensors",
+    "subtopic": "akselerometer",
+    "type": "FACT",
+    "claim": "Sensor akselerometer sudah tersedia pada HP ini",
+    "value": null,
+    "unit": null,
+    "attribute": "accelerometer",
+    "attribute_value": "tersedia",
+    "context": "Daftar sensor HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian ada akselerometer",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E079",
+      "lzeD_sBrCB0-E080",
+      "lzeD_sBrCB0-E081"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 130,
+      "segment_end_index": 130,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:01,110",
+    "timestamp_end": "00:08:04,410",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E079",
+    "topic": "sensors",
+    "subtopic": "gyroscope",
+    "type": "FACT",
+    "claim": "Sensor gyroscope sudah tersedia pada HP ini",
+    "value": null,
+    "unit": null,
+    "attribute": "gyroscope",
+    "attribute_value": "tersedia",
+    "context": "Daftar sensor HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "gyroscope",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E078",
+      "lzeD_sBrCB0-E080",
+      "lzeD_sBrCB0-E081"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 130,
+      "segment_end_index": 130,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:01,110",
+    "timestamp_end": "00:08:04,410",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E080",
+    "topic": "sensors",
+    "subtopic": "kompas",
+    "type": "FACT",
+    "claim": "Sensor kompas sudah tersedia pada HP ini",
+    "value": null,
+    "unit": null,
+    "attribute": "compass",
+    "attribute_value": "tersedia",
+    "context": "Daftar sensor HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kompas",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E078",
+      "lzeD_sBrCB0-E079",
+      "lzeD_sBrCB0-E081"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 130,
+      "segment_end_index": 130,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:01,110",
+    "timestamp_end": "00:08:04,410",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E081",
+    "topic": "sensors",
+    "subtopic": "virtual-proximity",
+    "type": "FACT",
+    "claim": "Virtual proximity sensor sudah tersedia pada HP ini",
+    "value": null,
+    "unit": null,
+    "attribute": "proximity_sensor_type",
+    "attribute_value": "virtual proximity",
+    "context": "Daftar sensor HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kemudian virtual proximity juga sudah ready di HP ini",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E078",
+      "lzeD_sBrCB0-E079",
+      "lzeD_sBrCB0-E080"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 131,
+      "segment_end_index": 131,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:04,410",
+    "timestamp_end": "00:08:07,870",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E082",
+    "topic": "battery",
+    "subtopic": "baterai",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki kapasitas baterai sebesar 5000 mAh",
+    "value": 5000,
+    "unit": "mAh",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kapasitas baterai HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP ini punya kapasitas 5000 mAh",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 132,
+      "segment_end_index": 132,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:07,870",
+    "timestamp_end": "00:08:11,009",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E083",
+    "topic": "charging",
+    "subtopic": "pengecasan",
+    "type": "FACT",
+    "claim": "Daya pengecasan Samsung Galaxy A26 5G mendukung hingga 25 W",
+    "value": 25,
+    "unit": "W",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kecepatan/daya pengisian daya HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan pengecasannya bisa hingga 25 W",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 133,
+      "segment_end_index": 133,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:11,009",
+    "timestamp_end": "00:08:13,870",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E084",
+    "topic": "retail-package",
+    "subtopic": "kepala-charger",
+    "type": "FACT",
+    "claim": "Paket penjualan tidak menyertakan kepala charger",
+    "value": null,
+    "unit": null,
+    "attribute": "charger_included",
+    "attribute_value": "false",
+    "context": "Isi paket penjualan HP",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kalau kita tidak mendapatkan kepala charger",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 135,
+      "segment_end_index": 135,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:16,209",
+    "timestamp_end": "00:08:18,750",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E085",
+    "topic": "accessories",
+    "subtopic": "kepala-charger",
+    "type": "OPINION",
+    "claim": "Reviewer menilai harga kepala charger terpisah tergolong lumayan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pembelian kepala charger terpisah",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Dan untuk kepala chargernya tentunya harganya juga lumayan",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E086"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 137,
+      "segment_end_index": 137,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:23,230",
+    "timestamp_end": "00:08:26,990",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  },
+  {
+    "evidence_id": "lzeD_sBrCB0-E086",
+    "topic": "accessories",
+    "subtopic": "kepala-charger",
+    "type": "FACT",
+    "claim": "Harga kepala charger terpisah bisa mencapai hingga 200 ribu rupiah",
+    "value": 200,
+    "unit": "ribu",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Harga pasar aksesoris kepala charger",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Bisa hingga 200 ribuan",
+    "related_evidence_ids": [
+      "lzeD_sBrCB0-E085"
+    ],
+    "source_coordinates": {
+      "chunk_index": 3,
+      "segment_start_index": 138,
+      "segment_end_index": 138,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:08:26,990",
+    "timestamp_end": "00:08:28,790",
+    "source": "rizkinhk",
+    "review_id": "lzeD_sBrCB0",
+    "video_url": "https://www.youtube.com/watch?v=lzeD_sBrCB0",
+    "video_title": "Unboxing Samsung A26 5G"
+  }
+]

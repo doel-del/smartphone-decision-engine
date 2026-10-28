@@ -1,0 +1,2958 @@
+[
+  {
+    "evidence_id": "gSntdYI3GSs-E001",
+    "topic": "display",
+    "subtopic": "infinity-u",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan desain layar Infinity-U",
+    "value": null,
+    "unit": null,
+    "attribute": "notch_type",
+    "attribute_value": "Infinity-U",
+    "context": "Desain layar depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Masih menggunakan Infinity-U",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 15,
+      "segment_end_index": 15,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:26,399",
+    "timestamp_end": "00:00:29,219",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E002",
+    "topic": "display",
+    "subtopic": "dagu",
+    "type": "OPINION",
+    "claim": "Reviewer menilai bagian dagu Samsung Galaxy A26 5G masih cukup tebal",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Tampilan depan layar",
+    "comparison_target": null,
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Dan juga bagian dagunya masih cukup tebal",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 16,
+      "segment_end_index": 16,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:29,219",
+    "timestamp_end": "00:00:31,780",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E003",
+    "topic": "display",
+    "subtopic": "bezel",
+    "type": "COMPARISON",
+    "claim": "Bezel Samsung Galaxy A26 5G lebih tipis dibanding A25",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan bezel layar dengan pendahulu",
+    "comparison_target": "A25",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Sebenarnya si bezel-bezel handphone ini. Bisa dibilang sudah lebih tipis ya",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 19,
+      "segment_end_index": 20,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:35,780",
+    "timestamp_end": "00:00:40,640",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E004",
+    "topic": "display",
+    "subtopic": "ukuran-layar",
+    "type": "COMPARISON",
+    "claim": "Samsung Galaxy A26 5G memiliki ukuran layar lebih besar daripada pendahulunya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan ukuran layar dengan pendahulu",
+    "comparison_target": "pendahulunya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Punya ukuran layar yang lebih besar daripada pendahulunya",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E005"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 26,
+      "segment_end_index": 26,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:51,979",
+    "timestamp_end": "00:00:55,179",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E005",
+    "topic": "display",
+    "subtopic": "ukuran-layar",
+    "type": "MEASUREMENT",
+    "claim": "Samsung Galaxy A26 5G memiliki ukuran layar 6,7 inci",
+    "value": 6.7,
+    "unit": "inci",
+    "attribute": "screen_size",
+    "attribute_value": null,
+    "context": "Spesifikasi ukuran layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Sekarang di 6,7 inci",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E004"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 27,
+      "segment_end_index": 27,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:00:55,179",
+    "timestamp_end": "00:00:58,020",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E006",
+    "topic": "display",
+    "subtopic": "super-amoled",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan panel layar Super AMOLED",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_type",
+    "attribute_value": "Super AMOLED",
+    "context": "Spesifikasi panel layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Masih menggunakan panel Super AMOLED",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 28,
+      "segment_end_index": 28,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:58,020",
+    "timestamp_end": "00:01:04,420",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E007",
+    "topic": "display",
+    "subtopic": "refresh-rate",
+    "type": "MEASUREMENT",
+    "claim": "Samsung Galaxy A26 5G mendukung refresh rate layar 120Hz",
+    "value": 120,
+    "unit": "Hz",
+    "attribute": "refresh_rate",
+    "attribute_value": null,
+    "context": "Spesifikasi refresh rate layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan refresh rate 120Hz",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 28,
+      "segment_end_index": 28,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:58,020",
+    "timestamp_end": "00:01:04,420",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E008",
+    "topic": "display",
+    "subtopic": "resolusi",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G memiliki resolusi layar FHD+",
+    "value": null,
+    "unit": null,
+    "attribute": "screen_resolution",
+    "attribute_value": "FHD+",
+    "context": "Spesifikasi resolusi layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan resolusi FHD+",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 28,
+      "segment_end_index": 28,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:00:58,020",
+    "timestamp_end": "00:01:04,420",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E009",
+    "topic": "design",
+    "subtopic": "kaca",
+    "type": "FACT",
+    "claim": "Kaca bagian depan dan bodi bagian belakang Samsung Galaxy A26 5G menggunakan material kaca",
+    "value": null,
+    "unit": null,
+    "attribute": "material_type",
+    "attribute_value": "glass",
+    "context": "Material bodi depan dan belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "yaitu kaca bagian depannya dan juga bodi bagian belakangnya. Yang sama-sama sudah menggunakan glass atau kaca",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E010"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 29,
+      "segment_end_index": 30,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:04,420",
+    "timestamp_end": "00:01:13,640",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E010",
+    "topic": "durability",
+    "subtopic": "corning-gorilla-glass",
+    "type": "FACT",
+    "claim": "Bodi kaca depan dan belakang Samsung Galaxy A26 5G dilindungi Corning Gorilla Glass Victus+",
+    "value": null,
+    "unit": null,
+    "attribute": "protection_type",
+    "attribute_value": "Corning Gorilla Glass Victus+",
+    "context": "Perlindungan bodi depan dan belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ini dilindungi oleh perlindungan Corning Gorilla Glass Victus+",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E009"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 31,
+      "segment_end_index": 31,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:14,200",
+    "timestamp_end": "00:01:18,719",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E011",
+    "topic": "design",
+    "subtopic": "bobot",
+    "type": "COMPARISON",
+    "claim": "Bobot Samsung Galaxy A26 5G secara umum sama dengan pendahulunya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan bobot perangkat",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Sama sebenarnya secara bobot",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 34,
+      "segment_end_index": 34,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:27,939",
+    "timestamp_end": "00:01:29,620",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E012",
+    "topic": "design",
+    "subtopic": "dimensi",
+    "type": "COMPARISON",
+    "claim": "Dimensi Samsung Galaxy A26 5G lebih tipis dibanding pendahulunya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perbandingan ketebalan dimensi perangkat",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Tapi dengan dimensinya yang lebih tipis",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:29,620",
+    "timestamp_end": "00:01:31,819",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E013",
+    "topic": "design",
+    "subtopic": "feel",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Samsung Galaxy A26 5G terasa lebih enak dipegang di tangan",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kenyamanan genggaman tangan",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G jadi kayak lebih enak dipegang di tangan",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:31,819",
+    "timestamp_end": "00:01:35,319",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E014",
+    "topic": "pricing",
+    "subtopic": "pengurangan-harga",
+    "type": "OPINION",
+    "claim": "Reviewer menyambut positif adanya pengurangan harga pada Samsung Galaxy A26 5G",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Perubahan strategi harga perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Ada satu buah pengurangan yang bikin kita happy dari Samsung Galaxy A26 5G. Yaitu adalah pengurangan harga",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 43,
+      "segment_end_index": 44,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:59,200",
+    "timestamp_end": "00:02:05,040",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E015",
+    "topic": "pricing",
+    "subtopic": "harga",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A25 5G dirilis dengan harga mulai dari Rp 3.999.000",
+    "value": null,
+    "unit": null,
+    "context": "Harga rilis generasi sebelumnya",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Tahun lalu, Samsung Galaxy A25 5G itu dirilis mulai dari harga Rp 3.999.000",
+    "attribute": "release_price",
+    "attribute_value": "Rp 3.999.000",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 45,
+      "segment_end_index": 45,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:05,040",
+    "timestamp_end": "00:02:14,659",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E016",
+    "topic": "performance",
+    "subtopic": "ram",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dibekali RAM berkapasitas 8 GB",
+    "value": 8,
+    "unit": "GB",
+    "context": "Spesifikasi memori produk",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi hanya ada yang RAM 8 GB",
+    "attribute": "ram_capacity",
+    "attribute_value": "8 GB",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E017"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 47,
+      "segment_end_index": 47,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:19,840",
+    "timestamp_end": "00:02:25,460",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E017",
+    "topic": "performance",
+    "subtopic": "storage",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dibekali storage berkapasitas 256 GB",
+    "value": 256,
+    "unit": "GB",
+    "context": "Spesifikasi penyimpanan produk",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan storage 256 GB",
+    "attribute": "storage_capacity",
+    "attribute_value": "256 GB",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E016"
+    ],
+    "source_coordinates": null,
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "PROVENANCE",
+          "reason": "source_excerpt ambiguous, lebih dari satu kemungkinan occurrence",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": null,
+    "timestamp_end": null,
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E018",
+    "topic": "pricing",
+    "subtopic": "3.999.000",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G varian 8/256 GB dibanderol dengan harga Rp 3.999.000",
+    "value": null,
+    "unit": null,
+    "context": "Harga resmi Samsung Galaxy A26 5G",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Melainkan 3.999.000 atau 4 juta kurang seribu untuk yang varian RAM 8 GB dan storage 256 GB",
+    "attribute": "price",
+    "attribute_value": "Rp 3.999.000",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E015"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 48,
+      "segment_end_index": 48,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:25,539",
+    "timestamp_end": "00:02:30,500",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E019",
+    "topic": "performance",
+    "subtopic": "chipset",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menggunakan chipset Exynos 1380",
+    "value": null,
+    "unit": null,
+    "context": "Spesifikasi chipset produk",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G itu udah pake chipset Exynos 1380",
+    "attribute": "chipset",
+    "attribute_value": "Exynos 1380",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E020",
+      "gSntdYI3GSs-E021"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 53,
+      "segment_end_index": 53,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:44,759",
+    "timestamp_end": "00:02:50,800",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E020",
+    "topic": "performance",
+    "subtopic": "chipset",
+    "type": "OPINION",
+    "claim": "Reviewer menilai chipset Exynos 1380 menawarkan peningkatan yang jauh lebih baik dibandingkan Exynos 1280",
+    "value": null,
+    "unit": null,
+    "context": "Perbandingan performa chipset generasi baru vs lama",
+    "comparison_target": "Exynos 1280",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Satu buah chipset yang bisa gue bilang ini punya peningkatan jauh lebih baik dibandingkan dengan Exynos 1280",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E019",
+      "gSntdYI3GSs-E021"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 54,
+      "segment_end_index": 54,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:51,360",
+    "timestamp_end": "00:02:57,460",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E021",
+    "topic": "comparison",
+    "subtopic": "samsung-galaxy-a25",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A25 generasi sebelumnya menggunakan chipset Exynos 1280",
+    "value": null,
+    "unit": null,
+    "context": "Chipset perangkat generasi sebelumnya",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Yang digunakan Samsung Galaxy A25 di tahun lalu",
+    "attribute": "chipset",
+    "attribute_value": "Exynos 1280",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E019",
+      "gSntdYI3GSs-E020"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 55,
+      "segment_end_index": 55,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:57,460",
+    "timestamp_end": "00:03:01,280",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E022",
+    "topic": "benchmark",
+    "subtopic": "antutu-nya",
+    "type": "MEASUREMENT",
+    "claim": "Peningkatan skor AnTuTu Samsung Galaxy A26 5G dibanding generasi sebelumnya mencapai hampir 50%",
+    "value": 50,
+    "unit": "%",
+    "context": "Perbandingan hasil benchmark AnTuTu",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Di saat gue coba compare dari hasil AnTuTu-nya aja, peningkatannya ini ada di angka hampir 50%",
+    "attribute": "antutu_score_increase",
+    "attribute_value": "hampir 50%",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E023",
+      "gSntdYI3GSs-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 56,
+      "segment_end_index": 56,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:01,280",
+    "timestamp_end": "00:03:08,439",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E023",
+    "topic": "benchmark",
+    "subtopic": "antutu",
+    "type": "MEASUREMENT",
+    "claim": "Skor benchmark AnTuTu Samsung Galaxy A26 5G berada di angka 600.000-an",
+    "value": null,
+    "unit": null,
+    "context": "Hasil pengujian AnTuTu A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Hasil benchmark gue AnTuTu itu ada di angka 600.000-an",
+    "attribute": "antutu_score",
+    "attribute_value": "600.000-an",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E022",
+      "gSntdYI3GSs-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:08,439",
+    "timestamp_end": "00:03:12,039",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E024",
+    "topic": "benchmark",
+    "subtopic": "antutu",
+    "type": "MEASUREMENT",
+    "claim": "Skor benchmark AnTuTu Galaxy A25 generasi lalu berada di angka 400.000-an",
+    "value": null,
+    "unit": null,
+    "context": "Hasil pengujian AnTuTu A25 tahun lalu",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Sementara yang tahun lalu itu masih bermain di 400.000-an",
+    "attribute": "antutu_score",
+    "attribute_value": "400.000-an",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E022",
+      "gSntdYI3GSs-E023"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 58,
+      "segment_end_index": 58,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:12,039",
+    "timestamp_end": "00:03:15,139",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E025",
+    "topic": "benchmark",
+    "subtopic": "angka",
+    "type": "OPINION",
+    "claim": "Reviewer menilai pencapaian skor benchmark AnTuTu A26 5G sangat menarik",
+    "value": null,
+    "unit": null,
+    "context": "Penilaian reviewer terhadap peningkatan skor benchmark",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Jadi ini ada satu buah angka yang bisa gue bilang sangat menarik ya",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E022",
+      "gSntdYI3GSs-E023"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 59,
+      "segment_end_index": 59,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:15,139",
+    "timestamp_end": "00:03:18,800",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E026",
+    "topic": "durability",
+    "subtopic": "ip67",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G sudah dilengkapi sertifikasi IP67",
+    "value": null,
+    "unit": null,
+    "context": "Ketahanan terhadap air dan debu",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Kali ini sudah punya yang namanya sertifikasi IP67",
+    "attribute": "certification",
+    "attribute_value": "IP67",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 71,
+      "segment_end_index": 71,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:58,439",
+    "timestamp_end": "00:04:02,180",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E027",
+    "topic": "battery",
+    "subtopic": "baterainya",
+    "type": "FACT",
+    "claim": "Kapasitas tipikal baterai Samsung Galaxy A26 5G sebesar 5000 mAh",
+    "value": 5000,
+    "unit": "mAh",
+    "context": "Spesifikasi kapasitas baterai",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "5000 mAh untuk tipikal besaran baterainya",
+    "attribute": "battery_capacity",
+    "attribute_value": "5000 mAh",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E028"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 73,
+      "segment_end_index": 73,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:06,439",
+    "timestamp_end": "00:04:11,360",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E028",
+    "topic": "charging",
+    "subtopic": "charging-speed",
+    "type": "FACT",
+    "claim": "Kecepatan pengisian daya Samsung Galaxy A26 5G mencapai 25 Watt",
+    "value": 25,
+    "unit": "W",
+    "context": "Spesifikasi daya pengisian baterai",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan charging speed 25 Watt",
+    "attribute": "charging_speed",
+    "attribute_value": "25 Watt",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E027"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 73,
+      "segment_end_index": 73,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:06,439",
+    "timestamp_end": "00:04:11,360",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E029",
+    "topic": "performance",
+    "subtopic": "cooling-system",
+    "type": "CLAIM",
+    "claim": "Cooling system Samsung Galaxy A26 5G diklaim berukuran lebih besar dibanding generasi sebelumnya",
+    "value": null,
+    "unit": null,
+    "context": "Sistem pendingin perangkat",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "Katanya, cooling system-nya lebih besar dibandingkan dengan yang tahun lalu",
+    "attribute": "cooling_system",
+    "attribute_value": "lebih besar",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 76,
+      "segment_end_index": 76,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:17,199",
+    "timestamp_end": "00:04:20,459",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E030",
+    "topic": "retail-package",
+    "subtopic": "packaging",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G menghadirkan kemasan kemitraan khusus bersama game Free Fire pada masa promo awal",
+    "value": null,
+    "unit": null,
+    "context": "Paket penjualan promo awal",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Samsung Galaxy A26 5G itu ada packaging bareng dengan Free Fire",
+    "attribute": "special_packaging",
+    "attribute_value": "Free Fire",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E031"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 80,
+      "segment_end_index": 80,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:31,740",
+    "timestamp_end": "00:04:36,279",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E031",
+    "topic": "retail-package",
+    "subtopic": "skin-khusus",
+    "type": "FACT",
+    "claim": "Pembelian Samsung Galaxy A26 5G pada masa promo memberikan keuntungan berupa skin khusus Free Fire",
+    "value": null,
+    "unit": null,
+    "context": "Bonus pembelian promo awal Free Fire",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dimana lo bisa mendapatkan skin khusus kalau lo membeli Samsung Galaxy A26 5G ini",
+    "attribute": "bonus_item",
+    "attribute_value": "skin khusus Free Fire",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E030"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 81,
+      "segment_end_index": 81,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:36,279",
+    "timestamp_end": "00:04:41,180",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E034",
+    "topic": "software",
+    "subtopic": "intelligent-features",
+    "type": "COMPARISON",
+    "claim": "Fitur Intelligent Features pada Samsung Galaxy A26 5G tidak se-extensive seri Samsung di atasnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kelengkapan Intelligent Features pada One UI 7 di Samsung Galaxy A26 5G",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Walaupun tidak se-extensive kakak-kakaknya.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 86,
+      "segment_end_index": 86,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:52,740",
+    "timestamp_end": "00:04:55,199",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E035",
+    "topic": "software",
+    "subtopic": "remaster",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung fitur Intelligent Feature Remaster",
+    "value": null,
+    "unit": null,
+    "attribute": "feature_name",
+    "attribute_value": "Remaster",
+    "context": "Fitur Intelligent Features pada Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Seperti Remaster, Object Eraser, Circle to Search, AI Select.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E036",
+      "gSntdYI3GSs-E037",
+      "gSntdYI3GSs-E038",
+      "gSntdYI3GSs-E039",
+      "gSntdYI3GSs-E042"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 88,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:57,019",
+    "timestamp_end": "00:05:02,360",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E036",
+    "topic": "software",
+    "subtopic": "object-eraser",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung fitur Intelligent Feature Object Eraser",
+    "value": null,
+    "unit": null,
+    "attribute": "feature_name",
+    "attribute_value": "Object Eraser",
+    "context": "Fitur Intelligent Features pada Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Seperti Remaster, Object Eraser, Circle to Search, AI Select.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E035",
+      "gSntdYI3GSs-E037",
+      "gSntdYI3GSs-E038",
+      "gSntdYI3GSs-E039",
+      "gSntdYI3GSs-E040"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 88,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:57,019",
+    "timestamp_end": "00:05:02,360",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E037",
+    "topic": "software",
+    "subtopic": "circle-to-search",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung fitur Circle to Search",
+    "value": null,
+    "unit": null,
+    "attribute": "feature_name",
+    "attribute_value": "Circle to Search",
+    "context": "Fitur Intelligent Features pada Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Seperti Remaster, Object Eraser, Circle to Search, AI Select.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E035",
+      "gSntdYI3GSs-E036",
+      "gSntdYI3GSs-E038",
+      "gSntdYI3GSs-E039"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 88,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:57,019",
+    "timestamp_end": "00:05:02,360",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E038",
+    "topic": "software",
+    "subtopic": "ai-select",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung fitur AI Select",
+    "value": null,
+    "unit": null,
+    "attribute": "feature_name",
+    "attribute_value": "AI Select",
+    "context": "Fitur Intelligent Features pada Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Seperti Remaster, Object Eraser, Circle to Search, AI Select.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E035",
+      "gSntdYI3GSs-E036",
+      "gSntdYI3GSs-E037",
+      "gSntdYI3GSs-E039"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 88,
+      "segment_end_index": 88,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:57,019",
+    "timestamp_end": "00:05:02,360",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E039",
+    "topic": "software",
+    "subtopic": "edit-suggestion",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendukung fitur Edit Suggestion",
+    "value": null,
+    "unit": null,
+    "attribute": "feature_name",
+    "attribute_value": "Edit Suggestion",
+    "context": "Fitur Intelligent Features pada Samsung Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan juga Edit Suggestion.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E035",
+      "gSntdYI3GSs-E036",
+      "gSntdYI3GSs-E037",
+      "gSntdYI3GSs-E038",
+      "gSntdYI3GSs-E041"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 89,
+      "segment_end_index": 89,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:02,360",
+    "timestamp_end": "00:05:04,980",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E040",
+    "topic": "software",
+    "subtopic": "object-eraser",
+    "type": "OPINION",
+    "claim": "Reviewer menilai fitur Object Eraser bekerja dengan baik untuk menghapus orang di latar belakang foto",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian langsung fitur Object Eraser pada galeri foto",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Pake Object Eraser, bekerja dengan baik, surprisingly.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E036"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 98,
+      "segment_end_index": 98,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:23,980",
+    "timestamp_end": "00:05:27,540",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E041",
+    "topic": "software",
+    "subtopic": "edit-suggestion",
+    "type": "OPINION",
+    "claim": "Reviewer menilai fitur Edit Suggestion untuk memberikan efek blur pada foto bekerja dengan baik",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian langsung fitur Edit Suggestion efek blur di galeri",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Terus gue coba pake Edit Suggestion, gue blur. Again, doing well.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E039"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 99,
+      "segment_end_index": 100,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:27,540",
+    "timestamp_end": "00:05:32,839",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  },
+  {
+    "evidence_id": "gSntdYI3GSs-E042",
+    "topic": "software",
+    "subtopic": "remaster",
+    "type": "OBSERVATION",
+    "claim": "Penggunaan fitur Remaster menunjukkan adanya perbedaan hasil pada foto yang diuji",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Pengujian fitur Remaster pada galeri foto",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Gue coba untuk remaster. Hasilnya juga bisa dibilang ini ada perbedaannya.",
+    "related_evidence_ids": [
+      "gSntdYI3GSs-E035"
+    ],
+    "source_coordinates": {
+      "chunk_index": 2,
+      "segment_start_index": 102,
+      "segment_end_index": 103,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:05:36,259",
+    "timestamp_end": "00:05:41,459",
+    "source": "Taufik Nobo",
+    "review_id": "gSntdYI3GSs",
+    "video_url": "https://www.youtube.com/watch?v=gSntdYI3GSs",
+    "video_title": "Hands On Samsung Galaxy A26 5G Resmi Indonesia"
+  }
+]

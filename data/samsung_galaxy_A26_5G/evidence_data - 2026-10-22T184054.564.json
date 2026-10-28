@@ -1,0 +1,4210 @@
+[
+  {
+    "evidence_id": "Bmgp2VZufRY-E001",
+    "topic": "pricing",
+    "subtopic": "harga-normalnya",
+    "type": "FACT",
+    "claim": "Harga normal Samsung Galaxy A26 5G adalah Rp 4,2 juta",
+    "value": 4.2,
+    "unit": "juta",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Harga normal Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 5G harga normalnya itu Rp 4,2 juta.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E002"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 7,
+      "segment_end_index": 7,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:00:26,260",
+    "timestamp_end": "00:00:30,719",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E002",
+    "topic": "pricing",
+    "subtopic": "potongan-harga",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G mendapatkan potongan harga menjadi Rp 3.999.000",
+    "value": 3.999,
+    "unit": "juta",
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Harga diskon Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Tapi langsung diberikan potongan harga. Jadi Rp 3.999.000.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E001"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 8,
+      "segment_end_index": 9,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:30,719",
+    "timestamp_end": "00:00:36,280",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E003",
+    "topic": "performance",
+    "subtopic": "ram",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi dengan RAM 8 GB",
+    "value": 8,
+    "unit": "GB",
+    "attribute": "ram_capacity",
+    "attribute_value": null,
+    "context": "Varian memori Galaxy A26 5G di Indonesia",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dengan RAM 8 GB dan storage 256 GB.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E004"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:38,000",
+    "timestamp_end": "00:00:42,820",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E004",
+    "topic": "performance",
+    "subtopic": "storage",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G dilengkapi dengan storage 256 GB",
+    "value": 256,
+    "unit": "GB",
+    "attribute": "storage_capacity",
+    "attribute_value": null,
+    "context": "Varian memori Galaxy A26 5G di Indonesia",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dengan RAM 8 GB dan storage 256 GB.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E003"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 11,
+      "segment_end_index": 11,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:38,000",
+    "timestamp_end": "00:00:42,820",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E005",
+    "topic": "retail-package",
+    "subtopic": "collab",
+    "type": "FACT",
+    "claim": "Samsung Galaxy A26 5G di Indonesia berkolaborasi dengan Free Fire",
+    "value": null,
+    "unit": null,
+    "attribute": "collaboration",
+    "attribute_value": "Free Fire",
+    "context": "Edisi khusus/kemasan Galaxy A26 5G di Indonesia",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Jadi di Indonesia Galaxy A26 5G collab dengan Free Fire.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E006",
+      "Bmgp2VZufRY-E007"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 12,
+      "segment_end_index": 12,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:42,820",
+    "timestamp_end": "00:00:47,759",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E006",
+    "topic": "retail-package",
+    "subtopic": "box-originalnya",
+    "type": "FACT",
+    "claim": "Box original Galaxy A26 5G memiliki cover dengan desain salah satu hero Free Fire",
+    "value": null,
+    "unit": null,
+    "attribute": "box_design",
+    "attribute_value": "Free Fire Hero Cover",
+    "context": "Desain kemasan Galaxy A26 5G edisi Free Fire",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Box originalnya diberikan cover dengan desain salah satu hero dari Free Fire.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E005",
+      "Bmgp2VZufRY-E007"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 13,
+      "segment_end_index": 13,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:47,759",
+    "timestamp_end": "00:00:52,979",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E007",
+    "topic": "retail-package",
+    "subtopic": "desain-cover-box-nya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain cover box Galaxy A26 5G keren banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian terhadap desain box kolaborasi Free Fire",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Yang punya desain menurut kita ini keren banget ya. Untuk desain cover box-nya.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E006"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 14,
+      "segment_end_index": 15,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:00:52,979",
+    "timestamp_end": "00:00:57,479",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E008",
+    "topic": "design",
+    "subtopic": "pilihan-warna",
+    "type": "FACT",
+    "claim": "Galaxy A26 5G hadir dengan opsi warna Black resmi di Indonesia",
+    "value": null,
+    "unit": null,
+    "attribute": "color_option",
+    "attribute_value": "Black",
+    "context": "Pilihan warna resmi Galaxy A26 5G di Indonesia",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada black, mint, dan pink.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 17,
+      "segment_end_index": 17,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:02,840",
+    "timestamp_end": "00:01:05,640",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E011",
+    "topic": "design",
+    "subtopic": "warna-pink-nya",
+    "type": "OPINION",
+    "claim": "Reviewer menyukai warna Pink karena dinilai lucu, cute, dan gemesin banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Penilaian warna favorit reviewer",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Warna pink-nya ini lucu, cute, dan gemesin banget.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E008"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 19,
+      "segment_end_index": 19,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 3+ item — enumeration (bukan compound faktual)",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:08,239",
+    "timestamp_end": "00:01:11,159",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E012",
+    "topic": "design",
+    "subtopic": "bahasa-desain",
+    "type": "FACT",
+    "claim": "Galaxy A26 memiliki bahasa desain Samsung A-series terbaru yang sama seperti Galaxy A36 dan A56",
+    "value": null,
+    "unit": null,
+    "attribute": "design_language",
+    "attribute_value": "Samsung A-series terbaru",
+    "context": "Bahasa desain Samsung A-series",
+    "comparison_target": "Galaxy A36 dan Galaxy A56",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 punya bahasa desain Samsung A-series terbaru. Yang sama seperti yang ada di Galaxy A36 dan A56.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 21,
+      "segment_end_index": 22,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:14,540",
+    "timestamp_end": "00:01:22,439",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E013",
+    "topic": "design",
+    "subtopic": "desain-frame-kameranya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain frame kamera Galaxy A26 fresh dan ikonik banget",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain modul kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "desainnya itu fresh dan ikonik banget.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E014"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 24,
+      "segment_end_index": 24,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:24,420",
+    "timestamp_end": "00:01:26,939",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E014",
+    "topic": "design",
+    "subtopic": "lensa-kameranya",
+    "type": "OBSERVATION",
+    "claim": "Ketiga lensa kamera belakang Galaxy A26 disatukan ke dalam satu frame",
+    "value": null,
+    "unit": null,
+    "attribute": "camera_housing",
+    "attribute_value": "single frame",
+    "context": "Tata letak lensa kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Yang posisi ketiga lensa kameranya disatukan ke satu frame seperti ini.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E013"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 25,
+      "segment_end_index": 26,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:26,939",
+    "timestamp_end": "00:01:31,400",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E015",
+    "topic": "durability",
+    "subtopic": "proteksi-bodi",
+    "type": "FACT",
+    "claim": "Galaxy A26 kini dilengkapi dengan sertifikasi proteksi bodi IP67",
+    "value": null,
+    "unit": null,
+    "attribute": "certification",
+    "attribute_value": "IP67",
+    "context": "Ketahanan air dan debu",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 sekarang udah punya proteksi bodi IP67.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 27,
+      "segment_end_index": 27,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:31,959",
+    "timestamp_end": "00:01:35,879",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E016",
+    "topic": "design",
+    "subtopic": "desain-key-island",
+    "type": "FACT",
+    "claim": "Galaxy A26 mempertahankan desain key island di sisi bodinya",
+    "value": null,
+    "unit": null,
+    "attribute": "side_design",
+    "attribute_value": "Key Island",
+    "context": "Desain tombol dan bodi samping",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Desain key island yang ada di sisi bodinya ini juga masih dipertahankan ya.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 28,
+      "segment_end_index": 29,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:36,599",
+    "timestamp_end": "00:01:40,739",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E017",
+    "topic": "design",
+    "subtopic": "sudut-sudutnya",
+    "type": "OBSERVATION",
+    "claim": "Sudut-sudut bodi Galaxy A26 dibuat lebih membulat",
+    "value": null,
+    "unit": null,
+    "attribute": "corner_design",
+    "attribute_value": "rounded",
+    "context": "Bentuk sudut bodi",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Tapi sekarang sudut-sudutnya itu dibuat lebih membulat.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E018"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 30,
+      "segment_end_index": 31,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:41,159",
+    "timestamp_end": "00:01:44,799",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E018",
+    "topic": "design",
+    "subtopic": "saat-dipegang",
+    "type": "OPINION",
+    "claim": "Reviewer menilai sudut bodi yang membulat terasa lebih nyaman banget saat dipegang",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Kenyamanan genggaman bodi",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Yang efeknya jadi lebih nyaman banget saat dipegang.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E017"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 32,
+      "segment_end_index": 32,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:44,799",
+    "timestamp_end": "00:01:48,079",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E019",
+    "topic": "durability",
+    "subtopic": "material-backcase-nya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai mantap penggunaan material Gorilla Glass Victus+ pada backcase",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Material bodi belakang",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Nah, mantapnya untuk material backcase-nya",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E020"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 33,
+      "segment_end_index": 33,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:48,420",
+    "timestamp_end": "00:01:51,319",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E020",
+    "topic": "durability",
+    "subtopic": "material-backcase-nya",
+    "type": "FACT",
+    "claim": "Material backcase Galaxy A26 menggunakan Gorilla Glass Victus+",
+    "value": null,
+    "unit": null,
+    "attribute": "back_material",
+    "attribute_value": "Gorilla Glass Victus+",
+    "context": "Material bodi belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "sekarang sudah pakai material Gorilla Glass Victus+.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E019",
+      "Bmgp2VZufRY-E021"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 34,
+      "segment_end_index": 34,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:51,319",
+    "timestamp_end": "00:01:54,900",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E021",
+    "topic": "durability",
+    "subtopic": "layar-depannya",
+    "type": "FACT",
+    "claim": "Layar depan Galaxy A26 menggunakan proteksi Gorilla Glass Victus+",
+    "value": null,
+    "unit": null,
+    "attribute": "screen_protection",
+    "attribute_value": "Gorilla Glass Victus+",
+    "context": "Proteksi kaca layar depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Yang sama dengan yang ada di bagian layar depannya.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E020"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 35,
+      "segment_end_index": 35,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Indikasi compound ringan, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:01:54,900",
+    "timestamp_end": "00:01:58,480",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E022",
+    "topic": "design",
+    "subtopic": "frame-body",
+    "type": "FACT",
+    "claim": "Frame bodi Galaxy A26 terbuat dari material polikarbonat",
+    "value": null,
+    "unit": null,
+    "attribute": "frame_material",
+    "attribute_value": "polikarbonat",
+    "context": "Material rangka bodi",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dengan frame body dari polikarbonat.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 36,
+      "segment_end_index": 36,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:01:58,480",
+    "timestamp_end": "00:02:01,579",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E023",
+    "topic": "display",
+    "subtopic": "luas-layarnya",
+    "type": "MEASUREMENT",
+    "claim": "Ukuran layar Galaxy A26 membesar menjadi 6,7 inci",
+    "value": 6.7,
+    "unit": "inci",
+    "attribute": "screen_size",
+    "attribute_value": null,
+    "context": "Ukuran bentang layar",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Luas layarnya sekarang membesar. Jadi di 6,7 inci,",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 38,
+      "segment_end_index": 39,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "SUSPECT",
+          "rule": "ATOMICITY",
+          "reason": "Comma-list 2 item, perlu review manual",
+          "severity": "MEDIUM"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID_WITH_NORMALIZATION"
+    },
+    "timestamp_start": "00:02:04,340",
+    "timestamp_end": "00:02:07,900",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E024",
+    "topic": "display",
+    "subtopic": "super-amoled",
+    "type": "FACT",
+    "claim": "Layar Galaxy A26 menggunakan panel Super AMOLED",
+    "value": null,
+    "unit": null,
+    "attribute": "panel_type",
+    "attribute_value": "Super AMOLED",
+    "context": "Tipe panel layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Full HD Super AMOLED",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E025"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 40,
+      "segment_end_index": 40,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:08,419",
+    "timestamp_end": "00:02:10,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E025",
+    "topic": "display",
+    "subtopic": "full-hd",
+    "type": "FACT",
+    "claim": "Layar Galaxy A26 mengusung resolusi Full HD",
+    "value": null,
+    "unit": null,
+    "attribute": "resolution",
+    "attribute_value": "Full HD",
+    "context": "Resolusi layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Full HD Super AMOLED",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E024"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 40,
+      "segment_end_index": 40,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:08,419",
+    "timestamp_end": "00:02:10,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E026",
+    "topic": "display",
+    "subtopic": "120-hz",
+    "type": "MEASUREMENT",
+    "claim": "Layar Galaxy A26 mendukung refresh rate 120 Hz",
+    "value": 120,
+    "unit": "Hz",
+    "attribute": "refresh_rate",
+    "attribute_value": null,
+    "context": "Refresh rate layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan sudah 120 Hz.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 41,
+      "segment_end_index": 41,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:10,020",
+    "timestamp_end": "00:02:11,900",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E027",
+    "topic": "display",
+    "subtopic": "desain-notch-nya",
+    "type": "OPINION",
+    "claim": "Reviewer menyayangkan desain notch layar yang belum menggunakan punch hole",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Desain poni/notch layar",
+    "comparison_target": "ekspektasi",
+    "reviewer_assessment": "negative",
+    "certainty": "explicit",
+    "source_excerpt": "Tapi sayangnya untuk desain notch-nya ini",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E028"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 42,
+      "segment_end_index": 42,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:12,400",
+    "timestamp_end": "00:02:14,759",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E028",
+    "topic": "display",
+    "subtopic": "desain-notch-nya",
+    "type": "FACT",
+    "claim": "Desain notch Galaxy A26 belum menggunakan Punch Hole",
+    "value": null,
+    "unit": null,
+    "attribute": "notch_design",
+    "attribute_value": "non-punch hole",
+    "context": "Desain poni/notch layar",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "belum punya desain punch hole ya.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E027"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 43,
+      "segment_end_index": 43,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:14,759",
+    "timestamp_end": "00:02:16,599",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E029",
+    "topic": "performance",
+    "subtopic": "prosesornya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai prosesor Galaxy A26 jauh lebih powerful dibandingkan generasi sebelumnya",
+    "value": null,
+    "unit": null,
+    "attribute": null,
+    "attribute_value": null,
+    "context": "Peningkatan Performa Prosesor",
+    "comparison_target": "generasi sebelumnya",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Prosesornya sekarang jadi jauh lebih powerful dibandingkan generasi sebelumnya.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E030"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 44,
+      "segment_end_index": 45,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:17,139",
+    "timestamp_end": "00:02:21,860",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E030",
+    "topic": "performance",
+    "subtopic": "prosesor",
+    "type": "FACT",
+    "claim": "Galaxy A26 5G ditenagai oleh prosesor Exynos 1380",
+    "value": null,
+    "unit": null,
+    "attribute": "chipset",
+    "attribute_value": "Exynos 1380",
+    "context": "Spesifikasi chipset/prosesor",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 5G sekarang sudah pakai prosesor Exynos 1380.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E029",
+      "Bmgp2VZufRY-E031"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 46,
+      "segment_end_index": 46,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:21,860",
+    "timestamp_end": "00:02:27,599",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E031",
+    "topic": "comparison",
+    "subtopic": "prosesor",
+    "type": "COMPARISON",
+    "claim": "Exynos 1380 pada Galaxy A26 5G adalah prosesor yang sama dengan yang ada di Galaxy A35",
+    "value": null,
+    "unit": null,
+    "attribute": "chipset_parity",
+    "attribute_value": "Galaxy A35",
+    "context": "Perbandingan chipset dengan model Samsung lain",
+    "comparison_target": "Galaxy A35",
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ini tuh prosesor yang sama yang ada di Galaxy A35.",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E030"
+    ],
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 47,
+      "segment_end_index": 47,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:27,599",
+    "timestamp_end": "00:02:31,879",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E035",
+    "topic": "software",
+    "subtopic": "one-ui",
+    "type": "FACT",
+    "claim": "Galaxy A26 menggunakan antarmuka One UI 7",
+    "value": null,
+    "unit": null,
+    "context": "Sistem operasi dan antarmuka bawaan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 juga sudah pakai One UI terbaru versi One UI 7",
+    "attribute": "os_version",
+    "attribute_value": "One UI 7",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 49,
+      "segment_end_index": 49,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:36,400",
+    "timestamp_end": "00:02:41,319",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E036",
+    "topic": "software",
+    "subtopic": "android",
+    "type": "FACT",
+    "claim": "Galaxy A26 menggunakan sistem operasi Android 15",
+    "value": null,
+    "unit": null,
+    "context": "Sistem operasi bawaan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dengan Android 15",
+    "attribute": "android_version",
+    "attribute_value": "Android 15",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 50,
+      "segment_end_index": 50,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:41,319",
+    "timestamp_end": "00:02:43,340",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E037",
+    "topic": "software",
+    "subtopic": "update-software",
+    "type": "FACT",
+    "claim": "Samsung memberikan jaminan major update software hingga 6 kali untuk Galaxy A26",
+    "value": 6,
+    "unit": "kali",
+    "context": "Jaminan pembaruan perangkat lunak",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "claimed_by_vendor",
+    "source_excerpt": "Dan Samsung sudah memberikan jaminan major update software sampai 6 kali",
+    "attribute": "os_update_times",
+    "attribute_value": "6 kali",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E038",
+      "Bmgp2VZufRY-E039",
+      "Bmgp2VZufRY-E040"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 51,
+      "segment_end_index": 51,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:43,340",
+    "timestamp_end": "00:02:48,800",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E038",
+    "topic": "software",
+    "subtopic": "android",
+    "type": "FACT",
+    "claim": "Galaxy A26 akan mendapatkan pembaruan hingga Android 21",
+    "value": null,
+    "unit": null,
+    "context": "Proyeksi pembaruan Android",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Yang artinya Galaxy A26 bisa dapet update sampai Android 21",
+    "attribute": "max_android_version",
+    "attribute_value": "Android 21",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E037"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 52,
+      "segment_end_index": 52,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:48,800",
+    "timestamp_end": "00:02:57,539",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E039",
+    "topic": "software",
+    "subtopic": "one-ui",
+    "type": "FACT",
+    "claim": "Galaxy A26 akan mendapatkan pembaruan hingga One UI versi 13",
+    "value": null,
+    "unit": null,
+    "context": "Proyeksi pembaruan antarmuka One UI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan One UI versi 13",
+    "attribute": "max_one_ui_version",
+    "attribute_value": "One UI versi 13",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E037"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 52,
+      "segment_end_index": 52,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:48,800",
+    "timestamp_end": "00:02:57,539",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E040",
+    "topic": "software",
+    "subtopic": "samsung",
+    "type": "OPINION",
+    "claim": "Reviewer menilai jaminan update software 6 kali saat ini hanya dapat dilakukan oleh Samsung",
+    "value": null,
+    "unit": null,
+    "context": "Dukungan update software jangka panjang",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "Ini sih sesuatu yang saat ini cuma Samsung aja ya yang bisa",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E037"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 53,
+      "segment_end_index": 53,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:02:57,919",
+    "timestamp_end": "00:03:02,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E041",
+    "topic": "software",
+    "subtopic": "awesome-intelligence",
+    "type": "FACT",
+    "claim": "Galaxy A26 dilengkapi fitur Awesome Intelligence",
+    "value": null,
+    "unit": null,
+    "context": "Fitur kecerdasan buatan software",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Galaxy A26 juga sekarang sudah punya fitur Awesome Intelligence",
+    "attribute": "ai_feature",
+    "attribute_value": "Awesome Intelligence",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 54,
+      "segment_end_index": 54,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:02,379",
+    "timestamp_end": "00:03:06,659",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E042",
+    "topic": "software",
+    "subtopic": "circle-to-search",
+    "type": "FACT",
+    "claim": "Galaxy A26 memiliki fitur AI Circle to Search",
+    "value": null,
+    "unit": null,
+    "context": "Fitur pencarian informasi berbantuan AI",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ada fitur AI Circle to Search",
+    "attribute": "ai_feature",
+    "attribute_value": "Circle to Search",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E043"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 55,
+      "segment_end_index": 55,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:06,960",
+    "timestamp_end": "00:03:15,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E043",
+    "topic": "software",
+    "subtopic": "mencari-informasi",
+    "type": "OPINION",
+    "claim": "Reviewer menilai fitur Circle to Search berguna banget untuk mencari informasi",
+    "value": null,
+    "unit": null,
+    "context": "Kegunaan fitur Circle to Search",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "fitur favorit banyak orang yang berguna banget untuk kita bisa mencari informasi apapun",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E042"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 55,
+      "segment_end_index": 55,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:06,960",
+    "timestamp_end": "00:03:15,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E044",
+    "topic": "software",
+    "subtopic": "object-eraser",
+    "type": "FACT",
+    "claim": "Galaxy A26 memiliki fitur Object Eraser",
+    "value": null,
+    "unit": null,
+    "context": "Fitur editan foto bawaan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dan udah kebagian fitur Object Eraser juga",
+    "attribute": "software_feature",
+    "attribute_value": "Object Eraser",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E045"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 56,
+      "segment_end_index": 56,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:15,020",
+    "timestamp_end": "00:03:18,780",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E045",
+    "topic": "software",
+    "subtopic": "mantapnya",
+    "type": "OPINION",
+    "claim": "Reviewer menilai hadirnya fitur Object Eraser di Galaxy A26 mantap",
+    "value": null,
+    "unit": null,
+    "context": "Kehadiran fitur Object Eraser",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "nih mantapnya",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E044"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 56,
+      "segment_end_index": 56,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:15,020",
+    "timestamp_end": "00:03:18,780",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E046",
+    "topic": "camera",
+    "subtopic": "kamera-utama",
+    "type": "FACT",
+    "claim": "Kamera utama Galaxy A26 beresolusi 50 MP",
+    "value": 50,
+    "unit": "MP",
+    "context": "Spesifikasi kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "kamera utamanya itu ada di 50 MP",
+    "attribute": "main_camera_resolution",
+    "attribute_value": "50 MP",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E047",
+      "Bmgp2VZufRY-E048"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:18,800",
+    "timestamp_end": "00:03:28,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E047",
+    "topic": "camera",
+    "subtopic": "kamera-ultrawide",
+    "type": "FACT",
+    "claim": "Kamera ultrawide Galaxy A26 beresolusi 8 MP",
+    "value": 8,
+    "unit": "MP",
+    "context": "Spesifikasi kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "ada kamera ultrawide 8 MP",
+    "attribute": "ultrawide_camera_resolution",
+    "attribute_value": "8 MP",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E046",
+      "Bmgp2VZufRY-E048"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:18,800",
+    "timestamp_end": "00:03:28,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E048",
+    "topic": "camera",
+    "subtopic": "kamera-makro",
+    "type": "FACT",
+    "claim": "Kamera makro Galaxy A26 beresolusi 5 MP",
+    "value": 5,
+    "unit": "MP",
+    "context": "Spesifikasi kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "dan ada kamera makro 5 MP",
+    "attribute": "macro_camera_resolution",
+    "attribute_value": "5 MP",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E046",
+      "Bmgp2VZufRY-E047"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 57,
+      "segment_end_index": 57,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:18,800",
+    "timestamp_end": "00:03:28,020",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E049",
+    "topic": "camera",
+    "subtopic": "kamera-selfie",
+    "type": "FACT",
+    "claim": "Kamera selfie Galaxy A26 beresolusi 13 MP",
+    "value": 13,
+    "unit": "MP",
+    "context": "Spesifikasi kamera depan",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk kamera selfie-nya, ada di 13 MP",
+    "attribute": "front_camera_resolution",
+    "attribute_value": "13 MP",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 58,
+      "segment_end_index": 58,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:28,439",
+    "timestamp_end": "00:03:31,240",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E050",
+    "topic": "camera",
+    "subtopic": "perekaman",
+    "type": "FACT",
+    "claim": "Resolusi perekaman video maksimal Galaxy A26 adalah Full HD 30 fps",
+    "value": null,
+    "unit": null,
+    "context": "Kemampuan perekaman video kamera belakang",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ya, untuk maksimalnya nih, bisa di Full HD 30 fps",
+    "attribute": "max_video_resolution",
+    "attribute_value": "Full HD 30 fps",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 61,
+      "segment_end_index": 61,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:54,300",
+    "timestamp_end": "00:03:57,560",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E051",
+    "topic": "camera",
+    "subtopic": "lensa-ultrawide",
+    "type": "FACT",
+    "claim": "Perekaman video Galaxy A26 dapat berpindah ke lensa ultrawide",
+    "value": null,
+    "unit": null,
+    "context": "Fitur pergantian lensa saat rekaman video",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Ya, dia juga bisa pindah ke lensa ultrawide ya",
+    "attribute": "video_lens_switching",
+    "attribute_value": "lensa ultrawide",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E052"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 62,
+      "segment_end_index": 62,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:03:57,560",
+    "timestamp_end": "00:04:03,780",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E052",
+    "topic": "camera",
+    "subtopic": "lensa-ultrawidenya",
+    "type": "FACT",
+    "claim": "Perekaman video menggunakan lensa ultrawide berjalan pada resolusi Full HD 30 fps",
+    "value": null,
+    "unit": null,
+    "context": "Resolusi video pada lensa ultrawide",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Pindah ke lensa ultrawidenya nih. Di resolusi Full HD 30 fps",
+    "attribute": "ultrawide_video_resolution",
+    "attribute_value": "Full HD 30 fps",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E051"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 64,
+      "segment_end_index": 65,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:05,419",
+    "timestamp_end": "00:04:10,439",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E053",
+    "topic": "battery",
+    "subtopic": "baterainya",
+    "type": "FACT",
+    "claim": "Kapasitas baterai Galaxy A26 sebesar 5000 mAh",
+    "value": 5000,
+    "unit": "mAh",
+    "context": "Kapasitas baterai perangkat",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Untuk baterainya masih ada di 5000 mAh",
+    "attribute": "battery_capacity",
+    "attribute_value": "5000 mAh",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 66,
+      "segment_end_index": 66,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:10,439",
+    "timestamp_end": "00:04:13,639",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E054",
+    "topic": "charging",
+    "subtopic": "pengecasan",
+    "type": "FACT",
+    "claim": "Daya pengisian daya Galaxy A26 mendukung hingga 25 Watt",
+    "value": 25,
+    "unit": "W",
+    "context": "Kecepatan pengisian daya",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dengan input pengecasan di 25 Watt",
+    "attribute": "charging_power",
+    "attribute_value": "25 Watt",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 67,
+      "segment_end_index": 67,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:13,639",
+    "timestamp_end": "00:04:16,319",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E055",
+    "topic": "pricing",
+    "subtopic": "3-jutaan",
+    "type": "FACT",
+    "claim": "Galaxy A26 merupakan HP terbaru Samsung di kelas harga 3 jutaan",
+    "value": 3,
+    "unit": "juta",
+    "context": "Positioning harga Galaxy A26 5G",
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "HP 3 jutaan terbaru Samsung",
+    "attribute": "price_segment",
+    "attribute_value": "3 jutaan",
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E056"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 75,
+      "segment_end_index": 75,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:30,720",
+    "timestamp_end": "00:04:32,779",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E056",
+    "topic": "pricing",
+    "subtopic": "value",
+    "type": "OPINION",
+    "claim": "Reviewer menilai Galaxy A26 memiliki value yang oke banget",
+    "value": null,
+    "unit": null,
+    "context": "Penilaian value-for-money pada kesimpulan awal",
+    "comparison_target": "kelas harga",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "yang punya value yang oke banget",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E055"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 76,
+      "segment_end_index": 76,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:32,779",
+    "timestamp_end": "00:04:35,060",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E057",
+    "topic": "design",
+    "subtopic": "desain",
+    "type": "OPINION",
+    "claim": "Reviewer menilai desain Galaxy A26 cakep",
+    "value": null,
+    "unit": null,
+    "context": "Penilaian desain pada kesimpulan awal",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "punya desain yang cakep",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 77,
+      "segment_end_index": 77,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:35,060",
+    "timestamp_end": "00:04:36,819",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E058",
+    "topic": "performance",
+    "subtopic": "prosesor",
+    "type": "OPINION",
+    "claim": "Reviewer menilai prosesor Galaxy A26 powerful",
+    "value": null,
+    "unit": null,
+    "context": "Penilaian performa prosesor pada kesimpulan awal",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "prosesor powerful",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 78,
+      "segment_end_index": 78,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:36,819",
+    "timestamp_end": "00:04:40,199",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E059",
+    "topic": "software",
+    "subtopic": "update",
+    "type": "OPINION",
+    "claim": "Reviewer menilai jaminan update software Galaxy A26 super panjang",
+    "value": null,
+    "unit": null,
+    "context": "Penilaian jaminan pembaruan perangkat lunak",
+    "comparison_target": "standar industri",
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "dengan jaminan update super panjang",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E037"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 78,
+      "segment_end_index": 78,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:36,819",
+    "timestamp_end": "00:04:40,199",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E060",
+    "topic": "camera",
+    "subtopic": "kualitas-kamera",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kualitas kamera Galaxy A26 cakep",
+    "value": null,
+    "unit": null,
+    "context": "Penilaian kualitas kamera pada kesimpulan awal",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "dan kualitas kamera yang cakep",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E061"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 79,
+      "segment_end_index": 79,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:40,199",
+    "timestamp_end": "00:04:43,639",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E061",
+    "topic": "camera",
+    "subtopic": "kamera",
+    "type": "OPINION",
+    "claim": "Reviewer menilai kamera Galaxy A26 dapat diandalkan",
+    "value": null,
+    "unit": null,
+    "context": "Penilaian keandalan kamera pada kesimpulan awal",
+    "comparison_target": null,
+    "reviewer_assessment": "positive",
+    "certainty": "explicit",
+    "source_excerpt": "dan bisa diandalkan",
+    "attribute": null,
+    "attribute_value": null,
+    "related_evidence_ids": [
+      "Bmgp2VZufRY-E060"
+    ],
+    "source_coordinates": {
+      "chunk_index": 1,
+      "segment_start_index": 79,
+      "segment_end_index": 79,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "timestamp_start": "00:04:40,199",
+    "timestamp_end": "00:04:43,639",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  },
+  {
+    "evidence_id": "Bmgp2VZufRY-E032",
+    "topic": "benchmark",
+    "subtopic": null,
+    "type": "MEASUREMENT",
+    "claim": "Skor AnTuTu Galaxy A26 5G menembus angka 600.000",
+    "value": 600000,
+    "unit": null,
+    "attribute": "antutu_score",
+    "attribute_value": "600.000",
+    "context": null,
+    "comparison_target": null,
+    "reviewer_assessment": null,
+    "certainty": "explicit",
+    "source_excerpt": "Dengan skor AnTuTu yang tembus di angka 600.000.",
+    "related_evidence_ids": null,
+    "source_coordinates": {
+      "chunk_index": 0,
+      "segment_start_index": 48,
+      "segment_end_index": 48,
+      "char_start": null,
+      "char_end": null
+    },
+    "validation": {
+      "accepted": true,
+      "results": [
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "GROUNDING",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "PROVENANCE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ASSESSMENT",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "VALUE",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "ATOMICITY",
+          "severity": "LOW"
+        },
+        {
+          "pass": true,
+          "status": "PASS",
+          "rule": "TIMESTAMP",
+          "severity": "LOW"
+        }
+      ],
+      "finalStatus": "VALID"
+    },
+    "merged_subtopics": [
+      "antutu"
+    ],
+    "merged_from_evidence_ids": [
+      "Bmgp2VZufRY-E032",
+      "Bmgp2VZufRY-E034"
+    ],
+    "timestamp_start": "00:02:31,879",
+    "timestamp_end": "00:02:36,400",
+    "source": "Gadgetpedia",
+    "review_id": "Bmgp2VZufRY",
+    "video_url": "https://www.youtube.com/watch?v=Bmgp2VZufRY",
+    "video_title": "3 JUTAAN‼️COBAIN SAMSUNG GALAXY A26 5G TERBARU😍"
+  }
+]
