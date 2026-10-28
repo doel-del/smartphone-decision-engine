@@ -1,0 +1,21 @@
+{
+  "goldenVersion": "1.0.1",
+  "capturedAt": "2026-10-23T14:10:00.000Z",
+  "notes": "Baseline skor setelah fix F-23 (unit normalization untuk price). Score turun dari 3.8 ke 3.7 karena promo bonus 0.6 yang salah (raw 3.8 < 3,500,000) dikoreksi menjadi 0.3 (normalized 3,800,000 < 4,000,000). Ini bug fix, bukan rule change.",
+  "rulesetVersion": "v1.0.1-deterministic-prd",
+  "evidenceDatasetVersion": "v1.0.0-multi-source-indonesia",
+  "overallScore": 3.7,
+  "decisionLabel": "Direkomendasikan dengan pertimbangan",
+  "decisionStatus": "PUBLISHED",
+  "confidenceLabel": "MEDIUM",
+  "coveragePercent": 100,
+  "criteriaScores": {
+    "price_and_value":           { "score": 3.2, "isRated": true },
+    "performance_and_gaming":    { "score": 3.6, "isRated": true },
+    "battery_and_charging":      { "score": 3.3, "isRated": true },
+    "software_and_security":     { "score": 4.4, "isRated": true },
+    "display_and_design":        { "score": 3.6, "isRated": true },
+    "camera":                    { "score": 3.6, "isRated": true },
+    "durability_and_protection": { "score": 4.3, "isRated": true }
+  }
+}
